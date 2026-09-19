@@ -1,0 +1,5001 @@
+Doctor_ID,Doctor_Name,Specialty,Department,Experience_Years
+110001,Dr_0,Neurology,Diagnostics,31
+110002,Dr_1,Oncology,Outpatient,20
+110003,Dr_2,Neurology,Surgery,28
+110004,Dr_3,Oncology,Diagnostics,14
+110005,Dr_4,Dermatology,Diagnostics,25
+110006,Dr_5,Neurology,Emergency,28
+110007,Dr_6,Neurology,Outpatient,35
+110008,Dr_7,General Medicine,Outpatient,25
+110009,Dr_8,General Medicine,Emergency,32
+110010,Dr_9,Neurology,Outpatient,7
+110011,Dr_10,ENT,Diagnostics,33
+110012,Dr_11,Dermatology,Emergency,21
+110013,Dr_12,General Medicine,Outpatient,1
+110014,Dr_13,Dermatology,Medicine,13
+110015,Dr_14,Cardiology,Emergency,4
+110016,Dr_15,General Medicine,Medicine,9
+110017,Dr_16,ENT,Emergency,19
+110018,Dr_17,Orthopedics,Diagnostics,29
+110019,Dr_18,Neurology,Outpatient,2
+110020,Dr_19,Neurology,Diagnostics,34
+110021,Dr_20,ENT,Surgery,15
+110022,Dr_21,Neurology,Outpatient,14
+110023,Dr_22,ENT,Emergency,35
+110024,Dr_23,General Medicine,Outpatient,19
+110025,Dr_24,Pediatrics,Outpatient,2
+110026,Dr_25,Cardiology,Emergency,3
+110027,Dr_26,ENT,Medicine,21
+110028,Dr_27,Neurology,Outpatient,4
+110029,Dr_28,ENT,Surgery,5
+110030,Dr_29,General Medicine,Outpatient,19
+110031,Dr_30,Cardiology,Diagnostics,21
+110032,Dr_31,Oncology,Medicine,3
+110033,Dr_32,Orthopedics,Outpatient,16
+110034,Dr_33,General Medicine,Outpatient,11
+110035,Dr_34,Pediatrics,Emergency,15
+110036,Dr_35,General Medicine,Diagnostics,7
+110037,Dr_36,Neurology,Emergency,11
+110038,Dr_37,Pediatrics,Emergency,35
+110039,Dr_38,ENT,Diagnostics,26
+110040,Dr_39,Neurology,Diagnostics,16
+110041,Dr_40,Dermatology,Diagnostics,7
+110042,Dr_41,Oncology,Medicine,33
+110043,Dr_42,Dermatology,Surgery,35
+110044,Dr_43,ENT,Medicine,33
+110045,Dr_44,Oncology,Diagnostics,33
+110046,Dr_45,Orthopedics,Emergency,7
+110047,Dr_46,Orthopedics,Emergency,35
+110048,Dr_47,Cardiology,Medicine,25
+110049,Dr_48,Oncology,Diagnostics,31
+110050,Dr_49,General Medicine,Medicine,13
+110051,Dr_50,ENT,Diagnostics,28
+110052,Dr_51,Neurology,Diagnostics,5
+110053,Dr_52,General Medicine,Surgery,35
+110054,Dr_53,Neurology,Outpatient,13
+110055,Dr_54,General Medicine,Surgery,12
+110056,Dr_55,Pediatrics,Emergency,22
+110057,Dr_56,Cardiology,Outpatient,13
+110058,Dr_57,ENT,Outpatient,27
+110059,Dr_58,General Medicine,Emergency,20
+110060,Dr_59,Dermatology,Surgery,12
+110061,Dr_60,Oncology,Outpatient,35
+110062,Dr_61,Pediatrics,Diagnostics,2
+110063,Dr_62,Pediatrics,Outpatient,24
+110064,Dr_63,ENT,Diagnostics,29
+110065,Dr_64,Oncology,Surgery,17
+110066,Dr_65,Pediatrics,Diagnostics,30
+110067,Dr_66,Cardiology,Diagnostics,21
+110068,Dr_67,Orthopedics,Medicine,7
+110069,Dr_68,Dermatology,Surgery,17
+110070,Dr_69,Oncology,Surgery,4
+110071,Dr_70,Neurology,Diagnostics,16
+110072,Dr_71,Neurology,Diagnostics,31
+110073,Dr_72,Oncology,Outpatient,20
+110074,Dr_73,Oncology,Emergency,33
+110075,Dr_74,Pediatrics,Medicine,6
+110076,Dr_75,Neurology,Surgery,22
+110077,Dr_76,Oncology,Surgery,31
+110078,Dr_77,General Medicine,Diagnostics,34
+110079,Dr_78,Orthopedics,Surgery,14
+110080,Dr_79,ENT,Diagnostics,6
+110081,Dr_80,Neurology,Diagnostics,9
+110082,Dr_81,Oncology,Medicine,28
+110083,Dr_82,Oncology,Surgery,5
+110084,Dr_83,Cardiology,Outpatient,27
+110085,Dr_84,Dermatology,Outpatient,29
+110086,Dr_85,Cardiology,Diagnostics,25
+110087,Dr_86,Neurology,Outpatient,16
+110088,Dr_87,Neurology,Medicine,10
+110089,Dr_88,ENT,Emergency,24
+110090,Dr_89,Dermatology,Diagnostics,32
+110091,Dr_90,Pediatrics,Diagnostics,25
+110092,Dr_91,General Medicine,Emergency,32
+110093,Dr_92,ENT,Surgery,22
+110094,Dr_93,Pediatrics,Outpatient,23
+110095,Dr_94,Oncology,Medicine,13
+110096,Dr_95,Dermatology,Surgery,27
+110097,Dr_96,Dermatology,Outpatient,10
+110098,Dr_97,Dermatology,Surgery,14
+110099,Dr_98,Oncology,Diagnostics,14
+110100,Dr_99,Dermatology,Diagnostics,20
+110101,Dr_100,Neurology,Outpatient,8
+110102,Dr_101,Neurology,Diagnostics,11
+110103,Dr_102,ENT,Outpatient,4
+110104,Dr_103,Cardiology,Medicine,1
+110105,Dr_104,Cardiology,Emergency,16
+110106,Dr_105,Neurology,Surgery,12
+110107,Dr_106,Dermatology,Emergency,26
+110108,Dr_107,Dermatology,Outpatient,35
+110109,Dr_108,General Medicine,Surgery,35
+110110,Dr_109,Pediatrics,Surgery,5
+110111,Dr_110,Orthopedics,Emergency,30
+110112,Dr_111,Dermatology,Emergency,11
+110113,Dr_112,ENT,Diagnostics,2
+110114,Dr_113,Oncology,Diagnostics,35
+110115,Dr_114,ENT,Emergency,2
+110116,Dr_115,Pediatrics,Diagnostics,30
+110117,Dr_116,Neurology,Outpatient,8
+110118,Dr_117,ENT,Emergency,35
+110119,Dr_118,ENT,Surgery,2
+110120,Dr_119,Cardiology,Diagnostics,7
+110121,Dr_120,Orthopedics,Surgery,3
+110122,Dr_121,Orthopedics,Medicine,12
+110123,Dr_122,Oncology,Outpatient,31
+110124,Dr_123,General Medicine,Medicine,1
+110125,Dr_124,General Medicine,Diagnostics,1
+110126,Dr_125,Neurology,Medicine,2
+110127,Dr_126,Oncology,Diagnostics,34
+110128,Dr_127,Dermatology,Surgery,22
+110129,Dr_128,Orthopedics,Outpatient,1
+110130,Dr_129,Pediatrics,Medicine,1
+110131,Dr_130,Oncology,Emergency,29
+110132,Dr_131,Oncology,Diagnostics,10
+110133,Dr_132,General Medicine,Outpatient,28
+110134,Dr_133,Orthopedics,Medicine,6
+110135,Dr_134,General Medicine,Medicine,10
+110136,Dr_135,Orthopedics,Medicine,17
+110137,Dr_136,Orthopedics,Diagnostics,3
+110138,Dr_137,General Medicine,Emergency,25
+110139,Dr_138,Pediatrics,Diagnostics,8
+110140,Dr_139,Orthopedics,Diagnostics,4
+110141,Dr_140,Orthopedics,Medicine,13
+110142,Dr_141,Cardiology,Surgery,31
+110143,Dr_142,General Medicine,Outpatient,4
+110144,Dr_143,ENT,Medicine,31
+110145,Dr_144,Pediatrics,Emergency,13
+110146,Dr_145,General Medicine,Emergency,21
+110147,Dr_146,ENT,Surgery,16
+110148,Dr_147,ENT,Surgery,23
+110149,Dr_148,Oncology,Medicine,24
+110150,Dr_149,Dermatology,Medicine,6
+110151,Dr_150,ENT,Medicine,26
+110152,Dr_151,Pediatrics,Outpatient,18
+110153,Dr_152,Orthopedics,Diagnostics,24
+110154,Dr_153,ENT,Medicine,10
+110155,Dr_154,Dermatology,Diagnostics,34
+110156,Dr_155,Oncology,Surgery,24
+110157,Dr_156,General Medicine,Diagnostics,29
+110158,Dr_157,General Medicine,Diagnostics,33
+110159,Dr_158,Oncology,Outpatient,12
+110160,Dr_159,Pediatrics,Diagnostics,5
+110161,Dr_160,Cardiology,Surgery,24
+110162,Dr_161,ENT,Outpatient,6
+110163,Dr_162,Orthopedics,Medicine,13
+110164,Dr_163,Oncology,Surgery,17
+110165,Dr_164,Oncology,Emergency,16
+110166,Dr_165,Oncology,Emergency,19
+110167,Dr_166,Neurology,Surgery,20
+110168,Dr_167,Oncology,Emergency,16
+110169,Dr_168,Neurology,Outpatient,23
+110170,Dr_169,Orthopedics,Surgery,1
+110171,Dr_170,General Medicine,Surgery,17
+110172,Dr_171,Pediatrics,Emergency,32
+110173,Dr_172,Pediatrics,Diagnostics,1
+110174,Dr_173,General Medicine,Diagnostics,3
+110175,Dr_174,Neurology,Medicine,26
+110176,Dr_175,ENT,Diagnostics,13
+110177,Dr_176,Oncology,Surgery,2
+110178,Dr_177,General Medicine,Emergency,26
+110179,Dr_178,Orthopedics,Surgery,11
+110180,Dr_179,Orthopedics,Outpatient,15
+110181,Dr_180,Dermatology,Medicine,3
+110182,Dr_181,Cardiology,Surgery,5
+110183,Dr_182,Oncology,Emergency,5
+110184,Dr_183,General Medicine,Outpatient,8
+110185,Dr_184,Neurology,Medicine,2
+110186,Dr_185,Pediatrics,Emergency,22
+110187,Dr_186,Oncology,Medicine,8
+110188,Dr_187,Neurology,Emergency,24
+110189,Dr_188,ENT,Medicine,9
+110190,Dr_189,ENT,Emergency,14
+110191,Dr_190,Orthopedics,Surgery,27
+110192,Dr_191,Cardiology,Medicine,24
+110193,Dr_192,General Medicine,Emergency,7
+110194,Dr_193,ENT,Medicine,22
+110195,Dr_194,Cardiology,Outpatient,23
+110196,Dr_195,Orthopedics,Emergency,33
+110197,Dr_196,Neurology,Diagnostics,6
+110198,Dr_197,Oncology,Outpatient,15
+110199,Dr_198,Neurology,Outpatient,3
+110200,Dr_199,Cardiology,Diagnostics,28
+110201,Dr_200,Cardiology,Outpatient,8
+110202,Dr_201,Pediatrics,Surgery,34
+110203,Dr_202,Oncology,Surgery,28
+110204,Dr_203,General Medicine,Medicine,14
+110205,Dr_204,Neurology,Emergency,4
+110206,Dr_205,Oncology,Emergency,7
+110207,Dr_206,Neurology,Emergency,5
+110208,Dr_207,Orthopedics,Medicine,27
+110209,Dr_208,Cardiology,Emergency,25
+110210,Dr_209,Cardiology,Outpatient,27
+110211,Dr_210,General Medicine,Surgery,10
+110212,Dr_211,Dermatology,Emergency,32
+110213,Dr_212,Cardiology,Outpatient,16
+110214,Dr_213,General Medicine,Emergency,28
+110215,Dr_214,Cardiology,Outpatient,12
+110216,Dr_215,Neurology,Outpatient,16
+110217,Dr_216,Oncology,Surgery,4
+110218,Dr_217,Orthopedics,Diagnostics,5
+110219,Dr_218,Pediatrics,Medicine,5
+110220,Dr_219,Cardiology,Diagnostics,9
+110221,Dr_220,ENT,Emergency,3
+110222,Dr_221,ENT,Diagnostics,8
+110223,Dr_222,Oncology,Medicine,28
+110224,Dr_223,Dermatology,Outpatient,7
+110225,Dr_224,Dermatology,Diagnostics,10
+110226,Dr_225,Dermatology,Medicine,35
+110227,Dr_226,Pediatrics,Diagnostics,14
+110228,Dr_227,Oncology,Medicine,28
+110229,Dr_228,General Medicine,Medicine,16
+110230,Dr_229,ENT,Medicine,29
+110231,Dr_230,Oncology,Surgery,20
+110232,Dr_231,Cardiology,Surgery,15
+110233,Dr_232,Oncology,Surgery,16
+110234,Dr_233,Dermatology,Outpatient,30
+110235,Dr_234,Neurology,Emergency,23
+110236,Dr_235,ENT,Surgery,27
+110237,Dr_236,General Medicine,Diagnostics,23
+110238,Dr_237,Dermatology,Outpatient,27
+110239,Dr_238,General Medicine,Emergency,20
+110240,Dr_239,Cardiology,Diagnostics,25
+110241,Dr_240,ENT,Outpatient,12
+110242,Dr_241,ENT,Outpatient,31
+110243,Dr_242,Orthopedics,Medicine,7
+110244,Dr_243,Neurology,Medicine,19
+110245,Dr_244,General Medicine,Emergency,34
+110246,Dr_245,Cardiology,Diagnostics,1
+110247,Dr_246,Neurology,Medicine,7
+110248,Dr_247,ENT,Diagnostics,17
+110249,Dr_248,Cardiology,Diagnostics,6
+110250,Dr_249,Pediatrics,Outpatient,14
+110251,Dr_250,General Medicine,Outpatient,6
+110252,Dr_251,Oncology,Outpatient,6
+110253,Dr_252,Cardiology,Emergency,12
+110254,Dr_253,General Medicine,Outpatient,2
+110255,Dr_254,Pediatrics,Emergency,19
+110256,Dr_255,Cardiology,Diagnostics,15
+110257,Dr_256,Pediatrics,Outpatient,34
+110258,Dr_257,Neurology,Diagnostics,13
+110259,Dr_258,General Medicine,Diagnostics,23
+110260,Dr_259,General Medicine,Diagnostics,35
+110261,Dr_260,General Medicine,Medicine,4
+110262,Dr_261,Pediatrics,Emergency,27
+110263,Dr_262,Neurology,Emergency,14
+110264,Dr_263,Dermatology,Outpatient,2
+110265,Dr_264,Pediatrics,Outpatient,6
+110266,Dr_265,Orthopedics,Outpatient,4
+110267,Dr_266,Oncology,Surgery,16
+110268,Dr_267,Oncology,Emergency,4
+110269,Dr_268,Pediatrics,Medicine,5
+110270,Dr_269,Cardiology,Outpatient,1
+110271,Dr_270,Oncology,Emergency,14
+110272,Dr_271,Pediatrics,Diagnostics,26
+110273,Dr_272,Cardiology,Medicine,3
+110274,Dr_273,ENT,Diagnostics,7
+110275,Dr_274,General Medicine,Outpatient,24
+110276,Dr_275,ENT,Surgery,20
+110277,Dr_276,Orthopedics,Surgery,9
+110278,Dr_277,Dermatology,Diagnostics,14
+110279,Dr_278,General Medicine,Emergency,11
+110280,Dr_279,Cardiology,Emergency,24
+110281,Dr_280,Orthopedics,Emergency,6
+110282,Dr_281,Cardiology,Medicine,4
+110283,Dr_282,Oncology,Medicine,31
+110284,Dr_283,Orthopedics,Diagnostics,15
+110285,Dr_284,Orthopedics,Diagnostics,16
+110286,Dr_285,Cardiology,Diagnostics,34
+110287,Dr_286,Oncology,Outpatient,8
+110288,Dr_287,Orthopedics,Surgery,2
+110289,Dr_288,Neurology,Diagnostics,11
+110290,Dr_289,Dermatology,Emergency,13
+110291,Dr_290,Oncology,Surgery,20
+110292,Dr_291,Dermatology,Diagnostics,25
+110293,Dr_292,Neurology,Surgery,33
+110294,Dr_293,Dermatology,Surgery,27
+110295,Dr_294,General Medicine,Diagnostics,8
+110296,Dr_295,ENT,Outpatient,7
+110297,Dr_296,Oncology,Outpatient,22
+110298,Dr_297,General Medicine,Surgery,18
+110299,Dr_298,Pediatrics,Surgery,13
+110300,Dr_299,Dermatology,Emergency,24
+110301,Dr_300,General Medicine,Outpatient,22
+110302,Dr_301,Neurology,Emergency,20
+110303,Dr_302,Dermatology,Emergency,25
+110304,Dr_303,ENT,Outpatient,9
+110305,Dr_304,Orthopedics,Outpatient,1
+110306,Dr_305,ENT,Outpatient,18
+110307,Dr_306,Pediatrics,Medicine,9
+110308,Dr_307,Orthopedics,Surgery,23
+110309,Dr_308,Oncology,Emergency,33
+110310,Dr_309,Neurology,Outpatient,17
+110311,Dr_310,Orthopedics,Medicine,2
+110312,Dr_311,Oncology,Surgery,11
+110313,Dr_312,Neurology,Emergency,13
+110314,Dr_313,General Medicine,Outpatient,20
+110315,Dr_314,Pediatrics,Diagnostics,23
+110316,Dr_315,Cardiology,Diagnostics,31
+110317,Dr_316,Neurology,Surgery,15
+110318,Dr_317,Dermatology,Outpatient,3
+110319,Dr_318,ENT,Emergency,14
+110320,Dr_319,Orthopedics,Medicine,30
+110321,Dr_320,ENT,Surgery,2
+110322,Dr_321,Oncology,Surgery,5
+110323,Dr_322,Orthopedics,Medicine,18
+110324,Dr_323,Oncology,Diagnostics,9
+110325,Dr_324,Dermatology,Outpatient,17
+110326,Dr_325,Orthopedics,Medicine,17
+110327,Dr_326,Oncology,Medicine,9
+110328,Dr_327,Oncology,Diagnostics,21
+110329,Dr_328,Dermatology,Diagnostics,22
+110330,Dr_329,Oncology,Surgery,2
+110331,Dr_330,Neurology,Surgery,5
+110332,Dr_331,General Medicine,Outpatient,20
+110333,Dr_332,Dermatology,Surgery,4
+110334,Dr_333,Neurology,Outpatient,23
+110335,Dr_334,ENT,Medicine,33
+110336,Dr_335,General Medicine,Medicine,17
+110337,Dr_336,ENT,Diagnostics,32
+110338,Dr_337,Orthopedics,Diagnostics,28
+110339,Dr_338,Cardiology,Medicine,27
+110340,Dr_339,Cardiology,Outpatient,14
+110341,Dr_340,ENT,Emergency,24
+110342,Dr_341,Pediatrics,Surgery,26
+110343,Dr_342,Orthopedics,Emergency,4
+110344,Dr_343,Orthopedics,Medicine,19
+110345,Dr_344,Oncology,Emergency,29
+110346,Dr_345,Cardiology,Emergency,4
+110347,Dr_346,Oncology,Medicine,2
+110348,Dr_347,Orthopedics,Outpatient,9
+110349,Dr_348,General Medicine,Diagnostics,16
+110350,Dr_349,Neurology,Medicine,20
+110351,Dr_350,Cardiology,Outpatient,32
+110352,Dr_351,ENT,Medicine,21
+110353,Dr_352,Oncology,Diagnostics,19
+110354,Dr_353,ENT,Diagnostics,27
+110355,Dr_354,Cardiology,Emergency,10
+110356,Dr_355,Oncology,Diagnostics,18
+110357,Dr_356,Pediatrics,Outpatient,1
+110358,Dr_357,Neurology,Diagnostics,5
+110359,Dr_358,Orthopedics,Outpatient,5
+110360,Dr_359,Oncology,Outpatient,25
+110361,Dr_360,Neurology,Surgery,7
+110362,Dr_361,Pediatrics,Outpatient,25
+110363,Dr_362,Neurology,Emergency,31
+110364,Dr_363,ENT,Surgery,33
+110365,Dr_364,Dermatology,Outpatient,14
+110366,Dr_365,Oncology,Diagnostics,4
+110367,Dr_366,Orthopedics,Diagnostics,32
+110368,Dr_367,Oncology,Emergency,19
+110369,Dr_368,Cardiology,Surgery,26
+110370,Dr_369,Cardiology,Outpatient,4
+110371,Dr_370,General Medicine,Outpatient,14
+110372,Dr_371,General Medicine,Diagnostics,31
+110373,Dr_372,Pediatrics,Emergency,5
+110374,Dr_373,Orthopedics,Emergency,7
+110375,Dr_374,Pediatrics,Medicine,9
+110376,Dr_375,ENT,Surgery,17
+110377,Dr_376,General Medicine,Emergency,28
+110378,Dr_377,Dermatology,Diagnostics,16
+110379,Dr_378,Cardiology,Outpatient,2
+110380,Dr_379,Oncology,Emergency,9
+110381,Dr_380,General Medicine,Medicine,25
+110382,Dr_381,Orthopedics,Surgery,16
+110383,Dr_382,ENT,Surgery,20
+110384,Dr_383,Neurology,Emergency,15
+110385,Dr_384,Neurology,Medicine,3
+110386,Dr_385,Cardiology,Medicine,22
+110387,Dr_386,Dermatology,Outpatient,5
+110388,Dr_387,Orthopedics,Medicine,5
+110389,Dr_388,Pediatrics,Diagnostics,28
+110390,Dr_389,Cardiology,Medicine,18
+110391,Dr_390,General Medicine,Diagnostics,14
+110392,Dr_391,General Medicine,Outpatient,13
+110393,Dr_392,Neurology,Outpatient,13
+110394,Dr_393,General Medicine,Diagnostics,24
+110395,Dr_394,ENT,Diagnostics,20
+110396,Dr_395,Pediatrics,Outpatient,31
+110397,Dr_396,Oncology,Surgery,10
+110398,Dr_397,Pediatrics,Emergency,4
+110399,Dr_398,Neurology,Surgery,19
+110400,Dr_399,Pediatrics,Emergency,26
+110401,Dr_400,Neurology,Emergency,1
+110402,Dr_401,Neurology,Outpatient,3
+110403,Dr_402,Dermatology,Outpatient,11
+110404,Dr_403,Neurology,Medicine,11
+110405,Dr_404,General Medicine,Outpatient,15
+110406,Dr_405,Oncology,Outpatient,17
+110407,Dr_406,General Medicine,Diagnostics,3
+110408,Dr_407,Pediatrics,Outpatient,12
+110409,Dr_408,General Medicine,Emergency,34
+110410,Dr_409,General Medicine,Emergency,33
+110411,Dr_410,Pediatrics,Medicine,4
+110412,Dr_411,Cardiology,Emergency,14
+110413,Dr_412,Oncology,Medicine,10
+110414,Dr_413,ENT,Medicine,6
+110415,Dr_414,Dermatology,Medicine,27
+110416,Dr_415,ENT,Surgery,25
+110417,Dr_416,Dermatology,Medicine,9
+110418,Dr_417,Cardiology,Diagnostics,21
+110419,Dr_418,Orthopedics,Emergency,4
+110420,Dr_419,Oncology,Diagnostics,18
+110421,Dr_420,General Medicine,Diagnostics,34
+110422,Dr_421,Pediatrics,Diagnostics,16
+110423,Dr_422,Neurology,Medicine,33
+110424,Dr_423,General Medicine,Surgery,14
+110425,Dr_424,Cardiology,Outpatient,17
+110426,Dr_425,Oncology,Diagnostics,28
+110427,Dr_426,Cardiology,Surgery,27
+110428,Dr_427,Orthopedics,Outpatient,7
+110429,Dr_428,Oncology,Medicine,27
+110430,Dr_429,Cardiology,Medicine,27
+110431,Dr_430,Dermatology,Outpatient,27
+110432,Dr_431,ENT,Emergency,12
+110433,Dr_432,Oncology,Diagnostics,24
+110434,Dr_433,Orthopedics,Outpatient,29
+110435,Dr_434,ENT,Medicine,2
+110436,Dr_435,ENT,Outpatient,19
+110437,Dr_436,General Medicine,Medicine,3
+110438,Dr_437,Neurology,Medicine,10
+110439,Dr_438,Dermatology,Medicine,21
+110440,Dr_439,ENT,Diagnostics,32
+110441,Dr_440,Orthopedics,Surgery,13
+110442,Dr_441,General Medicine,Diagnostics,4
+110443,Dr_442,Orthopedics,Surgery,7
+110444,Dr_443,Oncology,Diagnostics,23
+110445,Dr_444,Dermatology,Diagnostics,18
+110446,Dr_445,ENT,Surgery,30
+110447,Dr_446,Orthopedics,Medicine,29
+110448,Dr_447,Neurology,Medicine,27
+110449,Dr_448,Orthopedics,Medicine,29
+110450,Dr_449,Cardiology,Diagnostics,6
+110451,Dr_450,Oncology,Emergency,22
+110452,Dr_451,Cardiology,Diagnostics,22
+110453,Dr_452,General Medicine,Diagnostics,11
+110454,Dr_453,Neurology,Surgery,9
+110455,Dr_454,Cardiology,Surgery,15
+110456,Dr_455,Oncology,Medicine,9
+110457,Dr_456,General Medicine,Surgery,24
+110458,Dr_457,Neurology,Medicine,35
+110459,Dr_458,General Medicine,Diagnostics,33
+110460,Dr_459,Cardiology,Emergency,25
+110461,Dr_460,Orthopedics,Outpatient,31
+110462,Dr_461,Orthopedics,Medicine,19
+110463,Dr_462,Oncology,Medicine,3
+110464,Dr_463,Pediatrics,Emergency,15
+110465,Dr_464,Neurology,Surgery,10
+110466,Dr_465,ENT,Diagnostics,3
+110467,Dr_466,General Medicine,Medicine,28
+110468,Dr_467,ENT,Diagnostics,25
+110469,Dr_468,Cardiology,Diagnostics,13
+110470,Dr_469,Neurology,Medicine,1
+110471,Dr_470,Orthopedics,Medicine,6
+110472,Dr_471,Cardiology,Outpatient,10
+110473,Dr_472,Neurology,Medicine,30
+110474,Dr_473,Neurology,Surgery,20
+110475,Dr_474,Orthopedics,Diagnostics,31
+110476,Dr_475,Oncology,Diagnostics,34
+110477,Dr_476,Orthopedics,Diagnostics,12
+110478,Dr_477,ENT,Emergency,18
+110479,Dr_478,Dermatology,Emergency,3
+110480,Dr_479,Cardiology,Emergency,20
+110481,Dr_480,Neurology,Surgery,25
+110482,Dr_481,General Medicine,Diagnostics,31
+110483,Dr_482,Dermatology,Surgery,13
+110484,Dr_483,Cardiology,Surgery,2
+110485,Dr_484,Orthopedics,Diagnostics,14
+110486,Dr_485,Pediatrics,Medicine,6
+110487,Dr_486,ENT,Diagnostics,11
+110488,Dr_487,Neurology,Medicine,6
+110489,Dr_488,Oncology,Emergency,3
+110490,Dr_489,ENT,Emergency,31
+110491,Dr_490,Dermatology,Emergency,11
+110492,Dr_491,General Medicine,Outpatient,28
+110493,Dr_492,Neurology,Outpatient,30
+110494,Dr_493,Cardiology,Emergency,27
+110495,Dr_494,ENT,Emergency,19
+110496,Dr_495,Pediatrics,Surgery,5
+110497,Dr_496,Oncology,Emergency,31
+110498,Dr_497,General Medicine,Outpatient,25
+110499,Dr_498,Pediatrics,Diagnostics,25
+110500,Dr_499,Neurology,Emergency,11
+110501,Dr_500,Cardiology,Surgery,32
+110502,Dr_501,Dermatology,Emergency,22
+110503,Dr_502,Cardiology,Surgery,27
+110504,Dr_503,Cardiology,Surgery,27
+110505,Dr_504,Neurology,Emergency,30
+110506,Dr_505,Neurology,Emergency,32
+110507,Dr_506,General Medicine,Medicine,34
+110508,Dr_507,Orthopedics,Emergency,21
+110509,Dr_508,Orthopedics,Outpatient,24
+110510,Dr_509,Oncology,Surgery,31
+110511,Dr_510,ENT,Outpatient,17
+110512,Dr_511,Neurology,Medicine,16
+110513,Dr_512,Cardiology,Medicine,4
+110514,Dr_513,ENT,Emergency,15
+110515,Dr_514,Orthopedics,Outpatient,22
+110516,Dr_515,Cardiology,Diagnostics,11
+110517,Dr_516,ENT,Surgery,1
+110518,Dr_517,Neurology,Diagnostics,30
+110519,Dr_518,ENT,Emergency,20
+110520,Dr_519,Orthopedics,Diagnostics,20
+110521,Dr_520,Neurology,Medicine,24
+110522,Dr_521,Orthopedics,Surgery,9
+110523,Dr_522,Orthopedics,Medicine,35
+110524,Dr_523,Orthopedics,Outpatient,6
+110525,Dr_524,Pediatrics,Diagnostics,3
+110526,Dr_525,Pediatrics,Diagnostics,24
+110527,Dr_526,Orthopedics,Medicine,8
+110528,Dr_527,Pediatrics,Emergency,7
+110529,Dr_528,ENT,Emergency,6
+110530,Dr_529,Dermatology,Medicine,25
+110531,Dr_530,Cardiology,Medicine,20
+110532,Dr_531,ENT,Medicine,29
+110533,Dr_532,Oncology,Emergency,26
+110534,Dr_533,Neurology,Diagnostics,11
+110535,Dr_534,Dermatology,Medicine,24
+110536,Dr_535,Cardiology,Surgery,9
+110537,Dr_536,Cardiology,Medicine,19
+110538,Dr_537,Dermatology,Surgery,13
+110539,Dr_538,Pediatrics,Emergency,35
+110540,Dr_539,Cardiology,Surgery,30
+110541,Dr_540,Oncology,Surgery,21
+110542,Dr_541,Orthopedics,Diagnostics,17
+110543,Dr_542,Oncology,Diagnostics,7
+110544,Dr_543,ENT,Medicine,15
+110545,Dr_544,Pediatrics,Medicine,26
+110546,Dr_545,Pediatrics,Medicine,1
+110547,Dr_546,Neurology,Medicine,5
+110548,Dr_547,General Medicine,Diagnostics,2
+110549,Dr_548,ENT,Surgery,32
+110550,Dr_549,General Medicine,Emergency,35
+110551,Dr_550,Dermatology,Medicine,33
+110552,Dr_551,Oncology,Diagnostics,1
+110553,Dr_552,Dermatology,Emergency,8
+110554,Dr_553,Cardiology,Outpatient,23
+110555,Dr_554,Pediatrics,Surgery,6
+110556,Dr_555,General Medicine,Surgery,9
+110557,Dr_556,Neurology,Emergency,9
+110558,Dr_557,Oncology,Outpatient,12
+110559,Dr_558,Cardiology,Emergency,35
+110560,Dr_559,General Medicine,Emergency,6
+110561,Dr_560,ENT,Diagnostics,12
+110562,Dr_561,Dermatology,Diagnostics,18
+110563,Dr_562,Dermatology,Emergency,30
+110564,Dr_563,Neurology,Outpatient,34
+110565,Dr_564,ENT,Surgery,19
+110566,Dr_565,Oncology,Emergency,4
+110567,Dr_566,General Medicine,Medicine,27
+110568,Dr_567,General Medicine,Medicine,35
+110569,Dr_568,Cardiology,Diagnostics,33
+110570,Dr_569,Cardiology,Diagnostics,30
+110571,Dr_570,Orthopedics,Emergency,32
+110572,Dr_571,Cardiology,Medicine,15
+110573,Dr_572,Neurology,Surgery,13
+110574,Dr_573,ENT,Diagnostics,20
+110575,Dr_574,General Medicine,Medicine,34
+110576,Dr_575,Oncology,Surgery,21
+110577,Dr_576,Oncology,Emergency,2
+110578,Dr_577,ENT,Diagnostics,23
+110579,Dr_578,ENT,Medicine,33
+110580,Dr_579,Orthopedics,Medicine,30
+110581,Dr_580,Neurology,Outpatient,14
+110582,Dr_581,Orthopedics,Diagnostics,5
+110583,Dr_582,Dermatology,Diagnostics,15
+110584,Dr_583,Orthopedics,Emergency,2
+110585,Dr_584,ENT,Diagnostics,10
+110586,Dr_585,Dermatology,Outpatient,4
+110587,Dr_586,Oncology,Surgery,26
+110588,Dr_587,Cardiology,Surgery,28
+110589,Dr_588,Pediatrics,Emergency,29
+110590,Dr_589,Neurology,Medicine,2
+110591,Dr_590,Oncology,Diagnostics,17
+110592,Dr_591,Neurology,Medicine,16
+110593,Dr_592,Orthopedics,Outpatient,4
+110594,Dr_593,ENT,Medicine,6
+110595,Dr_594,Neurology,Surgery,32
+110596,Dr_595,General Medicine,Outpatient,8
+110597,Dr_596,General Medicine,Diagnostics,33
+110598,Dr_597,Cardiology,Surgery,26
+110599,Dr_598,ENT,Medicine,27
+110600,Dr_599,Oncology,Surgery,11
+110601,Dr_600,Cardiology,Surgery,21
+110602,Dr_601,Dermatology,Diagnostics,13
+110603,Dr_602,General Medicine,Outpatient,30
+110604,Dr_603,Dermatology,Medicine,18
+110605,Dr_604,Dermatology,Diagnostics,19
+110606,Dr_605,Oncology,Surgery,1
+110607,Dr_606,Orthopedics,Outpatient,11
+110608,Dr_607,ENT,Emergency,31
+110609,Dr_608,Pediatrics,Emergency,8
+110610,Dr_609,Dermatology,Diagnostics,16
+110611,Dr_610,Orthopedics,Surgery,33
+110612,Dr_611,Cardiology,Medicine,8
+110613,Dr_612,Oncology,Diagnostics,22
+110614,Dr_613,Dermatology,Diagnostics,11
+110615,Dr_614,Neurology,Emergency,34
+110616,Dr_615,Neurology,Surgery,20
+110617,Dr_616,Oncology,Emergency,31
+110618,Dr_617,Pediatrics,Diagnostics,7
+110619,Dr_618,ENT,Diagnostics,27
+110620,Dr_619,Dermatology,Surgery,30
+110621,Dr_620,General Medicine,Diagnostics,34
+110622,Dr_621,ENT,Diagnostics,21
+110623,Dr_622,Dermatology,Medicine,35
+110624,Dr_623,Oncology,Diagnostics,24
+110625,Dr_624,Neurology,Surgery,25
+110626,Dr_625,ENT,Medicine,27
+110627,Dr_626,Oncology,Surgery,25
+110628,Dr_627,Cardiology,Medicine,15
+110629,Dr_628,ENT,Outpatient,9
+110630,Dr_629,Pediatrics,Outpatient,17
+110631,Dr_630,Orthopedics,Diagnostics,7
+110632,Dr_631,Dermatology,Emergency,2
+110633,Dr_632,Cardiology,Surgery,25
+110634,Dr_633,Oncology,Surgery,23
+110635,Dr_634,ENT,Emergency,23
+110636,Dr_635,Orthopedics,Medicine,23
+110637,Dr_636,Orthopedics,Emergency,6
+110638,Dr_637,Orthopedics,Surgery,11
+110639,Dr_638,Pediatrics,Diagnostics,20
+110640,Dr_639,Cardiology,Diagnostics,12
+110641,Dr_640,Cardiology,Medicine,5
+110642,Dr_641,Orthopedics,Medicine,4
+110643,Dr_642,Neurology,Surgery,25
+110644,Dr_643,Neurology,Medicine,23
+110645,Dr_644,General Medicine,Medicine,33
+110646,Dr_645,Orthopedics,Outpatient,32
+110647,Dr_646,General Medicine,Outpatient,29
+110648,Dr_647,Dermatology,Surgery,13
+110649,Dr_648,Pediatrics,Surgery,7
+110650,Dr_649,Cardiology,Emergency,7
+110651,Dr_650,Oncology,Diagnostics,8
+110652,Dr_651,Oncology,Surgery,6
+110653,Dr_652,Pediatrics,Medicine,32
+110654,Dr_653,Pediatrics,Diagnostics,14
+110655,Dr_654,General Medicine,Outpatient,9
+110656,Dr_655,Orthopedics,Diagnostics,29
+110657,Dr_656,Orthopedics,Surgery,5
+110658,Dr_657,General Medicine,Emergency,19
+110659,Dr_658,General Medicine,Diagnostics,5
+110660,Dr_659,General Medicine,Emergency,29
+110661,Dr_660,Orthopedics,Emergency,31
+110662,Dr_661,Orthopedics,Outpatient,24
+110663,Dr_662,ENT,Diagnostics,3
+110664,Dr_663,Pediatrics,Medicine,17
+110665,Dr_664,Cardiology,Emergency,33
+110666,Dr_665,Orthopedics,Surgery,17
+110667,Dr_666,Orthopedics,Surgery,21
+110668,Dr_667,Orthopedics,Emergency,11
+110669,Dr_668,ENT,Diagnostics,31
+110670,Dr_669,ENT,Diagnostics,5
+110671,Dr_670,General Medicine,Surgery,14
+110672,Dr_671,Oncology,Outpatient,2
+110673,Dr_672,Oncology,Medicine,1
+110674,Dr_673,ENT,Medicine,12
+110675,Dr_674,Pediatrics,Emergency,30
+110676,Dr_675,Oncology,Emergency,35
+110677,Dr_676,Oncology,Emergency,14
+110678,Dr_677,Cardiology,Emergency,1
+110679,Dr_678,Pediatrics,Medicine,4
+110680,Dr_679,Cardiology,Surgery,1
+110681,Dr_680,Oncology,Outpatient,5
+110682,Dr_681,Orthopedics,Medicine,5
+110683,Dr_682,ENT,Medicine,23
+110684,Dr_683,General Medicine,Medicine,11
+110685,Dr_684,Oncology,Outpatient,34
+110686,Dr_685,Oncology,Emergency,2
+110687,Dr_686,Dermatology,Outpatient,3
+110688,Dr_687,Orthopedics,Outpatient,12
+110689,Dr_688,Oncology,Diagnostics,7
+110690,Dr_689,Neurology,Outpatient,1
+110691,Dr_690,Pediatrics,Surgery,27
+110692,Dr_691,Cardiology,Emergency,10
+110693,Dr_692,Pediatrics,Surgery,33
+110694,Dr_693,Cardiology,Emergency,12
+110695,Dr_694,ENT,Outpatient,29
+110696,Dr_695,Cardiology,Medicine,29
+110697,Dr_696,Dermatology,Surgery,20
+110698,Dr_697,Neurology,Emergency,24
+110699,Dr_698,Orthopedics,Medicine,14
+110700,Dr_699,ENT,Outpatient,14
+110701,Dr_700,Oncology,Emergency,31
+110702,Dr_701,Cardiology,Diagnostics,1
+110703,Dr_702,ENT,Diagnostics,14
+110704,Dr_703,Cardiology,Surgery,18
+110705,Dr_704,Oncology,Emergency,29
+110706,Dr_705,General Medicine,Diagnostics,28
+110707,Dr_706,Neurology,Emergency,28
+110708,Dr_707,Pediatrics,Emergency,35
+110709,Dr_708,Pediatrics,Surgery,27
+110710,Dr_709,Dermatology,Diagnostics,6
+110711,Dr_710,Pediatrics,Medicine,27
+110712,Dr_711,Pediatrics,Emergency,6
+110713,Dr_712,Orthopedics,Diagnostics,16
+110714,Dr_713,Pediatrics,Medicine,29
+110715,Dr_714,ENT,Medicine,10
+110716,Dr_715,Orthopedics,Diagnostics,32
+110717,Dr_716,Cardiology,Outpatient,17
+110718,Dr_717,ENT,Emergency,3
+110719,Dr_718,General Medicine,Diagnostics,32
+110720,Dr_719,ENT,Outpatient,34
+110721,Dr_720,ENT,Outpatient,4
+110722,Dr_721,Pediatrics,Surgery,6
+110723,Dr_722,Neurology,Medicine,4
+110724,Dr_723,Cardiology,Diagnostics,29
+110725,Dr_724,General Medicine,Diagnostics,32
+110726,Dr_725,Pediatrics,Surgery,35
+110727,Dr_726,Cardiology,Emergency,22
+110728,Dr_727,Oncology,Diagnostics,9
+110729,Dr_728,Orthopedics,Diagnostics,35
+110730,Dr_729,Cardiology,Outpatient,10
+110731,Dr_730,Dermatology,Emergency,5
+110732,Dr_731,Dermatology,Medicine,12
+110733,Dr_732,Pediatrics,Surgery,2
+110734,Dr_733,Oncology,Medicine,3
+110735,Dr_734,General Medicine,Surgery,25
+110736,Dr_735,Oncology,Medicine,22
+110737,Dr_736,ENT,Outpatient,2
+110738,Dr_737,Oncology,Outpatient,29
+110739,Dr_738,General Medicine,Outpatient,9
+110740,Dr_739,Pediatrics,Surgery,28
+110741,Dr_740,Orthopedics,Outpatient,22
+110742,Dr_741,ENT,Surgery,35
+110743,Dr_742,Dermatology,Medicine,5
+110744,Dr_743,Pediatrics,Emergency,9
+110745,Dr_744,Oncology,Medicine,23
+110746,Dr_745,ENT,Outpatient,35
+110747,Dr_746,Dermatology,Diagnostics,6
+110748,Dr_747,General Medicine,Medicine,17
+110749,Dr_748,Pediatrics,Outpatient,27
+110750,Dr_749,Dermatology,Diagnostics,19
+110751,Dr_750,Pediatrics,Medicine,13
+110752,Dr_751,ENT,Outpatient,20
+110753,Dr_752,ENT,Surgery,17
+110754,Dr_753,Orthopedics,Diagnostics,6
+110755,Dr_754,General Medicine,Surgery,6
+110756,Dr_755,ENT,Surgery,1
+110757,Dr_756,General Medicine,Medicine,10
+110758,Dr_757,ENT,Medicine,29
+110759,Dr_758,Pediatrics,Emergency,1
+110760,Dr_759,Dermatology,Outpatient,33
+110761,Dr_760,Neurology,Surgery,28
+110762,Dr_761,Oncology,Diagnostics,19
+110763,Dr_762,Dermatology,Medicine,6
+110764,Dr_763,General Medicine,Outpatient,21
+110765,Dr_764,General Medicine,Diagnostics,1
+110766,Dr_765,ENT,Surgery,16
+110767,Dr_766,Orthopedics,Medicine,23
+110768,Dr_767,Pediatrics,Outpatient,7
+110769,Dr_768,General Medicine,Outpatient,14
+110770,Dr_769,Dermatology,Emergency,22
+110771,Dr_770,ENT,Medicine,6
+110772,Dr_771,Neurology,Emergency,19
+110773,Dr_772,Pediatrics,Surgery,33
+110774,Dr_773,Cardiology,Surgery,14
+110775,Dr_774,Oncology,Medicine,33
+110776,Dr_775,General Medicine,Diagnostics,14
+110777,Dr_776,Cardiology,Outpatient,5
+110778,Dr_777,Neurology,Outpatient,19
+110779,Dr_778,Neurology,Outpatient,5
+110780,Dr_779,Orthopedics,Medicine,27
+110781,Dr_780,Cardiology,Surgery,22
+110782,Dr_781,Cardiology,Surgery,16
+110783,Dr_782,Cardiology,Diagnostics,27
+110784,Dr_783,Dermatology,Diagnostics,12
+110785,Dr_784,Oncology,Surgery,23
+110786,Dr_785,Orthopedics,Diagnostics,16
+110787,Dr_786,Orthopedics,Emergency,12
+110788,Dr_787,Orthopedics,Surgery,6
+110789,Dr_788,Orthopedics,Medicine,5
+110790,Dr_789,Oncology,Emergency,35
+110791,Dr_790,Orthopedics,Emergency,5
+110792,Dr_791,Pediatrics,Diagnostics,21
+110793,Dr_792,Cardiology,Outpatient,25
+110794,Dr_793,Dermatology,Medicine,5
+110795,Dr_794,Neurology,Surgery,27
+110796,Dr_795,General Medicine,Diagnostics,10
+110797,Dr_796,Orthopedics,Diagnostics,2
+110798,Dr_797,Orthopedics,Outpatient,12
+110799,Dr_798,Oncology,Outpatient,6
+110800,Dr_799,ENT,Outpatient,1
+110801,Dr_800,Oncology,Diagnostics,35
+110802,Dr_801,Dermatology,Outpatient,23
+110803,Dr_802,Orthopedics,Diagnostics,34
+110804,Dr_803,ENT,Diagnostics,9
+110805,Dr_804,Orthopedics,Outpatient,9
+110806,Dr_805,Neurology,Medicine,3
+110807,Dr_806,Pediatrics,Outpatient,29
+110808,Dr_807,Dermatology,Surgery,1
+110809,Dr_808,Orthopedics,Diagnostics,27
+110810,Dr_809,General Medicine,Surgery,11
+110811,Dr_810,Neurology,Medicine,9
+110812,Dr_811,Neurology,Outpatient,31
+110813,Dr_812,Pediatrics,Diagnostics,20
+110814,Dr_813,ENT,Outpatient,12
+110815,Dr_814,Dermatology,Surgery,30
+110816,Dr_815,Pediatrics,Surgery,26
+110817,Dr_816,Pediatrics,Outpatient,5
+110818,Dr_817,Pediatrics,Surgery,20
+110819,Dr_818,Dermatology,Surgery,16
+110820,Dr_819,Neurology,Surgery,34
+110821,Dr_820,Cardiology,Emergency,32
+110822,Dr_821,ENT,Outpatient,17
+110823,Dr_822,General Medicine,Outpatient,34
+110824,Dr_823,Pediatrics,Surgery,1
+110825,Dr_824,ENT,Outpatient,25
+110826,Dr_825,General Medicine,Surgery,33
+110827,Dr_826,Neurology,Emergency,5
+110828,Dr_827,ENT,Surgery,24
+110829,Dr_828,Dermatology,Medicine,12
+110830,Dr_829,General Medicine,Outpatient,5
+110831,Dr_830,Orthopedics,Medicine,12
+110832,Dr_831,Orthopedics,Medicine,34
+110833,Dr_832,Dermatology,Diagnostics,8
+110834,Dr_833,Cardiology,Medicine,13
+110835,Dr_834,ENT,Diagnostics,15
+110836,Dr_835,ENT,Outpatient,13
+110837,Dr_836,Neurology,Diagnostics,31
+110838,Dr_837,Dermatology,Diagnostics,7
+110839,Dr_838,Pediatrics,Emergency,12
+110840,Dr_839,Orthopedics,Emergency,12
+110841,Dr_840,ENT,Diagnostics,22
+110842,Dr_841,ENT,Surgery,6
+110843,Dr_842,Orthopedics,Medicine,11
+110844,Dr_843,Oncology,Outpatient,5
+110845,Dr_844,Pediatrics,Diagnostics,5
+110846,Dr_845,Oncology,Emergency,5
+110847,Dr_846,Oncology,Emergency,1
+110848,Dr_847,General Medicine,Surgery,24
+110849,Dr_848,Dermatology,Medicine,29
+110850,Dr_849,Neurology,Surgery,24
+110851,Dr_850,Oncology,Emergency,17
+110852,Dr_851,Neurology,Emergency,29
+110853,Dr_852,Neurology,Outpatient,32
+110854,Dr_853,Orthopedics,Emergency,6
+110855,Dr_854,Oncology,Medicine,27
+110856,Dr_855,Oncology,Emergency,1
+110857,Dr_856,ENT,Surgery,8
+110858,Dr_857,ENT,Medicine,34
+110859,Dr_858,Dermatology,Emergency,19
+110860,Dr_859,General Medicine,Medicine,30
+110861,Dr_860,Cardiology,Outpatient,5
+110862,Dr_861,General Medicine,Emergency,17
+110863,Dr_862,ENT,Surgery,15
+110864,Dr_863,Oncology,Medicine,32
+110865,Dr_864,Orthopedics,Medicine,26
+110866,Dr_865,Neurology,Outpatient,32
+110867,Dr_866,Neurology,Diagnostics,12
+110868,Dr_867,Oncology,Emergency,31
+110869,Dr_868,Cardiology,Outpatient,34
+110870,Dr_869,Orthopedics,Surgery,20
+110871,Dr_870,General Medicine,Surgery,3
+110872,Dr_871,Neurology,Diagnostics,23
+110873,Dr_872,General Medicine,Diagnostics,35
+110874,Dr_873,General Medicine,Emergency,30
+110875,Dr_874,Dermatology,Medicine,24
+110876,Dr_875,Cardiology,Diagnostics,12
+110877,Dr_876,Neurology,Surgery,29
+110878,Dr_877,Cardiology,Surgery,9
+110879,Dr_878,Oncology,Surgery,30
+110880,Dr_879,Cardiology,Diagnostics,25
+110881,Dr_880,Orthopedics,Medicine,27
+110882,Dr_881,Cardiology,Medicine,23
+110883,Dr_882,General Medicine,Emergency,21
+110884,Dr_883,Cardiology,Diagnostics,33
+110885,Dr_884,Cardiology,Surgery,29
+110886,Dr_885,Neurology,Medicine,12
+110887,Dr_886,General Medicine,Medicine,32
+110888,Dr_887,Dermatology,Emergency,9
+110889,Dr_888,Pediatrics,Diagnostics,12
+110890,Dr_889,Dermatology,Diagnostics,24
+110891,Dr_890,Dermatology,Emergency,17
+110892,Dr_891,Pediatrics,Diagnostics,10
+110893,Dr_892,Neurology,Emergency,28
+110894,Dr_893,Orthopedics,Surgery,29
+110895,Dr_894,ENT,Emergency,22
+110896,Dr_895,General Medicine,Outpatient,26
+110897,Dr_896,Dermatology,Emergency,17
+110898,Dr_897,Oncology,Emergency,33
+110899,Dr_898,ENT,Medicine,8
+110900,Dr_899,Cardiology,Emergency,27
+110901,Dr_900,Pediatrics,Surgery,28
+110902,Dr_901,Dermatology,Outpatient,6
+110903,Dr_902,Cardiology,Outpatient,16
+110904,Dr_903,Dermatology,Surgery,28
+110905,Dr_904,Oncology,Outpatient,18
+110906,Dr_905,ENT,Emergency,34
+110907,Dr_906,Dermatology,Surgery,5
+110908,Dr_907,General Medicine,Surgery,30
+110909,Dr_908,Neurology,Outpatient,2
+110910,Dr_909,Oncology,Medicine,12
+110911,Dr_910,Orthopedics,Surgery,10
+110912,Dr_911,Dermatology,Outpatient,6
+110913,Dr_912,Oncology,Outpatient,9
+110914,Dr_913,Oncology,Outpatient,13
+110915,Dr_914,Pediatrics,Medicine,3
+110916,Dr_915,General Medicine,Surgery,2
+110917,Dr_916,Pediatrics,Medicine,9
+110918,Dr_917,Pediatrics,Medicine,25
+110919,Dr_918,General Medicine,Emergency,24
+110920,Dr_919,Pediatrics,Surgery,7
+110921,Dr_920,Cardiology,Surgery,28
+110922,Dr_921,Cardiology,Diagnostics,15
+110923,Dr_922,Cardiology,Diagnostics,21
+110924,Dr_923,Pediatrics,Surgery,12
+110925,Dr_924,Dermatology,Emergency,13
+110926,Dr_925,Cardiology,Surgery,28
+110927,Dr_926,Neurology,Surgery,33
+110928,Dr_927,Oncology,Surgery,15
+110929,Dr_928,Dermatology,Emergency,32
+110930,Dr_929,Neurology,Surgery,12
+110931,Dr_930,ENT,Diagnostics,15
+110932,Dr_931,Orthopedics,Medicine,34
+110933,Dr_932,ENT,Outpatient,20
+110934,Dr_933,ENT,Surgery,9
+110935,Dr_934,Pediatrics,Medicine,2
+110936,Dr_935,Oncology,Outpatient,8
+110937,Dr_936,Neurology,Emergency,12
+110938,Dr_937,General Medicine,Surgery,13
+110939,Dr_938,General Medicine,Emergency,2
+110940,Dr_939,General Medicine,Emergency,6
+110941,Dr_940,ENT,Medicine,3
+110942,Dr_941,Dermatology,Outpatient,34
+110943,Dr_942,Oncology,Outpatient,35
+110944,Dr_943,General Medicine,Medicine,4
+110945,Dr_944,ENT,Medicine,1
+110946,Dr_945,Dermatology,Diagnostics,31
+110947,Dr_946,Cardiology,Diagnostics,21
+110948,Dr_947,Orthopedics,Diagnostics,14
+110949,Dr_948,Dermatology,Surgery,13
+110950,Dr_949,Dermatology,Surgery,30
+110951,Dr_950,Oncology,Outpatient,27
+110952,Dr_951,Orthopedics,Surgery,13
+110953,Dr_952,General Medicine,Surgery,21
+110954,Dr_953,Cardiology,Medicine,15
+110955,Dr_954,Neurology,Diagnostics,33
+110956,Dr_955,ENT,Diagnostics,29
+110957,Dr_956,Cardiology,Medicine,4
+110958,Dr_957,Cardiology,Medicine,8
+110959,Dr_958,Pediatrics,Surgery,32
+110960,Dr_959,Pediatrics,Emergency,24
+110961,Dr_960,Dermatology,Emergency,3
+110962,Dr_961,Oncology,Diagnostics,30
+110963,Dr_962,General Medicine,Diagnostics,24
+110964,Dr_963,ENT,Diagnostics,12
+110965,Dr_964,Cardiology,Surgery,2
+110966,Dr_965,Oncology,Emergency,31
+110967,Dr_966,Oncology,Surgery,3
+110968,Dr_967,Oncology,Diagnostics,14
+110969,Dr_968,Neurology,Outpatient,27
+110970,Dr_969,Neurology,Medicine,13
+110971,Dr_970,Oncology,Diagnostics,18
+110972,Dr_971,Dermatology,Diagnostics,14
+110973,Dr_972,General Medicine,Diagnostics,23
+110974,Dr_973,Oncology,Outpatient,29
+110975,Dr_974,Orthopedics,Surgery,12
+110976,Dr_975,Orthopedics,Surgery,21
+110977,Dr_976,Dermatology,Diagnostics,25
+110978,Dr_977,ENT,Surgery,10
+110979,Dr_978,Pediatrics,Emergency,6
+110980,Dr_979,ENT,Surgery,21
+110981,Dr_980,General Medicine,Surgery,4
+110982,Dr_981,Orthopedics,Medicine,26
+110983,Dr_982,Cardiology,Outpatient,14
+110984,Dr_983,General Medicine,Medicine,3
+110985,Dr_984,General Medicine,Emergency,6
+110986,Dr_985,Pediatrics,Outpatient,28
+110987,Dr_986,ENT,Surgery,11
+110988,Dr_987,General Medicine,Surgery,10
+110989,Dr_988,ENT,Outpatient,21
+110990,Dr_989,Pediatrics,Diagnostics,33
+110991,Dr_990,Cardiology,Outpatient,10
+110992,Dr_991,General Medicine,Diagnostics,31
+110993,Dr_992,General Medicine,Surgery,29
+110994,Dr_993,Dermatology,Emergency,25
+110995,Dr_994,Dermatology,Diagnostics,23
+110996,Dr_995,General Medicine,Diagnostics,18
+110997,Dr_996,Dermatology,Outpatient,24
+110998,Dr_997,ENT,Diagnostics,18
+110999,Dr_998,Dermatology,Diagnostics,6
+111000,Dr_999,Cardiology,Diagnostics,10
+111001,Dr_1000,Pediatrics,Diagnostics,34
+111002,Dr_1001,Orthopedics,Surgery,21
+111003,Dr_1002,General Medicine,Surgery,6
+111004,Dr_1003,Cardiology,Emergency,1
+111005,Dr_1004,General Medicine,Surgery,20
+111006,Dr_1005,Pediatrics,Diagnostics,12
+111007,Dr_1006,Neurology,Emergency,19
+111008,Dr_1007,Pediatrics,Emergency,24
+111009,Dr_1008,Orthopedics,Outpatient,23
+111010,Dr_1009,ENT,Emergency,13
+111011,Dr_1010,Neurology,Surgery,32
+111012,Dr_1011,Orthopedics,Emergency,30
+111013,Dr_1012,Dermatology,Outpatient,32
+111014,Dr_1013,Oncology,Medicine,34
+111015,Dr_1014,Pediatrics,Medicine,32
+111016,Dr_1015,General Medicine,Surgery,16
+111017,Dr_1016,Orthopedics,Medicine,6
+111018,Dr_1017,General Medicine,Emergency,15
+111019,Dr_1018,ENT,Surgery,10
+111020,Dr_1019,Pediatrics,Emergency,28
+111021,Dr_1020,Oncology,Outpatient,19
+111022,Dr_1021,General Medicine,Diagnostics,13
+111023,Dr_1022,Oncology,Outpatient,7
+111024,Dr_1023,Orthopedics,Outpatient,2
+111025,Dr_1024,Cardiology,Diagnostics,27
+111026,Dr_1025,General Medicine,Emergency,8
+111027,Dr_1026,Dermatology,Medicine,6
+111028,Dr_1027,Neurology,Outpatient,17
+111029,Dr_1028,General Medicine,Surgery,6
+111030,Dr_1029,Oncology,Outpatient,26
+111031,Dr_1030,Oncology,Medicine,12
+111032,Dr_1031,ENT,Emergency,5
+111033,Dr_1032,Orthopedics,Outpatient,10
+111034,Dr_1033,General Medicine,Emergency,24
+111035,Dr_1034,Dermatology,Outpatient,30
+111036,Dr_1035,Oncology,Medicine,13
+111037,Dr_1036,Oncology,Surgery,26
+111038,Dr_1037,Cardiology,Diagnostics,19
+111039,Dr_1038,Pediatrics,Medicine,26
+111040,Dr_1039,Cardiology,Emergency,6
+111041,Dr_1040,Neurology,Medicine,25
+111042,Dr_1041,General Medicine,Surgery,30
+111043,Dr_1042,Neurology,Surgery,34
+111044,Dr_1043,Cardiology,Diagnostics,27
+111045,Dr_1044,Orthopedics,Outpatient,21
+111046,Dr_1045,Dermatology,Surgery,9
+111047,Dr_1046,Dermatology,Emergency,28
+111048,Dr_1047,Pediatrics,Surgery,34
+111049,Dr_1048,Oncology,Emergency,26
+111050,Dr_1049,Neurology,Emergency,11
+111051,Dr_1050,Neurology,Surgery,25
+111052,Dr_1051,General Medicine,Outpatient,20
+111053,Dr_1052,Oncology,Outpatient,5
+111054,Dr_1053,Neurology,Emergency,21
+111055,Dr_1054,Dermatology,Medicine,13
+111056,Dr_1055,Dermatology,Emergency,3
+111057,Dr_1056,Cardiology,Medicine,8
+111058,Dr_1057,Oncology,Outpatient,29
+111059,Dr_1058,Pediatrics,Outpatient,3
+111060,Dr_1059,Orthopedics,Medicine,22
+111061,Dr_1060,Orthopedics,Outpatient,23
+111062,Dr_1061,ENT,Outpatient,33
+111063,Dr_1062,ENT,Surgery,14
+111064,Dr_1063,General Medicine,Emergency,4
+111065,Dr_1064,Dermatology,Outpatient,27
+111066,Dr_1065,General Medicine,Medicine,8
+111067,Dr_1066,Dermatology,Emergency,9
+111068,Dr_1067,Cardiology,Outpatient,1
+111069,Dr_1068,Neurology,Medicine,28
+111070,Dr_1069,Neurology,Medicine,17
+111071,Dr_1070,Dermatology,Diagnostics,10
+111072,Dr_1071,Cardiology,Surgery,35
+111073,Dr_1072,Oncology,Outpatient,17
+111074,Dr_1073,Oncology,Outpatient,22
+111075,Dr_1074,ENT,Emergency,2
+111076,Dr_1075,Oncology,Emergency,22
+111077,Dr_1076,General Medicine,Medicine,16
+111078,Dr_1077,Pediatrics,Medicine,16
+111079,Dr_1078,Cardiology,Emergency,13
+111080,Dr_1079,Pediatrics,Surgery,11
+111081,Dr_1080,Cardiology,Outpatient,14
+111082,Dr_1081,ENT,Outpatient,8
+111083,Dr_1082,Cardiology,Emergency,10
+111084,Dr_1083,Dermatology,Surgery,9
+111085,Dr_1084,Pediatrics,Outpatient,22
+111086,Dr_1085,Orthopedics,Outpatient,32
+111087,Dr_1086,Cardiology,Emergency,32
+111088,Dr_1087,ENT,Medicine,27
+111089,Dr_1088,Cardiology,Surgery,14
+111090,Dr_1089,ENT,Diagnostics,4
+111091,Dr_1090,Oncology,Diagnostics,32
+111092,Dr_1091,Dermatology,Emergency,8
+111093,Dr_1092,ENT,Outpatient,26
+111094,Dr_1093,Neurology,Surgery,2
+111095,Dr_1094,Oncology,Medicine,27
+111096,Dr_1095,General Medicine,Medicine,16
+111097,Dr_1096,ENT,Medicine,11
+111098,Dr_1097,Neurology,Diagnostics,30
+111099,Dr_1098,Neurology,Outpatient,28
+111100,Dr_1099,Dermatology,Outpatient,23
+111101,Dr_1100,Cardiology,Surgery,20
+111102,Dr_1101,ENT,Outpatient,23
+111103,Dr_1102,Orthopedics,Emergency,7
+111104,Dr_1103,Orthopedics,Diagnostics,18
+111105,Dr_1104,Neurology,Outpatient,31
+111106,Dr_1105,Cardiology,Emergency,23
+111107,Dr_1106,Oncology,Emergency,16
+111108,Dr_1107,Dermatology,Medicine,20
+111109,Dr_1108,ENT,Outpatient,24
+111110,Dr_1109,ENT,Outpatient,24
+111111,Dr_1110,Orthopedics,Diagnostics,14
+111112,Dr_1111,Oncology,Diagnostics,27
+111113,Dr_1112,Neurology,Diagnostics,14
+111114,Dr_1113,Dermatology,Surgery,7
+111115,Dr_1114,Cardiology,Surgery,32
+111116,Dr_1115,Cardiology,Medicine,28
+111117,Dr_1116,Dermatology,Outpatient,4
+111118,Dr_1117,Oncology,Medicine,14
+111119,Dr_1118,General Medicine,Emergency,8
+111120,Dr_1119,General Medicine,Surgery,30
+111121,Dr_1120,Cardiology,Surgery,9
+111122,Dr_1121,Cardiology,Surgery,26
+111123,Dr_1122,General Medicine,Surgery,7
+111124,Dr_1123,Oncology,Surgery,14
+111125,Dr_1124,Orthopedics,Emergency,13
+111126,Dr_1125,General Medicine,Surgery,26
+111127,Dr_1126,Neurology,Emergency,13
+111128,Dr_1127,ENT,Medicine,16
+111129,Dr_1128,Neurology,Outpatient,4
+111130,Dr_1129,Pediatrics,Emergency,15
+111131,Dr_1130,Cardiology,Surgery,8
+111132,Dr_1131,Dermatology,Emergency,30
+111133,Dr_1132,Orthopedics,Emergency,6
+111134,Dr_1133,Pediatrics,Surgery,15
+111135,Dr_1134,Oncology,Outpatient,10
+111136,Dr_1135,Pediatrics,Medicine,31
+111137,Dr_1136,Dermatology,Medicine,10
+111138,Dr_1137,General Medicine,Diagnostics,14
+111139,Dr_1138,ENT,Surgery,35
+111140,Dr_1139,General Medicine,Surgery,32
+111141,Dr_1140,Neurology,Medicine,15
+111142,Dr_1141,Neurology,Medicine,11
+111143,Dr_1142,Pediatrics,Medicine,24
+111144,Dr_1143,Cardiology,Surgery,19
+111145,Dr_1144,General Medicine,Surgery,17
+111146,Dr_1145,Orthopedics,Outpatient,23
+111147,Dr_1146,ENT,Medicine,29
+111148,Dr_1147,Cardiology,Surgery,29
+111149,Dr_1148,ENT,Surgery,26
+111150,Dr_1149,Orthopedics,Diagnostics,6
+111151,Dr_1150,Orthopedics,Diagnostics,8
+111152,Dr_1151,Pediatrics,Medicine,25
+111153,Dr_1152,General Medicine,Diagnostics,15
+111154,Dr_1153,Cardiology,Outpatient,23
+111155,Dr_1154,Dermatology,Outpatient,32
+111156,Dr_1155,Orthopedics,Surgery,20
+111157,Dr_1156,General Medicine,Diagnostics,1
+111158,Dr_1157,Cardiology,Medicine,7
+111159,Dr_1158,General Medicine,Outpatient,34
+111160,Dr_1159,Oncology,Emergency,13
+111161,Dr_1160,Orthopedics,Medicine,18
+111162,Dr_1161,Dermatology,Diagnostics,14
+111163,Dr_1162,Dermatology,Diagnostics,26
+111164,Dr_1163,Oncology,Outpatient,32
+111165,Dr_1164,Neurology,Emergency,11
+111166,Dr_1165,Oncology,Emergency,26
+111167,Dr_1166,ENT,Emergency,14
+111168,Dr_1167,General Medicine,Medicine,11
+111169,Dr_1168,General Medicine,Surgery,23
+111170,Dr_1169,Cardiology,Outpatient,30
+111171,Dr_1170,Pediatrics,Medicine,4
+111172,Dr_1171,Pediatrics,Medicine,23
+111173,Dr_1172,Neurology,Medicine,8
+111174,Dr_1173,Neurology,Outpatient,23
+111175,Dr_1174,Dermatology,Outpatient,10
+111176,Dr_1175,Orthopedics,Diagnostics,9
+111177,Dr_1176,ENT,Medicine,9
+111178,Dr_1177,Neurology,Surgery,35
+111179,Dr_1178,General Medicine,Medicine,7
+111180,Dr_1179,Pediatrics,Diagnostics,21
+111181,Dr_1180,ENT,Medicine,28
+111182,Dr_1181,Neurology,Medicine,12
+111183,Dr_1182,Pediatrics,Emergency,9
+111184,Dr_1183,Pediatrics,Emergency,16
+111185,Dr_1184,ENT,Outpatient,15
+111186,Dr_1185,Oncology,Emergency,18
+111187,Dr_1186,Neurology,Emergency,8
+111188,Dr_1187,Oncology,Medicine,9
+111189,Dr_1188,ENT,Surgery,10
+111190,Dr_1189,General Medicine,Medicine,20
+111191,Dr_1190,Orthopedics,Diagnostics,10
+111192,Dr_1191,Dermatology,Surgery,33
+111193,Dr_1192,Oncology,Diagnostics,18
+111194,Dr_1193,Orthopedics,Diagnostics,31
+111195,Dr_1194,Pediatrics,Surgery,5
+111196,Dr_1195,Pediatrics,Outpatient,32
+111197,Dr_1196,Oncology,Outpatient,28
+111198,Dr_1197,Oncology,Medicine,17
+111199,Dr_1198,Oncology,Surgery,32
+111200,Dr_1199,ENT,Emergency,13
+111201,Dr_1200,Oncology,Surgery,35
+111202,Dr_1201,Neurology,Medicine,30
+111203,Dr_1202,Dermatology,Emergency,6
+111204,Dr_1203,Pediatrics,Diagnostics,6
+111205,Dr_1204,Orthopedics,Surgery,16
+111206,Dr_1205,Oncology,Surgery,7
+111207,Dr_1206,ENT,Outpatient,19
+111208,Dr_1207,Pediatrics,Diagnostics,13
+111209,Dr_1208,Neurology,Emergency,25
+111210,Dr_1209,Pediatrics,Emergency,2
+111211,Dr_1210,Neurology,Surgery,18
+111212,Dr_1211,General Medicine,Emergency,29
+111213,Dr_1212,Neurology,Outpatient,8
+111214,Dr_1213,ENT,Outpatient,17
+111215,Dr_1214,Pediatrics,Diagnostics,10
+111216,Dr_1215,Dermatology,Diagnostics,2
+111217,Dr_1216,General Medicine,Medicine,2
+111218,Dr_1217,Oncology,Outpatient,15
+111219,Dr_1218,Pediatrics,Surgery,9
+111220,Dr_1219,Orthopedics,Diagnostics,23
+111221,Dr_1220,Pediatrics,Medicine,6
+111222,Dr_1221,Pediatrics,Medicine,12
+111223,Dr_1222,Neurology,Surgery,4
+111224,Dr_1223,Neurology,Medicine,34
+111225,Dr_1224,General Medicine,Outpatient,11
+111226,Dr_1225,Orthopedics,Emergency,26
+111227,Dr_1226,ENT,Medicine,12
+111228,Dr_1227,Cardiology,Diagnostics,16
+111229,Dr_1228,General Medicine,Surgery,11
+111230,Dr_1229,Orthopedics,Diagnostics,27
+111231,Dr_1230,ENT,Medicine,3
+111232,Dr_1231,Oncology,Emergency,26
+111233,Dr_1232,General Medicine,Outpatient,32
+111234,Dr_1233,Dermatology,Medicine,23
+111235,Dr_1234,Pediatrics,Diagnostics,26
+111236,Dr_1235,ENT,Outpatient,20
+111237,Dr_1236,Pediatrics,Diagnostics,4
+111238,Dr_1237,Orthopedics,Diagnostics,35
+111239,Dr_1238,Pediatrics,Surgery,15
+111240,Dr_1239,Dermatology,Outpatient,15
+111241,Dr_1240,Dermatology,Surgery,30
+111242,Dr_1241,Cardiology,Surgery,11
+111243,Dr_1242,Orthopedics,Medicine,20
+111244,Dr_1243,Neurology,Medicine,4
+111245,Dr_1244,ENT,Medicine,23
+111246,Dr_1245,Cardiology,Outpatient,26
+111247,Dr_1246,Cardiology,Diagnostics,15
+111248,Dr_1247,Cardiology,Outpatient,34
+111249,Dr_1248,Dermatology,Diagnostics,29
+111250,Dr_1249,Oncology,Diagnostics,33
+111251,Dr_1250,ENT,Outpatient,5
+111252,Dr_1251,Orthopedics,Surgery,18
+111253,Dr_1252,Orthopedics,Diagnostics,12
+111254,Dr_1253,Orthopedics,Emergency,26
+111255,Dr_1254,Cardiology,Emergency,20
+111256,Dr_1255,General Medicine,Outpatient,11
+111257,Dr_1256,Orthopedics,Outpatient,24
+111258,Dr_1257,Dermatology,Diagnostics,14
+111259,Dr_1258,Oncology,Medicine,9
+111260,Dr_1259,Oncology,Emergency,13
+111261,Dr_1260,Neurology,Medicine,6
+111262,Dr_1261,Neurology,Medicine,7
+111263,Dr_1262,Pediatrics,Outpatient,19
+111264,Dr_1263,Cardiology,Outpatient,17
+111265,Dr_1264,Oncology,Outpatient,20
+111266,Dr_1265,Dermatology,Emergency,9
+111267,Dr_1266,Cardiology,Emergency,15
+111268,Dr_1267,General Medicine,Diagnostics,32
+111269,Dr_1268,Orthopedics,Diagnostics,6
+111270,Dr_1269,Orthopedics,Surgery,9
+111271,Dr_1270,Oncology,Diagnostics,30
+111272,Dr_1271,ENT,Diagnostics,29
+111273,Dr_1272,Oncology,Diagnostics,18
+111274,Dr_1273,Orthopedics,Diagnostics,17
+111275,Dr_1274,Dermatology,Diagnostics,26
+111276,Dr_1275,Dermatology,Medicine,32
+111277,Dr_1276,Pediatrics,Emergency,14
+111278,Dr_1277,Cardiology,Surgery,21
+111279,Dr_1278,Dermatology,Emergency,10
+111280,Dr_1279,Orthopedics,Diagnostics,1
+111281,Dr_1280,Neurology,Emergency,11
+111282,Dr_1281,ENT,Outpatient,7
+111283,Dr_1282,Neurology,Outpatient,18
+111284,Dr_1283,Neurology,Emergency,13
+111285,Dr_1284,Dermatology,Diagnostics,24
+111286,Dr_1285,ENT,Medicine,32
+111287,Dr_1286,Dermatology,Diagnostics,35
+111288,Dr_1287,Cardiology,Emergency,13
+111289,Dr_1288,Orthopedics,Medicine,16
+111290,Dr_1289,Neurology,Medicine,11
+111291,Dr_1290,Dermatology,Surgery,29
+111292,Dr_1291,Oncology,Medicine,35
+111293,Dr_1292,Oncology,Surgery,17
+111294,Dr_1293,Pediatrics,Diagnostics,27
+111295,Dr_1294,Oncology,Emergency,12
+111296,Dr_1295,Orthopedics,Medicine,25
+111297,Dr_1296,Dermatology,Outpatient,33
+111298,Dr_1297,Dermatology,Outpatient,11
+111299,Dr_1298,Pediatrics,Diagnostics,8
+111300,Dr_1299,General Medicine,Medicine,26
+111301,Dr_1300,Orthopedics,Surgery,31
+111302,Dr_1301,Cardiology,Outpatient,24
+111303,Dr_1302,Oncology,Diagnostics,13
+111304,Dr_1303,Oncology,Outpatient,8
+111305,Dr_1304,ENT,Emergency,25
+111306,Dr_1305,Neurology,Emergency,10
+111307,Dr_1306,Oncology,Surgery,22
+111308,Dr_1307,Dermatology,Diagnostics,24
+111309,Dr_1308,Orthopedics,Diagnostics,15
+111310,Dr_1309,Dermatology,Diagnostics,2
+111311,Dr_1310,Orthopedics,Medicine,21
+111312,Dr_1311,General Medicine,Outpatient,2
+111313,Dr_1312,Dermatology,Outpatient,23
+111314,Dr_1313,General Medicine,Emergency,18
+111315,Dr_1314,Cardiology,Outpatient,28
+111316,Dr_1315,Pediatrics,Emergency,22
+111317,Dr_1316,General Medicine,Diagnostics,25
+111318,Dr_1317,General Medicine,Medicine,22
+111319,Dr_1318,Oncology,Surgery,23
+111320,Dr_1319,Pediatrics,Outpatient,10
+111321,Dr_1320,ENT,Emergency,1
+111322,Dr_1321,Oncology,Surgery,1
+111323,Dr_1322,Pediatrics,Outpatient,9
+111324,Dr_1323,Orthopedics,Emergency,1
+111325,Dr_1324,Pediatrics,Emergency,31
+111326,Dr_1325,Orthopedics,Emergency,16
+111327,Dr_1326,Orthopedics,Diagnostics,34
+111328,Dr_1327,ENT,Medicine,32
+111329,Dr_1328,ENT,Outpatient,7
+111330,Dr_1329,Dermatology,Outpatient,34
+111331,Dr_1330,Pediatrics,Medicine,20
+111332,Dr_1331,ENT,Outpatient,4
+111333,Dr_1332,Cardiology,Surgery,11
+111334,Dr_1333,Cardiology,Outpatient,15
+111335,Dr_1334,General Medicine,Medicine,1
+111336,Dr_1335,Neurology,Outpatient,32
+111337,Dr_1336,ENT,Emergency,14
+111338,Dr_1337,Cardiology,Surgery,13
+111339,Dr_1338,Dermatology,Outpatient,4
+111340,Dr_1339,Dermatology,Emergency,34
+111341,Dr_1340,Dermatology,Emergency,21
+111342,Dr_1341,Pediatrics,Diagnostics,30
+111343,Dr_1342,General Medicine,Medicine,27
+111344,Dr_1343,Oncology,Medicine,21
+111345,Dr_1344,Dermatology,Surgery,27
+111346,Dr_1345,Orthopedics,Surgery,6
+111347,Dr_1346,Pediatrics,Outpatient,1
+111348,Dr_1347,Pediatrics,Surgery,5
+111349,Dr_1348,Orthopedics,Emergency,31
+111350,Dr_1349,ENT,Outpatient,24
+111351,Dr_1350,Neurology,Medicine,32
+111352,Dr_1351,Oncology,Emergency,31
+111353,Dr_1352,Cardiology,Emergency,2
+111354,Dr_1353,Orthopedics,Diagnostics,8
+111355,Dr_1354,Orthopedics,Diagnostics,28
+111356,Dr_1355,Neurology,Surgery,26
+111357,Dr_1356,General Medicine,Emergency,16
+111358,Dr_1357,Cardiology,Medicine,18
+111359,Dr_1358,Cardiology,Surgery,35
+111360,Dr_1359,Oncology,Surgery,10
+111361,Dr_1360,Dermatology,Medicine,26
+111362,Dr_1361,Pediatrics,Emergency,27
+111363,Dr_1362,General Medicine,Outpatient,6
+111364,Dr_1363,Oncology,Outpatient,20
+111365,Dr_1364,Pediatrics,Outpatient,17
+111366,Dr_1365,General Medicine,Diagnostics,6
+111367,Dr_1366,Oncology,Emergency,35
+111368,Dr_1367,Cardiology,Medicine,2
+111369,Dr_1368,General Medicine,Outpatient,8
+111370,Dr_1369,Neurology,Outpatient,11
+111371,Dr_1370,Neurology,Surgery,25
+111372,Dr_1371,ENT,Medicine,32
+111373,Dr_1372,Pediatrics,Outpatient,29
+111374,Dr_1373,General Medicine,Emergency,12
+111375,Dr_1374,Dermatology,Medicine,11
+111376,Dr_1375,Cardiology,Emergency,32
+111377,Dr_1376,General Medicine,Diagnostics,5
+111378,Dr_1377,Dermatology,Diagnostics,1
+111379,Dr_1378,Orthopedics,Outpatient,3
+111380,Dr_1379,Oncology,Emergency,8
+111381,Dr_1380,Orthopedics,Surgery,4
+111382,Dr_1381,General Medicine,Surgery,8
+111383,Dr_1382,Pediatrics,Emergency,35
+111384,Dr_1383,Pediatrics,Outpatient,6
+111385,Dr_1384,Oncology,Emergency,34
+111386,Dr_1385,Pediatrics,Outpatient,2
+111387,Dr_1386,Pediatrics,Surgery,5
+111388,Dr_1387,Dermatology,Outpatient,5
+111389,Dr_1388,Oncology,Outpatient,9
+111390,Dr_1389,ENT,Emergency,10
+111391,Dr_1390,General Medicine,Diagnostics,10
+111392,Dr_1391,General Medicine,Medicine,33
+111393,Dr_1392,ENT,Surgery,19
+111394,Dr_1393,General Medicine,Outpatient,6
+111395,Dr_1394,Dermatology,Surgery,5
+111396,Dr_1395,Orthopedics,Medicine,12
+111397,Dr_1396,Neurology,Medicine,20
+111398,Dr_1397,Neurology,Medicine,8
+111399,Dr_1398,Oncology,Emergency,11
+111400,Dr_1399,ENT,Outpatient,21
+111401,Dr_1400,Dermatology,Diagnostics,18
+111402,Dr_1401,General Medicine,Outpatient,20
+111403,Dr_1402,Pediatrics,Medicine,9
+111404,Dr_1403,Cardiology,Emergency,15
+111405,Dr_1404,General Medicine,Medicine,16
+111406,Dr_1405,Oncology,Diagnostics,5
+111407,Dr_1406,Neurology,Outpatient,31
+111408,Dr_1407,Orthopedics,Emergency,29
+111409,Dr_1408,ENT,Surgery,17
+111410,Dr_1409,Pediatrics,Diagnostics,11
+111411,Dr_1410,Oncology,Diagnostics,6
+111412,Dr_1411,ENT,Diagnostics,34
+111413,Dr_1412,Cardiology,Outpatient,5
+111414,Dr_1413,Oncology,Medicine,21
+111415,Dr_1414,ENT,Emergency,12
+111416,Dr_1415,Dermatology,Emergency,15
+111417,Dr_1416,General Medicine,Diagnostics,14
+111418,Dr_1417,ENT,Emergency,26
+111419,Dr_1418,Oncology,Surgery,16
+111420,Dr_1419,Neurology,Diagnostics,23
+111421,Dr_1420,Oncology,Emergency,3
+111422,Dr_1421,Pediatrics,Surgery,35
+111423,Dr_1422,Neurology,Surgery,13
+111424,Dr_1423,Orthopedics,Emergency,8
+111425,Dr_1424,Orthopedics,Surgery,15
+111426,Dr_1425,Orthopedics,Outpatient,24
+111427,Dr_1426,Oncology,Medicine,13
+111428,Dr_1427,Neurology,Emergency,35
+111429,Dr_1428,Pediatrics,Medicine,6
+111430,Dr_1429,General Medicine,Outpatient,27
+111431,Dr_1430,ENT,Outpatient,7
+111432,Dr_1431,ENT,Surgery,13
+111433,Dr_1432,Pediatrics,Diagnostics,29
+111434,Dr_1433,Neurology,Emergency,25
+111435,Dr_1434,Cardiology,Emergency,25
+111436,Dr_1435,Dermatology,Outpatient,24
+111437,Dr_1436,Cardiology,Emergency,7
+111438,Dr_1437,Orthopedics,Outpatient,15
+111439,Dr_1438,Oncology,Surgery,31
+111440,Dr_1439,Pediatrics,Surgery,15
+111441,Dr_1440,Pediatrics,Surgery,22
+111442,Dr_1441,Orthopedics,Surgery,9
+111443,Dr_1442,Pediatrics,Medicine,22
+111444,Dr_1443,ENT,Medicine,29
+111445,Dr_1444,Dermatology,Diagnostics,3
+111446,Dr_1445,Orthopedics,Diagnostics,35
+111447,Dr_1446,Cardiology,Diagnostics,34
+111448,Dr_1447,Pediatrics,Medicine,4
+111449,Dr_1448,Pediatrics,Outpatient,9
+111450,Dr_1449,ENT,Emergency,32
+111451,Dr_1450,Neurology,Diagnostics,20
+111452,Dr_1451,Orthopedics,Surgery,6
+111453,Dr_1452,Dermatology,Outpatient,32
+111454,Dr_1453,Cardiology,Surgery,28
+111455,Dr_1454,Pediatrics,Outpatient,7
+111456,Dr_1455,Cardiology,Emergency,6
+111457,Dr_1456,Oncology,Outpatient,20
+111458,Dr_1457,Neurology,Medicine,24
+111459,Dr_1458,Pediatrics,Outpatient,2
+111460,Dr_1459,Pediatrics,Surgery,8
+111461,Dr_1460,Orthopedics,Surgery,31
+111462,Dr_1461,Orthopedics,Emergency,1
+111463,Dr_1462,Pediatrics,Outpatient,34
+111464,Dr_1463,Pediatrics,Medicine,13
+111465,Dr_1464,Oncology,Medicine,4
+111466,Dr_1465,Dermatology,Surgery,5
+111467,Dr_1466,Neurology,Outpatient,33
+111468,Dr_1467,Neurology,Surgery,4
+111469,Dr_1468,Neurology,Diagnostics,5
+111470,Dr_1469,Neurology,Outpatient,2
+111471,Dr_1470,Dermatology,Outpatient,4
+111472,Dr_1471,Oncology,Outpatient,13
+111473,Dr_1472,Oncology,Emergency,18
+111474,Dr_1473,Pediatrics,Outpatient,32
+111475,Dr_1474,Orthopedics,Emergency,11
+111476,Dr_1475,Orthopedics,Emergency,31
+111477,Dr_1476,Orthopedics,Emergency,28
+111478,Dr_1477,Dermatology,Outpatient,24
+111479,Dr_1478,Cardiology,Emergency,23
+111480,Dr_1479,Dermatology,Diagnostics,2
+111481,Dr_1480,Cardiology,Diagnostics,30
+111482,Dr_1481,ENT,Emergency,28
+111483,Dr_1482,Oncology,Surgery,22
+111484,Dr_1483,Pediatrics,Emergency,11
+111485,Dr_1484,Oncology,Diagnostics,10
+111486,Dr_1485,ENT,Medicine,12
+111487,Dr_1486,Orthopedics,Medicine,17
+111488,Dr_1487,Orthopedics,Emergency,20
+111489,Dr_1488,Oncology,Medicine,6
+111490,Dr_1489,Oncology,Surgery,17
+111491,Dr_1490,Cardiology,Surgery,11
+111492,Dr_1491,ENT,Diagnostics,13
+111493,Dr_1492,Neurology,Emergency,9
+111494,Dr_1493,Pediatrics,Diagnostics,34
+111495,Dr_1494,Oncology,Medicine,17
+111496,Dr_1495,Orthopedics,Surgery,11
+111497,Dr_1496,Oncology,Diagnostics,29
+111498,Dr_1497,Oncology,Diagnostics,7
+111499,Dr_1498,General Medicine,Medicine,33
+111500,Dr_1499,Oncology,Medicine,28
+111501,Dr_1500,ENT,Surgery,32
+111502,Dr_1501,Oncology,Outpatient,19
+111503,Dr_1502,Pediatrics,Emergency,10
+111504,Dr_1503,ENT,Emergency,9
+111505,Dr_1504,Oncology,Outpatient,23
+111506,Dr_1505,Orthopedics,Surgery,21
+111507,Dr_1506,ENT,Emergency,26
+111508,Dr_1507,Orthopedics,Surgery,11
+111509,Dr_1508,Neurology,Emergency,26
+111510,Dr_1509,Pediatrics,Emergency,4
+111511,Dr_1510,ENT,Surgery,30
+111512,Dr_1511,Neurology,Surgery,25
+111513,Dr_1512,Cardiology,Medicine,32
+111514,Dr_1513,Neurology,Surgery,10
+111515,Dr_1514,Cardiology,Emergency,4
+111516,Dr_1515,Neurology,Diagnostics,21
+111517,Dr_1516,ENT,Diagnostics,5
+111518,Dr_1517,Pediatrics,Emergency,31
+111519,Dr_1518,Neurology,Outpatient,14
+111520,Dr_1519,ENT,Medicine,33
+111521,Dr_1520,Pediatrics,Diagnostics,13
+111522,Dr_1521,Oncology,Medicine,22
+111523,Dr_1522,Pediatrics,Medicine,3
+111524,Dr_1523,Orthopedics,Medicine,29
+111525,Dr_1524,Pediatrics,Surgery,25
+111526,Dr_1525,Dermatology,Medicine,26
+111527,Dr_1526,General Medicine,Medicine,22
+111528,Dr_1527,Orthopedics,Emergency,28
+111529,Dr_1528,Oncology,Outpatient,13
+111530,Dr_1529,General Medicine,Emergency,21
+111531,Dr_1530,Orthopedics,Outpatient,9
+111532,Dr_1531,Oncology,Outpatient,22
+111533,Dr_1532,Cardiology,Medicine,6
+111534,Dr_1533,Oncology,Emergency,10
+111535,Dr_1534,Neurology,Medicine,16
+111536,Dr_1535,General Medicine,Diagnostics,33
+111537,Dr_1536,General Medicine,Emergency,30
+111538,Dr_1537,Dermatology,Emergency,20
+111539,Dr_1538,Orthopedics,Medicine,31
+111540,Dr_1539,Cardiology,Surgery,20
+111541,Dr_1540,Cardiology,Diagnostics,13
+111542,Dr_1541,Oncology,Emergency,21
+111543,Dr_1542,Cardiology,Diagnostics,23
+111544,Dr_1543,Cardiology,Diagnostics,2
+111545,Dr_1544,Neurology,Outpatient,19
+111546,Dr_1545,Neurology,Medicine,16
+111547,Dr_1546,Pediatrics,Medicine,16
+111548,Dr_1547,Oncology,Emergency,7
+111549,Dr_1548,Orthopedics,Outpatient,17
+111550,Dr_1549,General Medicine,Emergency,18
+111551,Dr_1550,Neurology,Diagnostics,10
+111552,Dr_1551,ENT,Emergency,26
+111553,Dr_1552,Neurology,Emergency,25
+111554,Dr_1553,Dermatology,Surgery,28
+111555,Dr_1554,Cardiology,Medicine,30
+111556,Dr_1555,Neurology,Surgery,9
+111557,Dr_1556,Neurology,Outpatient,12
+111558,Dr_1557,Orthopedics,Medicine,20
+111559,Dr_1558,Oncology,Outpatient,34
+111560,Dr_1559,ENT,Emergency,5
+111561,Dr_1560,Neurology,Surgery,32
+111562,Dr_1561,Pediatrics,Emergency,16
+111563,Dr_1562,ENT,Emergency,26
+111564,Dr_1563,Neurology,Surgery,24
+111565,Dr_1564,Orthopedics,Medicine,6
+111566,Dr_1565,Dermatology,Surgery,9
+111567,Dr_1566,Dermatology,Emergency,33
+111568,Dr_1567,Pediatrics,Surgery,22
+111569,Dr_1568,Orthopedics,Diagnostics,11
+111570,Dr_1569,Neurology,Medicine,4
+111571,Dr_1570,Neurology,Outpatient,4
+111572,Dr_1571,Orthopedics,Outpatient,7
+111573,Dr_1572,Pediatrics,Diagnostics,4
+111574,Dr_1573,Pediatrics,Outpatient,27
+111575,Dr_1574,Orthopedics,Diagnostics,16
+111576,Dr_1575,Dermatology,Diagnostics,5
+111577,Dr_1576,Dermatology,Diagnostics,26
+111578,Dr_1577,General Medicine,Surgery,29
+111579,Dr_1578,Dermatology,Diagnostics,6
+111580,Dr_1579,Dermatology,Surgery,32
+111581,Dr_1580,ENT,Emergency,23
+111582,Dr_1581,General Medicine,Diagnostics,30
+111583,Dr_1582,Cardiology,Diagnostics,15
+111584,Dr_1583,ENT,Diagnostics,6
+111585,Dr_1584,Pediatrics,Emergency,10
+111586,Dr_1585,Oncology,Outpatient,5
+111587,Dr_1586,General Medicine,Surgery,16
+111588,Dr_1587,Orthopedics,Outpatient,27
+111589,Dr_1588,Neurology,Outpatient,34
+111590,Dr_1589,Pediatrics,Surgery,4
+111591,Dr_1590,Neurology,Outpatient,12
+111592,Dr_1591,Cardiology,Outpatient,21
+111593,Dr_1592,General Medicine,Surgery,5
+111594,Dr_1593,Dermatology,Medicine,33
+111595,Dr_1594,Cardiology,Emergency,12
+111596,Dr_1595,Cardiology,Diagnostics,9
+111597,Dr_1596,Dermatology,Diagnostics,34
+111598,Dr_1597,Oncology,Outpatient,18
+111599,Dr_1598,Cardiology,Emergency,9
+111600,Dr_1599,ENT,Outpatient,34
+111601,Dr_1600,Dermatology,Surgery,20
+111602,Dr_1601,Orthopedics,Emergency,26
+111603,Dr_1602,Oncology,Emergency,35
+111604,Dr_1603,Dermatology,Medicine,34
+111605,Dr_1604,ENT,Outpatient,6
+111606,Dr_1605,Cardiology,Outpatient,28
+111607,Dr_1606,ENT,Emergency,10
+111608,Dr_1607,ENT,Emergency,6
+111609,Dr_1608,Dermatology,Diagnostics,13
+111610,Dr_1609,Pediatrics,Emergency,18
+111611,Dr_1610,Neurology,Diagnostics,7
+111612,Dr_1611,Dermatology,Outpatient,4
+111613,Dr_1612,ENT,Diagnostics,23
+111614,Dr_1613,ENT,Outpatient,13
+111615,Dr_1614,Cardiology,Outpatient,33
+111616,Dr_1615,ENT,Emergency,31
+111617,Dr_1616,ENT,Emergency,24
+111618,Dr_1617,ENT,Emergency,3
+111619,Dr_1618,Dermatology,Outpatient,29
+111620,Dr_1619,ENT,Emergency,30
+111621,Dr_1620,Dermatology,Medicine,3
+111622,Dr_1621,Cardiology,Outpatient,22
+111623,Dr_1622,Orthopedics,Diagnostics,27
+111624,Dr_1623,Neurology,Outpatient,13
+111625,Dr_1624,Dermatology,Emergency,21
+111626,Dr_1625,Oncology,Outpatient,1
+111627,Dr_1626,Neurology,Outpatient,17
+111628,Dr_1627,General Medicine,Emergency,19
+111629,Dr_1628,General Medicine,Emergency,16
+111630,Dr_1629,Neurology,Outpatient,12
+111631,Dr_1630,Cardiology,Emergency,22
+111632,Dr_1631,Pediatrics,Emergency,18
+111633,Dr_1632,Cardiology,Emergency,21
+111634,Dr_1633,Pediatrics,Diagnostics,32
+111635,Dr_1634,Pediatrics,Medicine,22
+111636,Dr_1635,Neurology,Outpatient,17
+111637,Dr_1636,Neurology,Outpatient,11
+111638,Dr_1637,Dermatology,Emergency,23
+111639,Dr_1638,Cardiology,Diagnostics,1
+111640,Dr_1639,Oncology,Outpatient,26
+111641,Dr_1640,General Medicine,Emergency,20
+111642,Dr_1641,General Medicine,Emergency,8
+111643,Dr_1642,Neurology,Diagnostics,4
+111644,Dr_1643,General Medicine,Outpatient,20
+111645,Dr_1644,Cardiology,Diagnostics,28
+111646,Dr_1645,Neurology,Diagnostics,6
+111647,Dr_1646,Orthopedics,Emergency,16
+111648,Dr_1647,Pediatrics,Outpatient,22
+111649,Dr_1648,ENT,Diagnostics,20
+111650,Dr_1649,Pediatrics,Surgery,4
+111651,Dr_1650,Cardiology,Medicine,33
+111652,Dr_1651,Pediatrics,Diagnostics,6
+111653,Dr_1652,Oncology,Emergency,32
+111654,Dr_1653,Pediatrics,Outpatient,23
+111655,Dr_1654,Neurology,Medicine,31
+111656,Dr_1655,General Medicine,Outpatient,17
+111657,Dr_1656,Neurology,Medicine,28
+111658,Dr_1657,Orthopedics,Medicine,25
+111659,Dr_1658,Orthopedics,Surgery,5
+111660,Dr_1659,Orthopedics,Diagnostics,4
+111661,Dr_1660,Neurology,Outpatient,1
+111662,Dr_1661,Dermatology,Outpatient,34
+111663,Dr_1662,Pediatrics,Medicine,14
+111664,Dr_1663,Oncology,Medicine,10
+111665,Dr_1664,Pediatrics,Medicine,22
+111666,Dr_1665,Pediatrics,Diagnostics,2
+111667,Dr_1666,General Medicine,Surgery,13
+111668,Dr_1667,Cardiology,Diagnostics,24
+111669,Dr_1668,Dermatology,Medicine,2
+111670,Dr_1669,Neurology,Outpatient,24
+111671,Dr_1670,Pediatrics,Emergency,1
+111672,Dr_1671,Orthopedics,Surgery,13
+111673,Dr_1672,ENT,Emergency,27
+111674,Dr_1673,Orthopedics,Medicine,12
+111675,Dr_1674,Dermatology,Emergency,6
+111676,Dr_1675,Dermatology,Outpatient,29
+111677,Dr_1676,Neurology,Medicine,15
+111678,Dr_1677,Neurology,Outpatient,29
+111679,Dr_1678,Oncology,Outpatient,14
+111680,Dr_1679,Neurology,Medicine,32
+111681,Dr_1680,Neurology,Outpatient,28
+111682,Dr_1681,Pediatrics,Diagnostics,7
+111683,Dr_1682,Neurology,Medicine,16
+111684,Dr_1683,Cardiology,Outpatient,6
+111685,Dr_1684,Dermatology,Surgery,1
+111686,Dr_1685,Orthopedics,Surgery,29
+111687,Dr_1686,Cardiology,Diagnostics,35
+111688,Dr_1687,Oncology,Diagnostics,29
+111689,Dr_1688,Cardiology,Diagnostics,20
+111690,Dr_1689,General Medicine,Outpatient,3
+111691,Dr_1690,Dermatology,Diagnostics,35
+111692,Dr_1691,Pediatrics,Emergency,19
+111693,Dr_1692,Pediatrics,Diagnostics,29
+111694,Dr_1693,Pediatrics,Emergency,29
+111695,Dr_1694,Oncology,Diagnostics,21
+111696,Dr_1695,Oncology,Diagnostics,4
+111697,Dr_1696,Orthopedics,Diagnostics,15
+111698,Dr_1697,ENT,Diagnostics,21
+111699,Dr_1698,Pediatrics,Outpatient,8
+111700,Dr_1699,ENT,Emergency,30
+111701,Dr_1700,Orthopedics,Diagnostics,15
+111702,Dr_1701,Neurology,Surgery,35
+111703,Dr_1702,Orthopedics,Surgery,32
+111704,Dr_1703,Dermatology,Diagnostics,8
+111705,Dr_1704,Pediatrics,Emergency,30
+111706,Dr_1705,Orthopedics,Medicine,12
+111707,Dr_1706,Neurology,Outpatient,30
+111708,Dr_1707,General Medicine,Medicine,4
+111709,Dr_1708,Cardiology,Surgery,29
+111710,Dr_1709,Cardiology,Surgery,3
+111711,Dr_1710,Neurology,Outpatient,25
+111712,Dr_1711,Orthopedics,Emergency,7
+111713,Dr_1712,Pediatrics,Diagnostics,21
+111714,Dr_1713,Orthopedics,Outpatient,13
+111715,Dr_1714,Neurology,Emergency,14
+111716,Dr_1715,Cardiology,Diagnostics,20
+111717,Dr_1716,Pediatrics,Diagnostics,33
+111718,Dr_1717,Cardiology,Emergency,5
+111719,Dr_1718,Cardiology,Medicine,15
+111720,Dr_1719,Neurology,Emergency,17
+111721,Dr_1720,ENT,Surgery,19
+111722,Dr_1721,Pediatrics,Diagnostics,16
+111723,Dr_1722,General Medicine,Diagnostics,7
+111724,Dr_1723,ENT,Outpatient,22
+111725,Dr_1724,Dermatology,Diagnostics,32
+111726,Dr_1725,ENT,Surgery,22
+111727,Dr_1726,ENT,Surgery,22
+111728,Dr_1727,Oncology,Emergency,8
+111729,Dr_1728,Neurology,Emergency,11
+111730,Dr_1729,General Medicine,Diagnostics,16
+111731,Dr_1730,Pediatrics,Emergency,28
+111732,Dr_1731,General Medicine,Surgery,21
+111733,Dr_1732,Pediatrics,Diagnostics,26
+111734,Dr_1733,Pediatrics,Outpatient,19
+111735,Dr_1734,Pediatrics,Medicine,7
+111736,Dr_1735,Cardiology,Emergency,14
+111737,Dr_1736,Neurology,Outpatient,35
+111738,Dr_1737,Dermatology,Emergency,10
+111739,Dr_1738,Cardiology,Medicine,33
+111740,Dr_1739,Cardiology,Emergency,22
+111741,Dr_1740,General Medicine,Outpatient,20
+111742,Dr_1741,Orthopedics,Medicine,24
+111743,Dr_1742,Dermatology,Surgery,4
+111744,Dr_1743,Dermatology,Diagnostics,20
+111745,Dr_1744,Oncology,Medicine,33
+111746,Dr_1745,General Medicine,Surgery,16
+111747,Dr_1746,General Medicine,Outpatient,26
+111748,Dr_1747,Oncology,Outpatient,7
+111749,Dr_1748,Cardiology,Emergency,10
+111750,Dr_1749,Pediatrics,Outpatient,7
+111751,Dr_1750,ENT,Outpatient,3
+111752,Dr_1751,Cardiology,Diagnostics,16
+111753,Dr_1752,Neurology,Surgery,27
+111754,Dr_1753,Cardiology,Outpatient,11
+111755,Dr_1754,General Medicine,Medicine,2
+111756,Dr_1755,General Medicine,Emergency,22
+111757,Dr_1756,General Medicine,Outpatient,33
+111758,Dr_1757,General Medicine,Medicine,21
+111759,Dr_1758,ENT,Surgery,16
+111760,Dr_1759,Cardiology,Outpatient,25
+111761,Dr_1760,ENT,Outpatient,29
+111762,Dr_1761,ENT,Outpatient,31
+111763,Dr_1762,Dermatology,Diagnostics,35
+111764,Dr_1763,Orthopedics,Medicine,14
+111765,Dr_1764,Cardiology,Surgery,5
+111766,Dr_1765,General Medicine,Outpatient,12
+111767,Dr_1766,Neurology,Outpatient,29
+111768,Dr_1767,ENT,Surgery,7
+111769,Dr_1768,ENT,Medicine,25
+111770,Dr_1769,Orthopedics,Outpatient,1
+111771,Dr_1770,Cardiology,Diagnostics,10
+111772,Dr_1771,Dermatology,Surgery,9
+111773,Dr_1772,Orthopedics,Emergency,9
+111774,Dr_1773,ENT,Emergency,6
+111775,Dr_1774,Orthopedics,Surgery,8
+111776,Dr_1775,Dermatology,Surgery,35
+111777,Dr_1776,ENT,Emergency,13
+111778,Dr_1777,Orthopedics,Diagnostics,25
+111779,Dr_1778,ENT,Diagnostics,34
+111780,Dr_1779,Dermatology,Medicine,18
+111781,Dr_1780,Orthopedics,Medicine,17
+111782,Dr_1781,Cardiology,Diagnostics,18
+111783,Dr_1782,Pediatrics,Medicine,17
+111784,Dr_1783,Dermatology,Surgery,24
+111785,Dr_1784,Oncology,Diagnostics,16
+111786,Dr_1785,Oncology,Surgery,33
+111787,Dr_1786,Pediatrics,Medicine,18
+111788,Dr_1787,Neurology,Emergency,30
+111789,Dr_1788,Pediatrics,Surgery,27
+111790,Dr_1789,ENT,Medicine,19
+111791,Dr_1790,Cardiology,Diagnostics,29
+111792,Dr_1791,Oncology,Outpatient,35
+111793,Dr_1792,Oncology,Diagnostics,7
+111794,Dr_1793,Oncology,Diagnostics,24
+111795,Dr_1794,Cardiology,Surgery,30
+111796,Dr_1795,ENT,Medicine,8
+111797,Dr_1796,ENT,Surgery,30
+111798,Dr_1797,Neurology,Outpatient,1
+111799,Dr_1798,Oncology,Surgery,7
+111800,Dr_1799,Orthopedics,Medicine,20
+111801,Dr_1800,Neurology,Diagnostics,5
+111802,Dr_1801,Orthopedics,Outpatient,22
+111803,Dr_1802,ENT,Medicine,9
+111804,Dr_1803,Orthopedics,Diagnostics,27
+111805,Dr_1804,Orthopedics,Surgery,13
+111806,Dr_1805,Oncology,Medicine,30
+111807,Dr_1806,Dermatology,Medicine,16
+111808,Dr_1807,Cardiology,Medicine,8
+111809,Dr_1808,Dermatology,Medicine,4
+111810,Dr_1809,ENT,Emergency,18
+111811,Dr_1810,General Medicine,Diagnostics,14
+111812,Dr_1811,Orthopedics,Surgery,11
+111813,Dr_1812,Cardiology,Medicine,23
+111814,Dr_1813,Pediatrics,Diagnostics,15
+111815,Dr_1814,Cardiology,Diagnostics,10
+111816,Dr_1815,Dermatology,Emergency,26
+111817,Dr_1816,Dermatology,Emergency,15
+111818,Dr_1817,Pediatrics,Medicine,28
+111819,Dr_1818,General Medicine,Medicine,13
+111820,Dr_1819,ENT,Medicine,2
+111821,Dr_1820,Cardiology,Emergency,5
+111822,Dr_1821,General Medicine,Medicine,22
+111823,Dr_1822,Orthopedics,Outpatient,28
+111824,Dr_1823,General Medicine,Medicine,19
+111825,Dr_1824,Cardiology,Medicine,12
+111826,Dr_1825,Dermatology,Outpatient,32
+111827,Dr_1826,Pediatrics,Outpatient,28
+111828,Dr_1827,Neurology,Medicine,15
+111829,Dr_1828,Dermatology,Surgery,6
+111830,Dr_1829,General Medicine,Outpatient,33
+111831,Dr_1830,General Medicine,Medicine,30
+111832,Dr_1831,General Medicine,Surgery,17
+111833,Dr_1832,General Medicine,Medicine,12
+111834,Dr_1833,Orthopedics,Medicine,9
+111835,Dr_1834,General Medicine,Medicine,31
+111836,Dr_1835,ENT,Diagnostics,24
+111837,Dr_1836,Orthopedics,Medicine,13
+111838,Dr_1837,Dermatology,Diagnostics,28
+111839,Dr_1838,ENT,Outpatient,18
+111840,Dr_1839,Oncology,Outpatient,27
+111841,Dr_1840,General Medicine,Outpatient,10
+111842,Dr_1841,Cardiology,Outpatient,16
+111843,Dr_1842,Dermatology,Emergency,19
+111844,Dr_1843,Pediatrics,Emergency,25
+111845,Dr_1844,ENT,Surgery,16
+111846,Dr_1845,ENT,Diagnostics,34
+111847,Dr_1846,Cardiology,Emergency,13
+111848,Dr_1847,Dermatology,Medicine,25
+111849,Dr_1848,Oncology,Surgery,19
+111850,Dr_1849,Neurology,Surgery,24
+111851,Dr_1850,Neurology,Outpatient,12
+111852,Dr_1851,General Medicine,Medicine,29
+111853,Dr_1852,Pediatrics,Outpatient,17
+111854,Dr_1853,Orthopedics,Outpatient,6
+111855,Dr_1854,Dermatology,Outpatient,26
+111856,Dr_1855,General Medicine,Emergency,25
+111857,Dr_1856,Neurology,Medicine,32
+111858,Dr_1857,ENT,Surgery,22
+111859,Dr_1858,Neurology,Emergency,21
+111860,Dr_1859,Pediatrics,Emergency,25
+111861,Dr_1860,ENT,Surgery,21
+111862,Dr_1861,Pediatrics,Surgery,35
+111863,Dr_1862,ENT,Diagnostics,23
+111864,Dr_1863,Oncology,Outpatient,16
+111865,Dr_1864,Oncology,Surgery,34
+111866,Dr_1865,Cardiology,Surgery,28
+111867,Dr_1866,Pediatrics,Surgery,34
+111868,Dr_1867,ENT,Surgery,16
+111869,Dr_1868,Oncology,Diagnostics,19
+111870,Dr_1869,General Medicine,Outpatient,32
+111871,Dr_1870,Cardiology,Diagnostics,25
+111872,Dr_1871,Dermatology,Emergency,29
+111873,Dr_1872,Neurology,Emergency,22
+111874,Dr_1873,Cardiology,Diagnostics,3
+111875,Dr_1874,Cardiology,Outpatient,28
+111876,Dr_1875,ENT,Emergency,3
+111877,Dr_1876,Dermatology,Emergency,9
+111878,Dr_1877,Orthopedics,Diagnostics,6
+111879,Dr_1878,Oncology,Outpatient,17
+111880,Dr_1879,ENT,Outpatient,33
+111881,Dr_1880,Neurology,Medicine,30
+111882,Dr_1881,ENT,Medicine,5
+111883,Dr_1882,ENT,Medicine,7
+111884,Dr_1883,Cardiology,Outpatient,4
+111885,Dr_1884,Dermatology,Medicine,19
+111886,Dr_1885,Orthopedics,Diagnostics,5
+111887,Dr_1886,General Medicine,Outpatient,13
+111888,Dr_1887,Dermatology,Emergency,19
+111889,Dr_1888,Dermatology,Medicine,1
+111890,Dr_1889,Dermatology,Diagnostics,23
+111891,Dr_1890,Dermatology,Outpatient,11
+111892,Dr_1891,ENT,Emergency,25
+111893,Dr_1892,Neurology,Medicine,20
+111894,Dr_1893,Orthopedics,Medicine,24
+111895,Dr_1894,Cardiology,Medicine,9
+111896,Dr_1895,Pediatrics,Outpatient,12
+111897,Dr_1896,Cardiology,Outpatient,23
+111898,Dr_1897,Dermatology,Medicine,6
+111899,Dr_1898,ENT,Medicine,12
+111900,Dr_1899,Orthopedics,Emergency,16
+111901,Dr_1900,ENT,Diagnostics,34
+111902,Dr_1901,Dermatology,Emergency,16
+111903,Dr_1902,Oncology,Outpatient,26
+111904,Dr_1903,Oncology,Diagnostics,29
+111905,Dr_1904,Oncology,Surgery,33
+111906,Dr_1905,Neurology,Outpatient,17
+111907,Dr_1906,General Medicine,Surgery,27
+111908,Dr_1907,Cardiology,Diagnostics,10
+111909,Dr_1908,Pediatrics,Diagnostics,14
+111910,Dr_1909,Dermatology,Surgery,1
+111911,Dr_1910,General Medicine,Medicine,17
+111912,Dr_1911,Neurology,Emergency,14
+111913,Dr_1912,General Medicine,Surgery,4
+111914,Dr_1913,Cardiology,Surgery,29
+111915,Dr_1914,Oncology,Outpatient,20
+111916,Dr_1915,Oncology,Emergency,27
+111917,Dr_1916,Orthopedics,Diagnostics,8
+111918,Dr_1917,Pediatrics,Medicine,9
+111919,Dr_1918,Cardiology,Diagnostics,30
+111920,Dr_1919,ENT,Medicine,19
+111921,Dr_1920,Cardiology,Emergency,7
+111922,Dr_1921,Oncology,Emergency,27
+111923,Dr_1922,Cardiology,Medicine,22
+111924,Dr_1923,Cardiology,Emergency,32
+111925,Dr_1924,Orthopedics,Surgery,9
+111926,Dr_1925,Orthopedics,Surgery,25
+111927,Dr_1926,Dermatology,Medicine,32
+111928,Dr_1927,General Medicine,Medicine,2
+111929,Dr_1928,Dermatology,Surgery,15
+111930,Dr_1929,General Medicine,Surgery,30
+111931,Dr_1930,General Medicine,Diagnostics,13
+111932,Dr_1931,Oncology,Outpatient,18
+111933,Dr_1932,Neurology,Outpatient,25
+111934,Dr_1933,General Medicine,Medicine,7
+111935,Dr_1934,Neurology,Surgery,24
+111936,Dr_1935,Dermatology,Outpatient,9
+111937,Dr_1936,Neurology,Surgery,26
+111938,Dr_1937,Cardiology,Medicine,19
+111939,Dr_1938,Dermatology,Diagnostics,19
+111940,Dr_1939,Pediatrics,Outpatient,32
+111941,Dr_1940,Orthopedics,Surgery,31
+111942,Dr_1941,Oncology,Medicine,33
+111943,Dr_1942,Oncology,Surgery,10
+111944,Dr_1943,Dermatology,Medicine,35
+111945,Dr_1944,Cardiology,Medicine,9
+111946,Dr_1945,General Medicine,Outpatient,23
+111947,Dr_1946,Neurology,Medicine,5
+111948,Dr_1947,Orthopedics,Diagnostics,22
+111949,Dr_1948,Cardiology,Medicine,34
+111950,Dr_1949,Dermatology,Outpatient,33
+111951,Dr_1950,Oncology,Outpatient,6
+111952,Dr_1951,Neurology,Emergency,9
+111953,Dr_1952,Cardiology,Emergency,15
+111954,Dr_1953,Dermatology,Medicine,9
+111955,Dr_1954,Neurology,Emergency,11
+111956,Dr_1955,Dermatology,Surgery,14
+111957,Dr_1956,Orthopedics,Surgery,32
+111958,Dr_1957,Oncology,Medicine,10
+111959,Dr_1958,Neurology,Surgery,14
+111960,Dr_1959,Neurology,Diagnostics,20
+111961,Dr_1960,Neurology,Emergency,24
+111962,Dr_1961,Pediatrics,Medicine,23
+111963,Dr_1962,General Medicine,Outpatient,31
+111964,Dr_1963,Oncology,Medicine,19
+111965,Dr_1964,Pediatrics,Surgery,5
+111966,Dr_1965,Orthopedics,Medicine,9
+111967,Dr_1966,ENT,Surgery,12
+111968,Dr_1967,Oncology,Surgery,29
+111969,Dr_1968,Neurology,Outpatient,10
+111970,Dr_1969,General Medicine,Outpatient,14
+111971,Dr_1970,Pediatrics,Diagnostics,19
+111972,Dr_1971,General Medicine,Surgery,24
+111973,Dr_1972,Cardiology,Medicine,13
+111974,Dr_1973,Orthopedics,Outpatient,15
+111975,Dr_1974,Oncology,Diagnostics,4
+111976,Dr_1975,ENT,Emergency,34
+111977,Dr_1976,Orthopedics,Medicine,32
+111978,Dr_1977,Pediatrics,Diagnostics,17
+111979,Dr_1978,Cardiology,Emergency,6
+111980,Dr_1979,Neurology,Outpatient,18
+111981,Dr_1980,General Medicine,Outpatient,23
+111982,Dr_1981,Neurology,Outpatient,33
+111983,Dr_1982,ENT,Diagnostics,7
+111984,Dr_1983,Cardiology,Emergency,18
+111985,Dr_1984,Cardiology,Outpatient,35
+111986,Dr_1985,Pediatrics,Surgery,13
+111987,Dr_1986,Orthopedics,Diagnostics,22
+111988,Dr_1987,Oncology,Emergency,9
+111989,Dr_1988,Dermatology,Outpatient,2
+111990,Dr_1989,Dermatology,Surgery,27
+111991,Dr_1990,Dermatology,Surgery,31
+111992,Dr_1991,ENT,Outpatient,5
+111993,Dr_1992,Orthopedics,Medicine,9
+111994,Dr_1993,Orthopedics,Outpatient,6
+111995,Dr_1994,Dermatology,Medicine,5
+111996,Dr_1995,General Medicine,Outpatient,26
+111997,Dr_1996,Cardiology,Medicine,16
+111998,Dr_1997,General Medicine,Outpatient,29
+111999,Dr_1998,Dermatology,Emergency,20
+112000,Dr_1999,Oncology,Emergency,5
+112001,Dr_2000,General Medicine,Outpatient,17
+112002,Dr_2001,Orthopedics,Emergency,1
+112003,Dr_2002,Neurology,Outpatient,34
+112004,Dr_2003,Neurology,Emergency,22
+112005,Dr_2004,Neurology,Outpatient,24
+112006,Dr_2005,Orthopedics,Outpatient,19
+112007,Dr_2006,Neurology,Medicine,24
+112008,Dr_2007,Oncology,Outpatient,6
+112009,Dr_2008,Neurology,Diagnostics,9
+112010,Dr_2009,Oncology,Outpatient,18
+112011,Dr_2010,Orthopedics,Emergency,17
+112012,Dr_2011,ENT,Emergency,23
+112013,Dr_2012,Pediatrics,Diagnostics,19
+112014,Dr_2013,Dermatology,Emergency,25
+112015,Dr_2014,Pediatrics,Surgery,4
+112016,Dr_2015,Dermatology,Emergency,14
+112017,Dr_2016,Oncology,Medicine,22
+112018,Dr_2017,Neurology,Emergency,19
+112019,Dr_2018,ENT,Surgery,4
+112020,Dr_2019,Cardiology,Outpatient,7
+112021,Dr_2020,Dermatology,Surgery,20
+112022,Dr_2021,Pediatrics,Emergency,7
+112023,Dr_2022,Neurology,Medicine,35
+112024,Dr_2023,Oncology,Medicine,32
+112025,Dr_2024,Cardiology,Emergency,27
+112026,Dr_2025,Oncology,Outpatient,28
+112027,Dr_2026,ENT,Medicine,28
+112028,Dr_2027,Orthopedics,Diagnostics,26
+112029,Dr_2028,Orthopedics,Emergency,33
+112030,Dr_2029,Oncology,Medicine,33
+112031,Dr_2030,Pediatrics,Diagnostics,21
+112032,Dr_2031,Pediatrics,Medicine,33
+112033,Dr_2032,Pediatrics,Emergency,3
+112034,Dr_2033,Neurology,Surgery,6
+112035,Dr_2034,Pediatrics,Medicine,20
+112036,Dr_2035,Orthopedics,Emergency,5
+112037,Dr_2036,Oncology,Outpatient,19
+112038,Dr_2037,Cardiology,Surgery,7
+112039,Dr_2038,General Medicine,Diagnostics,21
+112040,Dr_2039,General Medicine,Surgery,34
+112041,Dr_2040,Cardiology,Emergency,9
+112042,Dr_2041,Cardiology,Emergency,2
+112043,Dr_2042,Pediatrics,Emergency,31
+112044,Dr_2043,Cardiology,Outpatient,35
+112045,Dr_2044,Cardiology,Medicine,8
+112046,Dr_2045,ENT,Surgery,25
+112047,Dr_2046,Dermatology,Emergency,23
+112048,Dr_2047,Pediatrics,Emergency,21
+112049,Dr_2048,Dermatology,Surgery,35
+112050,Dr_2049,Cardiology,Emergency,14
+112051,Dr_2050,Pediatrics,Medicine,33
+112052,Dr_2051,General Medicine,Emergency,9
+112053,Dr_2052,Dermatology,Diagnostics,34
+112054,Dr_2053,Oncology,Medicine,19
+112055,Dr_2054,Pediatrics,Emergency,10
+112056,Dr_2055,General Medicine,Medicine,9
+112057,Dr_2056,Pediatrics,Outpatient,33
+112058,Dr_2057,Cardiology,Emergency,22
+112059,Dr_2058,Pediatrics,Outpatient,27
+112060,Dr_2059,General Medicine,Emergency,1
+112061,Dr_2060,Pediatrics,Medicine,29
+112062,Dr_2061,Orthopedics,Emergency,20
+112063,Dr_2062,Orthopedics,Emergency,30
+112064,Dr_2063,ENT,Surgery,30
+112065,Dr_2064,Cardiology,Surgery,34
+112066,Dr_2065,General Medicine,Surgery,20
+112067,Dr_2066,Orthopedics,Outpatient,13
+112068,Dr_2067,Oncology,Medicine,16
+112069,Dr_2068,ENT,Medicine,14
+112070,Dr_2069,Dermatology,Diagnostics,8
+112071,Dr_2070,Oncology,Medicine,8
+112072,Dr_2071,Pediatrics,Surgery,6
+112073,Dr_2072,Orthopedics,Diagnostics,25
+112074,Dr_2073,ENT,Medicine,7
+112075,Dr_2074,Pediatrics,Surgery,35
+112076,Dr_2075,Dermatology,Medicine,5
+112077,Dr_2076,Pediatrics,Medicine,17
+112078,Dr_2077,Orthopedics,Diagnostics,21
+112079,Dr_2078,Dermatology,Medicine,9
+112080,Dr_2079,Dermatology,Diagnostics,27
+112081,Dr_2080,Orthopedics,Surgery,20
+112082,Dr_2081,Dermatology,Outpatient,20
+112083,Dr_2082,Cardiology,Surgery,27
+112084,Dr_2083,ENT,Surgery,23
+112085,Dr_2084,Neurology,Outpatient,26
+112086,Dr_2085,Pediatrics,Diagnostics,33
+112087,Dr_2086,ENT,Diagnostics,21
+112088,Dr_2087,Orthopedics,Emergency,22
+112089,Dr_2088,Cardiology,Surgery,18
+112090,Dr_2089,Oncology,Emergency,25
+112091,Dr_2090,Oncology,Diagnostics,8
+112092,Dr_2091,Orthopedics,Surgery,33
+112093,Dr_2092,Dermatology,Outpatient,2
+112094,Dr_2093,Orthopedics,Diagnostics,35
+112095,Dr_2094,General Medicine,Emergency,32
+112096,Dr_2095,Oncology,Outpatient,29
+112097,Dr_2096,Cardiology,Outpatient,12
+112098,Dr_2097,Neurology,Diagnostics,32
+112099,Dr_2098,ENT,Surgery,13
+112100,Dr_2099,Pediatrics,Surgery,12
+112101,Dr_2100,Oncology,Outpatient,26
+112102,Dr_2101,General Medicine,Medicine,15
+112103,Dr_2102,Dermatology,Medicine,3
+112104,Dr_2103,Dermatology,Outpatient,5
+112105,Dr_2104,General Medicine,Emergency,25
+112106,Dr_2105,Orthopedics,Outpatient,29
+112107,Dr_2106,Dermatology,Emergency,6
+112108,Dr_2107,Oncology,Medicine,3
+112109,Dr_2108,Neurology,Outpatient,9
+112110,Dr_2109,Cardiology,Diagnostics,11
+112111,Dr_2110,Neurology,Outpatient,31
+112112,Dr_2111,General Medicine,Emergency,15
+112113,Dr_2112,Neurology,Surgery,20
+112114,Dr_2113,Oncology,Diagnostics,24
+112115,Dr_2114,Cardiology,Emergency,30
+112116,Dr_2115,Cardiology,Emergency,32
+112117,Dr_2116,Orthopedics,Medicine,8
+112118,Dr_2117,Orthopedics,Diagnostics,28
+112119,Dr_2118,Dermatology,Emergency,15
+112120,Dr_2119,Cardiology,Outpatient,18
+112121,Dr_2120,Orthopedics,Outpatient,31
+112122,Dr_2121,Cardiology,Diagnostics,13
+112123,Dr_2122,General Medicine,Emergency,10
+112124,Dr_2123,Neurology,Diagnostics,15
+112125,Dr_2124,Pediatrics,Surgery,25
+112126,Dr_2125,Oncology,Medicine,30
+112127,Dr_2126,Orthopedics,Surgery,8
+112128,Dr_2127,Pediatrics,Outpatient,32
+112129,Dr_2128,Pediatrics,Surgery,28
+112130,Dr_2129,Neurology,Medicine,27
+112131,Dr_2130,General Medicine,Diagnostics,33
+112132,Dr_2131,Dermatology,Surgery,15
+112133,Dr_2132,ENT,Medicine,26
+112134,Dr_2133,Dermatology,Surgery,31
+112135,Dr_2134,General Medicine,Emergency,20
+112136,Dr_2135,Orthopedics,Medicine,12
+112137,Dr_2136,ENT,Medicine,15
+112138,Dr_2137,Cardiology,Emergency,35
+112139,Dr_2138,Oncology,Outpatient,6
+112140,Dr_2139,Orthopedics,Outpatient,16
+112141,Dr_2140,Oncology,Emergency,12
+112142,Dr_2141,Dermatology,Diagnostics,35
+112143,Dr_2142,Oncology,Emergency,22
+112144,Dr_2143,Oncology,Outpatient,15
+112145,Dr_2144,General Medicine,Diagnostics,17
+112146,Dr_2145,Dermatology,Emergency,7
+112147,Dr_2146,Orthopedics,Emergency,1
+112148,Dr_2147,Orthopedics,Emergency,20
+112149,Dr_2148,ENT,Medicine,15
+112150,Dr_2149,Cardiology,Surgery,26
+112151,Dr_2150,Oncology,Outpatient,3
+112152,Dr_2151,Orthopedics,Diagnostics,17
+112153,Dr_2152,Cardiology,Outpatient,28
+112154,Dr_2153,Neurology,Emergency,18
+112155,Dr_2154,Dermatology,Surgery,11
+112156,Dr_2155,Neurology,Medicine,29
+112157,Dr_2156,General Medicine,Outpatient,33
+112158,Dr_2157,Dermatology,Diagnostics,26
+112159,Dr_2158,Pediatrics,Emergency,19
+112160,Dr_2159,Oncology,Surgery,18
+112161,Dr_2160,Orthopedics,Medicine,3
+112162,Dr_2161,Pediatrics,Diagnostics,14
+112163,Dr_2162,General Medicine,Diagnostics,35
+112164,Dr_2163,Oncology,Diagnostics,21
+112165,Dr_2164,ENT,Medicine,24
+112166,Dr_2165,Neurology,Surgery,29
+112167,Dr_2166,Dermatology,Medicine,20
+112168,Dr_2167,ENT,Diagnostics,16
+112169,Dr_2168,ENT,Medicine,7
+112170,Dr_2169,Orthopedics,Diagnostics,28
+112171,Dr_2170,Neurology,Outpatient,12
+112172,Dr_2171,Orthopedics,Outpatient,33
+112173,Dr_2172,ENT,Outpatient,18
+112174,Dr_2173,Oncology,Emergency,16
+112175,Dr_2174,Oncology,Diagnostics,9
+112176,Dr_2175,Oncology,Diagnostics,11
+112177,Dr_2176,Dermatology,Medicine,35
+112178,Dr_2177,Dermatology,Diagnostics,22
+112179,Dr_2178,Pediatrics,Emergency,19
+112180,Dr_2179,General Medicine,Outpatient,16
+112181,Dr_2180,Orthopedics,Outpatient,13
+112182,Dr_2181,Dermatology,Outpatient,32
+112183,Dr_2182,ENT,Outpatient,10
+112184,Dr_2183,Cardiology,Medicine,18
+112185,Dr_2184,Orthopedics,Outpatient,7
+112186,Dr_2185,Pediatrics,Diagnostics,25
+112187,Dr_2186,ENT,Diagnostics,25
+112188,Dr_2187,Oncology,Medicine,31
+112189,Dr_2188,Neurology,Diagnostics,11
+112190,Dr_2189,Orthopedics,Diagnostics,22
+112191,Dr_2190,Orthopedics,Diagnostics,29
+112192,Dr_2191,Pediatrics,Medicine,10
+112193,Dr_2192,Dermatology,Emergency,13
+112194,Dr_2193,Cardiology,Diagnostics,29
+112195,Dr_2194,Orthopedics,Surgery,21
+112196,Dr_2195,Oncology,Outpatient,22
+112197,Dr_2196,Orthopedics,Medicine,9
+112198,Dr_2197,Cardiology,Surgery,28
+112199,Dr_2198,Cardiology,Diagnostics,10
+112200,Dr_2199,Oncology,Surgery,24
+112201,Dr_2200,ENT,Emergency,27
+112202,Dr_2201,ENT,Medicine,31
+112203,Dr_2202,Neurology,Emergency,30
+112204,Dr_2203,ENT,Medicine,15
+112205,Dr_2204,Orthopedics,Diagnostics,12
+112206,Dr_2205,Orthopedics,Emergency,12
+112207,Dr_2206,ENT,Diagnostics,9
+112208,Dr_2207,Pediatrics,Outpatient,18
+112209,Dr_2208,ENT,Surgery,22
+112210,Dr_2209,ENT,Outpatient,28
+112211,Dr_2210,Dermatology,Emergency,31
+112212,Dr_2211,Oncology,Diagnostics,1
+112213,Dr_2212,Neurology,Surgery,2
+112214,Dr_2213,Pediatrics,Medicine,20
+112215,Dr_2214,Neurology,Outpatient,19
+112216,Dr_2215,Pediatrics,Diagnostics,3
+112217,Dr_2216,Cardiology,Diagnostics,3
+112218,Dr_2217,General Medicine,Medicine,25
+112219,Dr_2218,Neurology,Surgery,3
+112220,Dr_2219,General Medicine,Diagnostics,29
+112221,Dr_2220,Orthopedics,Surgery,3
+112222,Dr_2221,Orthopedics,Emergency,35
+112223,Dr_2222,Dermatology,Surgery,33
+112224,Dr_2223,Oncology,Diagnostics,11
+112225,Dr_2224,Pediatrics,Diagnostics,25
+112226,Dr_2225,Dermatology,Diagnostics,32
+112227,Dr_2226,Cardiology,Medicine,33
+112228,Dr_2227,ENT,Diagnostics,34
+112229,Dr_2228,Pediatrics,Surgery,17
+112230,Dr_2229,Pediatrics,Outpatient,5
+112231,Dr_2230,Orthopedics,Diagnostics,25
+112232,Dr_2231,ENT,Outpatient,26
+112233,Dr_2232,Pediatrics,Medicine,26
+112234,Dr_2233,Orthopedics,Emergency,28
+112235,Dr_2234,Neurology,Medicine,27
+112236,Dr_2235,Dermatology,Surgery,23
+112237,Dr_2236,Pediatrics,Medicine,30
+112238,Dr_2237,Dermatology,Surgery,25
+112239,Dr_2238,Orthopedics,Diagnostics,13
+112240,Dr_2239,Oncology,Surgery,7
+112241,Dr_2240,Pediatrics,Outpatient,21
+112242,Dr_2241,Pediatrics,Medicine,18
+112243,Dr_2242,Pediatrics,Emergency,24
+112244,Dr_2243,Cardiology,Medicine,35
+112245,Dr_2244,Oncology,Medicine,25
+112246,Dr_2245,General Medicine,Emergency,25
+112247,Dr_2246,Orthopedics,Surgery,9
+112248,Dr_2247,ENT,Medicine,10
+112249,Dr_2248,Neurology,Medicine,8
+112250,Dr_2249,Dermatology,Outpatient,27
+112251,Dr_2250,Pediatrics,Surgery,33
+112252,Dr_2251,Pediatrics,Emergency,30
+112253,Dr_2252,Pediatrics,Emergency,23
+112254,Dr_2253,Cardiology,Diagnostics,14
+112255,Dr_2254,Oncology,Outpatient,17
+112256,Dr_2255,ENT,Outpatient,8
+112257,Dr_2256,Pediatrics,Medicine,19
+112258,Dr_2257,Orthopedics,Emergency,7
+112259,Dr_2258,Oncology,Diagnostics,26
+112260,Dr_2259,Orthopedics,Emergency,33
+112261,Dr_2260,Neurology,Diagnostics,6
+112262,Dr_2261,Dermatology,Medicine,31
+112263,Dr_2262,General Medicine,Emergency,17
+112264,Dr_2263,ENT,Surgery,19
+112265,Dr_2264,ENT,Emergency,19
+112266,Dr_2265,ENT,Surgery,13
+112267,Dr_2266,General Medicine,Outpatient,35
+112268,Dr_2267,Dermatology,Surgery,12
+112269,Dr_2268,ENT,Medicine,35
+112270,Dr_2269,Orthopedics,Surgery,5
+112271,Dr_2270,Dermatology,Diagnostics,4
+112272,Dr_2271,ENT,Diagnostics,22
+112273,Dr_2272,Pediatrics,Emergency,32
+112274,Dr_2273,Neurology,Emergency,3
+112275,Dr_2274,Dermatology,Outpatient,20
+112276,Dr_2275,Cardiology,Medicine,30
+112277,Dr_2276,General Medicine,Diagnostics,20
+112278,Dr_2277,Oncology,Surgery,3
+112279,Dr_2278,Oncology,Outpatient,33
+112280,Dr_2279,ENT,Surgery,5
+112281,Dr_2280,Pediatrics,Surgery,15
+112282,Dr_2281,Pediatrics,Emergency,21
+112283,Dr_2282,Orthopedics,Medicine,27
+112284,Dr_2283,Neurology,Diagnostics,10
+112285,Dr_2284,General Medicine,Surgery,8
+112286,Dr_2285,Neurology,Emergency,11
+112287,Dr_2286,General Medicine,Outpatient,32
+112288,Dr_2287,Cardiology,Diagnostics,34
+112289,Dr_2288,General Medicine,Surgery,31
+112290,Dr_2289,General Medicine,Emergency,11
+112291,Dr_2290,Neurology,Medicine,1
+112292,Dr_2291,ENT,Surgery,13
+112293,Dr_2292,ENT,Outpatient,20
+112294,Dr_2293,Pediatrics,Emergency,9
+112295,Dr_2294,Cardiology,Diagnostics,25
+112296,Dr_2295,Oncology,Diagnostics,9
+112297,Dr_2296,Dermatology,Surgery,10
+112298,Dr_2297,Orthopedics,Emergency,19
+112299,Dr_2298,Dermatology,Outpatient,15
+112300,Dr_2299,ENT,Surgery,5
+112301,Dr_2300,Cardiology,Medicine,12
+112302,Dr_2301,Cardiology,Medicine,14
+112303,Dr_2302,Cardiology,Medicine,1
+112304,Dr_2303,General Medicine,Emergency,18
+112305,Dr_2304,Dermatology,Surgery,34
+112306,Dr_2305,ENT,Surgery,1
+112307,Dr_2306,ENT,Medicine,34
+112308,Dr_2307,ENT,Outpatient,20
+112309,Dr_2308,ENT,Emergency,2
+112310,Dr_2309,ENT,Outpatient,16
+112311,Dr_2310,Dermatology,Emergency,19
+112312,Dr_2311,Cardiology,Outpatient,12
+112313,Dr_2312,Neurology,Diagnostics,12
+112314,Dr_2313,Cardiology,Medicine,32
+112315,Dr_2314,General Medicine,Surgery,17
+112316,Dr_2315,Dermatology,Medicine,23
+112317,Dr_2316,General Medicine,Medicine,29
+112318,Dr_2317,Oncology,Emergency,25
+112319,Dr_2318,ENT,Outpatient,9
+112320,Dr_2319,General Medicine,Surgery,32
+112321,Dr_2320,Dermatology,Outpatient,23
+112322,Dr_2321,General Medicine,Diagnostics,7
+112323,Dr_2322,Neurology,Diagnostics,11
+112324,Dr_2323,ENT,Emergency,1
+112325,Dr_2324,General Medicine,Medicine,34
+112326,Dr_2325,Oncology,Outpatient,2
+112327,Dr_2326,General Medicine,Outpatient,34
+112328,Dr_2327,Cardiology,Medicine,4
+112329,Dr_2328,Neurology,Emergency,30
+112330,Dr_2329,Orthopedics,Outpatient,14
+112331,Dr_2330,Oncology,Diagnostics,30
+112332,Dr_2331,Dermatology,Surgery,23
+112333,Dr_2332,Pediatrics,Surgery,14
+112334,Dr_2333,ENT,Emergency,21
+112335,Dr_2334,Pediatrics,Medicine,16
+112336,Dr_2335,Orthopedics,Diagnostics,2
+112337,Dr_2336,Cardiology,Emergency,27
+112338,Dr_2337,ENT,Emergency,16
+112339,Dr_2338,Orthopedics,Diagnostics,1
+112340,Dr_2339,General Medicine,Surgery,16
+112341,Dr_2340,ENT,Medicine,18
+112342,Dr_2341,ENT,Diagnostics,22
+112343,Dr_2342,Cardiology,Surgery,22
+112344,Dr_2343,Neurology,Surgery,31
+112345,Dr_2344,Cardiology,Outpatient,21
+112346,Dr_2345,ENT,Surgery,29
+112347,Dr_2346,Oncology,Medicine,11
+112348,Dr_2347,Orthopedics,Surgery,16
+112349,Dr_2348,General Medicine,Emergency,17
+112350,Dr_2349,ENT,Medicine,11
+112351,Dr_2350,General Medicine,Medicine,22
+112352,Dr_2351,Neurology,Outpatient,15
+112353,Dr_2352,Pediatrics,Medicine,26
+112354,Dr_2353,Oncology,Diagnostics,15
+112355,Dr_2354,Cardiology,Diagnostics,1
+112356,Dr_2355,Neurology,Surgery,26
+112357,Dr_2356,Orthopedics,Surgery,32
+112358,Dr_2357,Cardiology,Outpatient,13
+112359,Dr_2358,Pediatrics,Surgery,13
+112360,Dr_2359,Dermatology,Emergency,27
+112361,Dr_2360,Orthopedics,Medicine,9
+112362,Dr_2361,Neurology,Diagnostics,23
+112363,Dr_2362,Cardiology,Emergency,31
+112364,Dr_2363,Pediatrics,Outpatient,17
+112365,Dr_2364,Orthopedics,Medicine,33
+112366,Dr_2365,Orthopedics,Surgery,27
+112367,Dr_2366,Neurology,Emergency,12
+112368,Dr_2367,Neurology,Outpatient,19
+112369,Dr_2368,ENT,Emergency,16
+112370,Dr_2369,Oncology,Diagnostics,7
+112371,Dr_2370,ENT,Outpatient,33
+112372,Dr_2371,Dermatology,Emergency,13
+112373,Dr_2372,ENT,Emergency,35
+112374,Dr_2373,Neurology,Emergency,18
+112375,Dr_2374,ENT,Outpatient,8
+112376,Dr_2375,Neurology,Outpatient,32
+112377,Dr_2376,General Medicine,Surgery,32
+112378,Dr_2377,Oncology,Surgery,2
+112379,Dr_2378,Oncology,Surgery,19
+112380,Dr_2379,Oncology,Emergency,14
+112381,Dr_2380,Neurology,Surgery,3
+112382,Dr_2381,Oncology,Medicine,10
+112383,Dr_2382,ENT,Medicine,13
+112384,Dr_2383,Cardiology,Medicine,33
+112385,Dr_2384,General Medicine,Emergency,28
+112386,Dr_2385,Orthopedics,Emergency,9
+112387,Dr_2386,Oncology,Emergency,25
+112388,Dr_2387,Cardiology,Emergency,5
+112389,Dr_2388,Dermatology,Emergency,28
+112390,Dr_2389,Orthopedics,Outpatient,35
+112391,Dr_2390,Cardiology,Surgery,31
+112392,Dr_2391,ENT,Diagnostics,13
+112393,Dr_2392,Cardiology,Emergency,22
+112394,Dr_2393,Dermatology,Outpatient,24
+112395,Dr_2394,Pediatrics,Medicine,13
+112396,Dr_2395,Neurology,Emergency,32
+112397,Dr_2396,ENT,Diagnostics,29
+112398,Dr_2397,General Medicine,Medicine,21
+112399,Dr_2398,General Medicine,Surgery,18
+112400,Dr_2399,Orthopedics,Outpatient,5
+112401,Dr_2400,Pediatrics,Surgery,5
+112402,Dr_2401,Oncology,Medicine,34
+112403,Dr_2402,Cardiology,Medicine,19
+112404,Dr_2403,Orthopedics,Surgery,10
+112405,Dr_2404,Oncology,Emergency,8
+112406,Dr_2405,Orthopedics,Diagnostics,34
+112407,Dr_2406,Dermatology,Outpatient,12
+112408,Dr_2407,ENT,Emergency,8
+112409,Dr_2408,General Medicine,Surgery,21
+112410,Dr_2409,Neurology,Surgery,5
+112411,Dr_2410,Dermatology,Medicine,8
+112412,Dr_2411,Pediatrics,Emergency,34
+112413,Dr_2412,Pediatrics,Surgery,15
+112414,Dr_2413,Cardiology,Surgery,1
+112415,Dr_2414,Neurology,Medicine,14
+112416,Dr_2415,ENT,Emergency,25
+112417,Dr_2416,Dermatology,Outpatient,12
+112418,Dr_2417,Dermatology,Medicine,28
+112419,Dr_2418,Neurology,Outpatient,32
+112420,Dr_2419,General Medicine,Emergency,11
+112421,Dr_2420,ENT,Outpatient,21
+112422,Dr_2421,Dermatology,Medicine,1
+112423,Dr_2422,ENT,Surgery,25
+112424,Dr_2423,Pediatrics,Medicine,8
+112425,Dr_2424,Neurology,Surgery,13
+112426,Dr_2425,Neurology,Emergency,18
+112427,Dr_2426,Oncology,Surgery,5
+112428,Dr_2427,ENT,Surgery,21
+112429,Dr_2428,ENT,Surgery,28
+112430,Dr_2429,Dermatology,Outpatient,8
+112431,Dr_2430,Pediatrics,Surgery,21
+112432,Dr_2431,ENT,Diagnostics,26
+112433,Dr_2432,General Medicine,Surgery,24
+112434,Dr_2433,Dermatology,Outpatient,22
+112435,Dr_2434,Pediatrics,Emergency,23
+112436,Dr_2435,Neurology,Emergency,24
+112437,Dr_2436,ENT,Diagnostics,13
+112438,Dr_2437,Orthopedics,Diagnostics,13
+112439,Dr_2438,Cardiology,Medicine,16
+112440,Dr_2439,Neurology,Diagnostics,30
+112441,Dr_2440,ENT,Emergency,6
+112442,Dr_2441,Orthopedics,Medicine,18
+112443,Dr_2442,General Medicine,Medicine,9
+112444,Dr_2443,ENT,Outpatient,20
+112445,Dr_2444,Pediatrics,Emergency,21
+112446,Dr_2445,Oncology,Emergency,17
+112447,Dr_2446,Orthopedics,Outpatient,19
+112448,Dr_2447,Oncology,Diagnostics,28
+112449,Dr_2448,Pediatrics,Emergency,35
+112450,Dr_2449,ENT,Emergency,2
+112451,Dr_2450,General Medicine,Surgery,22
+112452,Dr_2451,General Medicine,Emergency,18
+112453,Dr_2452,Pediatrics,Outpatient,15
+112454,Dr_2453,Dermatology,Emergency,2
+112455,Dr_2454,Dermatology,Emergency,26
+112456,Dr_2455,Neurology,Emergency,7
+112457,Dr_2456,General Medicine,Diagnostics,17
+112458,Dr_2457,Cardiology,Surgery,14
+112459,Dr_2458,Pediatrics,Emergency,8
+112460,Dr_2459,Oncology,Outpatient,20
+112461,Dr_2460,General Medicine,Medicine,24
+112462,Dr_2461,Orthopedics,Medicine,31
+112463,Dr_2462,Orthopedics,Diagnostics,34
+112464,Dr_2463,Neurology,Medicine,28
+112465,Dr_2464,Oncology,Outpatient,11
+112466,Dr_2465,General Medicine,Surgery,31
+112467,Dr_2466,ENT,Emergency,5
+112468,Dr_2467,Orthopedics,Diagnostics,29
+112469,Dr_2468,Pediatrics,Diagnostics,24
+112470,Dr_2469,Cardiology,Surgery,35
+112471,Dr_2470,Orthopedics,Medicine,29
+112472,Dr_2471,Pediatrics,Medicine,11
+112473,Dr_2472,General Medicine,Emergency,30
+112474,Dr_2473,Oncology,Medicine,17
+112475,Dr_2474,Orthopedics,Emergency,17
+112476,Dr_2475,Dermatology,Surgery,27
+112477,Dr_2476,Orthopedics,Emergency,32
+112478,Dr_2477,Dermatology,Surgery,24
+112479,Dr_2478,General Medicine,Outpatient,13
+112480,Dr_2479,Pediatrics,Emergency,27
+112481,Dr_2480,General Medicine,Outpatient,24
+112482,Dr_2481,ENT,Medicine,7
+112483,Dr_2482,Cardiology,Emergency,21
+112484,Dr_2483,Neurology,Medicine,19
+112485,Dr_2484,General Medicine,Medicine,28
+112486,Dr_2485,ENT,Outpatient,18
+112487,Dr_2486,Orthopedics,Diagnostics,22
+112488,Dr_2487,Cardiology,Outpatient,26
+112489,Dr_2488,Cardiology,Diagnostics,10
+112490,Dr_2489,Dermatology,Emergency,26
+112491,Dr_2490,Cardiology,Emergency,24
+112492,Dr_2491,Dermatology,Outpatient,1
+112493,Dr_2492,Cardiology,Surgery,29
+112494,Dr_2493,Neurology,Outpatient,34
+112495,Dr_2494,Oncology,Surgery,4
+112496,Dr_2495,Pediatrics,Medicine,6
+112497,Dr_2496,General Medicine,Emergency,21
+112498,Dr_2497,General Medicine,Emergency,24
+112499,Dr_2498,Pediatrics,Diagnostics,13
+112500,Dr_2499,ENT,Emergency,20
+112501,Dr_2500,Cardiology,Surgery,17
+112502,Dr_2501,Dermatology,Medicine,16
+112503,Dr_2502,Orthopedics,Emergency,9
+112504,Dr_2503,Dermatology,Medicine,2
+112505,Dr_2504,Pediatrics,Outpatient,2
+112506,Dr_2505,Cardiology,Medicine,1
+112507,Dr_2506,Orthopedics,Medicine,29
+112508,Dr_2507,Cardiology,Emergency,22
+112509,Dr_2508,Cardiology,Emergency,35
+112510,Dr_2509,Cardiology,Diagnostics,6
+112511,Dr_2510,Orthopedics,Surgery,24
+112512,Dr_2511,Dermatology,Emergency,35
+112513,Dr_2512,ENT,Emergency,1
+112514,Dr_2513,ENT,Diagnostics,17
+112515,Dr_2514,Dermatology,Emergency,3
+112516,Dr_2515,Cardiology,Outpatient,35
+112517,Dr_2516,General Medicine,Outpatient,11
+112518,Dr_2517,Oncology,Surgery,34
+112519,Dr_2518,Neurology,Emergency,5
+112520,Dr_2519,Pediatrics,Surgery,7
+112521,Dr_2520,Orthopedics,Medicine,11
+112522,Dr_2521,Orthopedics,Diagnostics,17
+112523,Dr_2522,Dermatology,Surgery,32
+112524,Dr_2523,Orthopedics,Outpatient,22
+112525,Dr_2524,Neurology,Outpatient,27
+112526,Dr_2525,Dermatology,Surgery,31
+112527,Dr_2526,Dermatology,Medicine,5
+112528,Dr_2527,Pediatrics,Emergency,3
+112529,Dr_2528,Neurology,Medicine,21
+112530,Dr_2529,Pediatrics,Medicine,34
+112531,Dr_2530,Dermatology,Surgery,9
+112532,Dr_2531,ENT,Emergency,8
+112533,Dr_2532,Oncology,Surgery,7
+112534,Dr_2533,Orthopedics,Emergency,6
+112535,Dr_2534,Pediatrics,Emergency,22
+112536,Dr_2535,General Medicine,Diagnostics,19
+112537,Dr_2536,ENT,Medicine,29
+112538,Dr_2537,Cardiology,Medicine,25
+112539,Dr_2538,Pediatrics,Outpatient,17
+112540,Dr_2539,ENT,Emergency,14
+112541,Dr_2540,Oncology,Medicine,20
+112542,Dr_2541,Dermatology,Surgery,24
+112543,Dr_2542,ENT,Emergency,7
+112544,Dr_2543,ENT,Diagnostics,5
+112545,Dr_2544,Neurology,Medicine,16
+112546,Dr_2545,Dermatology,Diagnostics,35
+112547,Dr_2546,Orthopedics,Medicine,35
+112548,Dr_2547,Cardiology,Emergency,6
+112549,Dr_2548,ENT,Outpatient,18
+112550,Dr_2549,Cardiology,Emergency,7
+112551,Dr_2550,Dermatology,Emergency,34
+112552,Dr_2551,Cardiology,Outpatient,7
+112553,Dr_2552,ENT,Medicine,26
+112554,Dr_2553,ENT,Surgery,6
+112555,Dr_2554,Neurology,Emergency,21
+112556,Dr_2555,ENT,Diagnostics,3
+112557,Dr_2556,Oncology,Emergency,7
+112558,Dr_2557,Dermatology,Outpatient,17
+112559,Dr_2558,Pediatrics,Diagnostics,27
+112560,Dr_2559,Pediatrics,Diagnostics,8
+112561,Dr_2560,Dermatology,Emergency,15
+112562,Dr_2561,General Medicine,Medicine,4
+112563,Dr_2562,General Medicine,Medicine,9
+112564,Dr_2563,Oncology,Medicine,17
+112565,Dr_2564,Dermatology,Emergency,5
+112566,Dr_2565,Cardiology,Surgery,34
+112567,Dr_2566,Dermatology,Diagnostics,32
+112568,Dr_2567,Oncology,Medicine,11
+112569,Dr_2568,Neurology,Medicine,26
+112570,Dr_2569,General Medicine,Diagnostics,8
+112571,Dr_2570,Neurology,Diagnostics,32
+112572,Dr_2571,General Medicine,Diagnostics,23
+112573,Dr_2572,ENT,Outpatient,29
+112574,Dr_2573,General Medicine,Medicine,23
+112575,Dr_2574,Oncology,Diagnostics,16
+112576,Dr_2575,Oncology,Emergency,34
+112577,Dr_2576,Cardiology,Medicine,11
+112578,Dr_2577,Pediatrics,Medicine,7
+112579,Dr_2578,General Medicine,Emergency,19
+112580,Dr_2579,Dermatology,Surgery,18
+112581,Dr_2580,Orthopedics,Surgery,27
+112582,Dr_2581,ENT,Surgery,4
+112583,Dr_2582,Dermatology,Surgery,30
+112584,Dr_2583,Oncology,Outpatient,33
+112585,Dr_2584,Cardiology,Medicine,17
+112586,Dr_2585,Dermatology,Medicine,34
+112587,Dr_2586,Orthopedics,Medicine,11
+112588,Dr_2587,Cardiology,Emergency,16
+112589,Dr_2588,Oncology,Surgery,24
+112590,Dr_2589,Dermatology,Outpatient,28
+112591,Dr_2590,Neurology,Outpatient,29
+112592,Dr_2591,General Medicine,Medicine,23
+112593,Dr_2592,Neurology,Outpatient,5
+112594,Dr_2593,Dermatology,Diagnostics,22
+112595,Dr_2594,ENT,Diagnostics,33
+112596,Dr_2595,ENT,Diagnostics,12
+112597,Dr_2596,Neurology,Medicine,18
+112598,Dr_2597,Pediatrics,Diagnostics,31
+112599,Dr_2598,Pediatrics,Medicine,5
+112600,Dr_2599,Cardiology,Outpatient,24
+112601,Dr_2600,Cardiology,Medicine,35
+112602,Dr_2601,Pediatrics,Outpatient,7
+112603,Dr_2602,ENT,Outpatient,26
+112604,Dr_2603,Pediatrics,Diagnostics,30
+112605,Dr_2604,ENT,Surgery,8
+112606,Dr_2605,Orthopedics,Outpatient,13
+112607,Dr_2606,Dermatology,Diagnostics,12
+112608,Dr_2607,Orthopedics,Outpatient,7
+112609,Dr_2608,Orthopedics,Outpatient,6
+112610,Dr_2609,Dermatology,Diagnostics,17
+112611,Dr_2610,Neurology,Outpatient,32
+112612,Dr_2611,Dermatology,Diagnostics,27
+112613,Dr_2612,Cardiology,Medicine,23
+112614,Dr_2613,Neurology,Emergency,7
+112615,Dr_2614,Orthopedics,Diagnostics,11
+112616,Dr_2615,ENT,Outpatient,27
+112617,Dr_2616,Oncology,Diagnostics,3
+112618,Dr_2617,Dermatology,Outpatient,19
+112619,Dr_2618,Pediatrics,Diagnostics,17
+112620,Dr_2619,ENT,Surgery,6
+112621,Dr_2620,Oncology,Surgery,22
+112622,Dr_2621,Dermatology,Surgery,6
+112623,Dr_2622,Neurology,Outpatient,1
+112624,Dr_2623,Cardiology,Outpatient,4
+112625,Dr_2624,ENT,Emergency,17
+112626,Dr_2625,Neurology,Diagnostics,13
+112627,Dr_2626,Oncology,Medicine,20
+112628,Dr_2627,Dermatology,Outpatient,4
+112629,Dr_2628,General Medicine,Emergency,34
+112630,Dr_2629,ENT,Emergency,5
+112631,Dr_2630,General Medicine,Diagnostics,8
+112632,Dr_2631,Pediatrics,Surgery,16
+112633,Dr_2632,Dermatology,Medicine,33
+112634,Dr_2633,Pediatrics,Medicine,21
+112635,Dr_2634,Orthopedics,Medicine,35
+112636,Dr_2635,Dermatology,Diagnostics,31
+112637,Dr_2636,Dermatology,Medicine,3
+112638,Dr_2637,ENT,Emergency,14
+112639,Dr_2638,Pediatrics,Diagnostics,1
+112640,Dr_2639,Pediatrics,Outpatient,9
+112641,Dr_2640,Dermatology,Emergency,4
+112642,Dr_2641,General Medicine,Surgery,22
+112643,Dr_2642,Oncology,Medicine,23
+112644,Dr_2643,Orthopedics,Outpatient,32
+112645,Dr_2644,Cardiology,Medicine,27
+112646,Dr_2645,Pediatrics,Medicine,3
+112647,Dr_2646,Cardiology,Emergency,23
+112648,Dr_2647,Pediatrics,Medicine,21
+112649,Dr_2648,ENT,Diagnostics,16
+112650,Dr_2649,ENT,Surgery,2
+112651,Dr_2650,Neurology,Surgery,29
+112652,Dr_2651,Dermatology,Outpatient,27
+112653,Dr_2652,Orthopedics,Medicine,4
+112654,Dr_2653,Neurology,Surgery,11
+112655,Dr_2654,Cardiology,Diagnostics,2
+112656,Dr_2655,Neurology,Surgery,1
+112657,Dr_2656,Cardiology,Emergency,33
+112658,Dr_2657,ENT,Emergency,18
+112659,Dr_2658,Cardiology,Outpatient,19
+112660,Dr_2659,Neurology,Medicine,4
+112661,Dr_2660,Cardiology,Outpatient,27
+112662,Dr_2661,Oncology,Emergency,1
+112663,Dr_2662,Orthopedics,Surgery,15
+112664,Dr_2663,Dermatology,Surgery,34
+112665,Dr_2664,Pediatrics,Medicine,27
+112666,Dr_2665,Pediatrics,Emergency,24
+112667,Dr_2666,Cardiology,Outpatient,34
+112668,Dr_2667,Oncology,Medicine,27
+112669,Dr_2668,Orthopedics,Surgery,31
+112670,Dr_2669,ENT,Surgery,4
+112671,Dr_2670,Orthopedics,Outpatient,3
+112672,Dr_2671,Dermatology,Medicine,7
+112673,Dr_2672,ENT,Medicine,5
+112674,Dr_2673,General Medicine,Emergency,34
+112675,Dr_2674,Oncology,Emergency,34
+112676,Dr_2675,Oncology,Outpatient,1
+112677,Dr_2676,General Medicine,Surgery,20
+112678,Dr_2677,Neurology,Surgery,25
+112679,Dr_2678,Oncology,Outpatient,33
+112680,Dr_2679,Pediatrics,Surgery,34
+112681,Dr_2680,Cardiology,Medicine,5
+112682,Dr_2681,Oncology,Medicine,34
+112683,Dr_2682,Cardiology,Medicine,13
+112684,Dr_2683,Orthopedics,Outpatient,32
+112685,Dr_2684,Cardiology,Emergency,8
+112686,Dr_2685,ENT,Emergency,15
+112687,Dr_2686,Pediatrics,Surgery,4
+112688,Dr_2687,General Medicine,Outpatient,14
+112689,Dr_2688,Pediatrics,Surgery,15
+112690,Dr_2689,Cardiology,Diagnostics,9
+112691,Dr_2690,Neurology,Surgery,26
+112692,Dr_2691,Orthopedics,Medicine,12
+112693,Dr_2692,Pediatrics,Outpatient,9
+112694,Dr_2693,Neurology,Diagnostics,23
+112695,Dr_2694,Neurology,Diagnostics,6
+112696,Dr_2695,Neurology,Diagnostics,20
+112697,Dr_2696,Neurology,Medicine,23
+112698,Dr_2697,Dermatology,Outpatient,15
+112699,Dr_2698,Neurology,Surgery,20
+112700,Dr_2699,Neurology,Diagnostics,5
+112701,Dr_2700,Dermatology,Outpatient,27
+112702,Dr_2701,Cardiology,Emergency,13
+112703,Dr_2702,General Medicine,Outpatient,14
+112704,Dr_2703,Oncology,Medicine,35
+112705,Dr_2704,Pediatrics,Emergency,1
+112706,Dr_2705,Orthopedics,Diagnostics,21
+112707,Dr_2706,ENT,Emergency,29
+112708,Dr_2707,Cardiology,Diagnostics,27
+112709,Dr_2708,Cardiology,Medicine,8
+112710,Dr_2709,Neurology,Emergency,16
+112711,Dr_2710,Dermatology,Medicine,9
+112712,Dr_2711,Dermatology,Emergency,19
+112713,Dr_2712,ENT,Outpatient,16
+112714,Dr_2713,Pediatrics,Surgery,4
+112715,Dr_2714,Cardiology,Surgery,35
+112716,Dr_2715,ENT,Medicine,7
+112717,Dr_2716,Pediatrics,Surgery,18
+112718,Dr_2717,Orthopedics,Outpatient,2
+112719,Dr_2718,Oncology,Outpatient,6
+112720,Dr_2719,Dermatology,Emergency,27
+112721,Dr_2720,Neurology,Diagnostics,25
+112722,Dr_2721,Neurology,Outpatient,25
+112723,Dr_2722,Pediatrics,Surgery,10
+112724,Dr_2723,Pediatrics,Surgery,18
+112725,Dr_2724,Cardiology,Medicine,28
+112726,Dr_2725,Orthopedics,Diagnostics,26
+112727,Dr_2726,Pediatrics,Medicine,24
+112728,Dr_2727,Oncology,Diagnostics,16
+112729,Dr_2728,ENT,Medicine,7
+112730,Dr_2729,Orthopedics,Emergency,1
+112731,Dr_2730,Orthopedics,Outpatient,29
+112732,Dr_2731,Oncology,Emergency,34
+112733,Dr_2732,Dermatology,Emergency,31
+112734,Dr_2733,Oncology,Diagnostics,1
+112735,Dr_2734,Dermatology,Emergency,35
+112736,Dr_2735,Cardiology,Surgery,24
+112737,Dr_2736,Orthopedics,Outpatient,16
+112738,Dr_2737,Neurology,Surgery,20
+112739,Dr_2738,General Medicine,Surgery,11
+112740,Dr_2739,ENT,Outpatient,5
+112741,Dr_2740,Cardiology,Surgery,27
+112742,Dr_2741,Pediatrics,Emergency,9
+112743,Dr_2742,General Medicine,Medicine,8
+112744,Dr_2743,Oncology,Outpatient,1
+112745,Dr_2744,Oncology,Surgery,32
+112746,Dr_2745,Pediatrics,Medicine,12
+112747,Dr_2746,Dermatology,Diagnostics,30
+112748,Dr_2747,Pediatrics,Surgery,34
+112749,Dr_2748,Dermatology,Outpatient,24
+112750,Dr_2749,Pediatrics,Diagnostics,10
+112751,Dr_2750,Orthopedics,Emergency,1
+112752,Dr_2751,Neurology,Medicine,4
+112753,Dr_2752,Pediatrics,Diagnostics,3
+112754,Dr_2753,Neurology,Emergency,12
+112755,Dr_2754,Dermatology,Surgery,35
+112756,Dr_2755,Oncology,Diagnostics,28
+112757,Dr_2756,Orthopedics,Medicine,35
+112758,Dr_2757,General Medicine,Outpatient,2
+112759,Dr_2758,Cardiology,Medicine,30
+112760,Dr_2759,Orthopedics,Surgery,6
+112761,Dr_2760,ENT,Emergency,3
+112762,Dr_2761,Neurology,Medicine,26
+112763,Dr_2762,Cardiology,Surgery,30
+112764,Dr_2763,Dermatology,Emergency,2
+112765,Dr_2764,Neurology,Outpatient,13
+112766,Dr_2765,Neurology,Emergency,34
+112767,Dr_2766,Dermatology,Surgery,25
+112768,Dr_2767,ENT,Emergency,24
+112769,Dr_2768,Orthopedics,Outpatient,26
+112770,Dr_2769,Oncology,Outpatient,19
+112771,Dr_2770,Dermatology,Surgery,20
+112772,Dr_2771,Cardiology,Medicine,25
+112773,Dr_2772,General Medicine,Medicine,24
+112774,Dr_2773,Orthopedics,Diagnostics,32
+112775,Dr_2774,General Medicine,Outpatient,35
+112776,Dr_2775,Dermatology,Diagnostics,18
+112777,Dr_2776,Orthopedics,Diagnostics,17
+112778,Dr_2777,General Medicine,Outpatient,18
+112779,Dr_2778,Dermatology,Surgery,25
+112780,Dr_2779,General Medicine,Surgery,18
+112781,Dr_2780,Oncology,Outpatient,30
+112782,Dr_2781,Oncology,Emergency,11
+112783,Dr_2782,Oncology,Emergency,9
+112784,Dr_2783,Neurology,Diagnostics,10
+112785,Dr_2784,Dermatology,Outpatient,20
+112786,Dr_2785,Dermatology,Outpatient,31
+112787,Dr_2786,Cardiology,Outpatient,12
+112788,Dr_2787,Oncology,Surgery,7
+112789,Dr_2788,Cardiology,Diagnostics,10
+112790,Dr_2789,Cardiology,Medicine,25
+112791,Dr_2790,Oncology,Emergency,26
+112792,Dr_2791,Dermatology,Emergency,5
+112793,Dr_2792,Orthopedics,Emergency,13
+112794,Dr_2793,Oncology,Diagnostics,15
+112795,Dr_2794,Neurology,Outpatient,7
+112796,Dr_2795,ENT,Diagnostics,3
+112797,Dr_2796,Oncology,Diagnostics,30
+112798,Dr_2797,General Medicine,Emergency,20
+112799,Dr_2798,Orthopedics,Emergency,17
+112800,Dr_2799,Orthopedics,Medicine,10
+112801,Dr_2800,Pediatrics,Outpatient,7
+112802,Dr_2801,Oncology,Outpatient,31
+112803,Dr_2802,Cardiology,Medicine,34
+112804,Dr_2803,General Medicine,Emergency,35
+112805,Dr_2804,Dermatology,Surgery,15
+112806,Dr_2805,General Medicine,Surgery,33
+112807,Dr_2806,ENT,Surgery,28
+112808,Dr_2807,Neurology,Outpatient,20
+112809,Dr_2808,General Medicine,Emergency,26
+112810,Dr_2809,Oncology,Emergency,22
+112811,Dr_2810,Pediatrics,Emergency,22
+112812,Dr_2811,Orthopedics,Emergency,29
+112813,Dr_2812,General Medicine,Outpatient,11
+112814,Dr_2813,Dermatology,Diagnostics,6
+112815,Dr_2814,Neurology,Medicine,4
+112816,Dr_2815,Orthopedics,Outpatient,18
+112817,Dr_2816,ENT,Emergency,17
+112818,Dr_2817,ENT,Emergency,16
+112819,Dr_2818,General Medicine,Medicine,20
+112820,Dr_2819,Neurology,Surgery,15
+112821,Dr_2820,ENT,Outpatient,34
+112822,Dr_2821,Oncology,Diagnostics,34
+112823,Dr_2822,Cardiology,Diagnostics,32
+112824,Dr_2823,Cardiology,Outpatient,28
+112825,Dr_2824,Neurology,Medicine,8
+112826,Dr_2825,Neurology,Surgery,27
+112827,Dr_2826,Oncology,Emergency,29
+112828,Dr_2827,Dermatology,Surgery,31
+112829,Dr_2828,Pediatrics,Surgery,3
+112830,Dr_2829,Neurology,Surgery,31
+112831,Dr_2830,General Medicine,Medicine,11
+112832,Dr_2831,General Medicine,Surgery,17
+112833,Dr_2832,Cardiology,Surgery,21
+112834,Dr_2833,Neurology,Surgery,28
+112835,Dr_2834,Cardiology,Outpatient,27
+112836,Dr_2835,Cardiology,Surgery,34
+112837,Dr_2836,Pediatrics,Medicine,28
+112838,Dr_2837,Orthopedics,Diagnostics,10
+112839,Dr_2838,Cardiology,Surgery,31
+112840,Dr_2839,Dermatology,Medicine,24
+112841,Dr_2840,General Medicine,Outpatient,13
+112842,Dr_2841,Dermatology,Outpatient,32
+112843,Dr_2842,Orthopedics,Diagnostics,2
+112844,Dr_2843,Pediatrics,Medicine,4
+112845,Dr_2844,General Medicine,Medicine,12
+112846,Dr_2845,General Medicine,Medicine,17
+112847,Dr_2846,General Medicine,Diagnostics,34
+112848,Dr_2847,Oncology,Surgery,22
+112849,Dr_2848,ENT,Emergency,26
+112850,Dr_2849,Oncology,Outpatient,9
+112851,Dr_2850,Pediatrics,Surgery,29
+112852,Dr_2851,General Medicine,Medicine,4
+112853,Dr_2852,Oncology,Outpatient,28
+112854,Dr_2853,Pediatrics,Outpatient,13
+112855,Dr_2854,Oncology,Surgery,4
+112856,Dr_2855,Neurology,Diagnostics,35
+112857,Dr_2856,Neurology,Emergency,12
+112858,Dr_2857,Pediatrics,Emergency,9
+112859,Dr_2858,Oncology,Medicine,17
+112860,Dr_2859,Pediatrics,Medicine,7
+112861,Dr_2860,Oncology,Outpatient,18
+112862,Dr_2861,Dermatology,Outpatient,28
+112863,Dr_2862,Neurology,Outpatient,32
+112864,Dr_2863,Oncology,Emergency,5
+112865,Dr_2864,Neurology,Diagnostics,12
+112866,Dr_2865,General Medicine,Emergency,12
+112867,Dr_2866,Dermatology,Medicine,22
+112868,Dr_2867,Pediatrics,Emergency,2
+112869,Dr_2868,Neurology,Emergency,2
+112870,Dr_2869,Pediatrics,Outpatient,29
+112871,Dr_2870,Dermatology,Surgery,19
+112872,Dr_2871,General Medicine,Diagnostics,21
+112873,Dr_2872,Dermatology,Diagnostics,10
+112874,Dr_2873,Cardiology,Surgery,12
+112875,Dr_2874,Pediatrics,Surgery,12
+112876,Dr_2875,Dermatology,Emergency,19
+112877,Dr_2876,Cardiology,Medicine,19
+112878,Dr_2877,Cardiology,Emergency,34
+112879,Dr_2878,Dermatology,Surgery,19
+112880,Dr_2879,Pediatrics,Surgery,27
+112881,Dr_2880,ENT,Surgery,11
+112882,Dr_2881,General Medicine,Emergency,34
+112883,Dr_2882,Pediatrics,Outpatient,15
+112884,Dr_2883,Dermatology,Surgery,27
+112885,Dr_2884,ENT,Medicine,23
+112886,Dr_2885,Orthopedics,Diagnostics,16
+112887,Dr_2886,Neurology,Diagnostics,9
+112888,Dr_2887,Cardiology,Medicine,2
+112889,Dr_2888,Pediatrics,Diagnostics,3
+112890,Dr_2889,Cardiology,Medicine,18
+112891,Dr_2890,Oncology,Emergency,4
+112892,Dr_2891,Cardiology,Medicine,32
+112893,Dr_2892,Neurology,Medicine,4
+112894,Dr_2893,Neurology,Medicine,29
+112895,Dr_2894,Oncology,Emergency,31
+112896,Dr_2895,Pediatrics,Outpatient,18
+112897,Dr_2896,Cardiology,Emergency,21
+112898,Dr_2897,Oncology,Outpatient,9
+112899,Dr_2898,Cardiology,Outpatient,12
+112900,Dr_2899,Cardiology,Medicine,15
+112901,Dr_2900,Orthopedics,Surgery,24
+112902,Dr_2901,Dermatology,Outpatient,30
+112903,Dr_2902,General Medicine,Medicine,20
+112904,Dr_2903,General Medicine,Outpatient,22
+112905,Dr_2904,Oncology,Outpatient,14
+112906,Dr_2905,General Medicine,Medicine,4
+112907,Dr_2906,General Medicine,Diagnostics,5
+112908,Dr_2907,Neurology,Diagnostics,6
+112909,Dr_2908,Pediatrics,Surgery,8
+112910,Dr_2909,Pediatrics,Outpatient,6
+112911,Dr_2910,Pediatrics,Emergency,20
+112912,Dr_2911,Oncology,Outpatient,10
+112913,Dr_2912,Dermatology,Outpatient,1
+112914,Dr_2913,Orthopedics,Medicine,4
+112915,Dr_2914,General Medicine,Medicine,18
+112916,Dr_2915,Neurology,Surgery,30
+112917,Dr_2916,Oncology,Diagnostics,28
+112918,Dr_2917,Neurology,Emergency,35
+112919,Dr_2918,Pediatrics,Medicine,4
+112920,Dr_2919,Neurology,Surgery,22
+112921,Dr_2920,Dermatology,Diagnostics,1
+112922,Dr_2921,Dermatology,Diagnostics,14
+112923,Dr_2922,Orthopedics,Outpatient,7
+112924,Dr_2923,Dermatology,Emergency,18
+112925,Dr_2924,ENT,Diagnostics,27
+112926,Dr_2925,Neurology,Emergency,19
+112927,Dr_2926,General Medicine,Outpatient,26
+112928,Dr_2927,Pediatrics,Surgery,10
+112929,Dr_2928,ENT,Emergency,12
+112930,Dr_2929,Oncology,Diagnostics,15
+112931,Dr_2930,Pediatrics,Medicine,18
+112932,Dr_2931,Oncology,Medicine,7
+112933,Dr_2932,Cardiology,Outpatient,19
+112934,Dr_2933,Cardiology,Medicine,27
+112935,Dr_2934,Neurology,Diagnostics,30
+112936,Dr_2935,Orthopedics,Emergency,26
+112937,Dr_2936,Cardiology,Surgery,25
+112938,Dr_2937,ENT,Emergency,30
+112939,Dr_2938,Cardiology,Outpatient,24
+112940,Dr_2939,General Medicine,Surgery,25
+112941,Dr_2940,Cardiology,Outpatient,20
+112942,Dr_2941,Oncology,Diagnostics,13
+112943,Dr_2942,ENT,Medicine,14
+112944,Dr_2943,Cardiology,Medicine,13
+112945,Dr_2944,Neurology,Outpatient,1
+112946,Dr_2945,ENT,Diagnostics,33
+112947,Dr_2946,Cardiology,Outpatient,26
+112948,Dr_2947,Pediatrics,Diagnostics,28
+112949,Dr_2948,ENT,Diagnostics,14
+112950,Dr_2949,ENT,Surgery,11
+112951,Dr_2950,ENT,Diagnostics,29
+112952,Dr_2951,Neurology,Outpatient,30
+112953,Dr_2952,Dermatology,Emergency,25
+112954,Dr_2953,Orthopedics,Surgery,29
+112955,Dr_2954,General Medicine,Outpatient,21
+112956,Dr_2955,Dermatology,Emergency,11
+112957,Dr_2956,ENT,Diagnostics,22
+112958,Dr_2957,Pediatrics,Diagnostics,16
+112959,Dr_2958,ENT,Emergency,24
+112960,Dr_2959,Dermatology,Emergency,34
+112961,Dr_2960,Dermatology,Diagnostics,31
+112962,Dr_2961,Cardiology,Emergency,6
+112963,Dr_2962,Pediatrics,Surgery,22
+112964,Dr_2963,Orthopedics,Diagnostics,16
+112965,Dr_2964,General Medicine,Diagnostics,4
+112966,Dr_2965,Dermatology,Emergency,5
+112967,Dr_2966,Pediatrics,Diagnostics,33
+112968,Dr_2967,ENT,Emergency,11
+112969,Dr_2968,Cardiology,Outpatient,3
+112970,Dr_2969,Neurology,Surgery,16
+112971,Dr_2970,Dermatology,Emergency,5
+112972,Dr_2971,Orthopedics,Medicine,20
+112973,Dr_2972,Cardiology,Surgery,10
+112974,Dr_2973,Oncology,Diagnostics,25
+112975,Dr_2974,General Medicine,Medicine,10
+112976,Dr_2975,Dermatology,Medicine,16
+112977,Dr_2976,General Medicine,Surgery,15
+112978,Dr_2977,ENT,Diagnostics,31
+112979,Dr_2978,Neurology,Emergency,23
+112980,Dr_2979,Oncology,Surgery,7
+112981,Dr_2980,Pediatrics,Emergency,11
+112982,Dr_2981,General Medicine,Medicine,2
+112983,Dr_2982,Orthopedics,Diagnostics,35
+112984,Dr_2983,Neurology,Emergency,30
+112985,Dr_2984,Oncology,Medicine,16
+112986,Dr_2985,General Medicine,Surgery,10
+112987,Dr_2986,General Medicine,Diagnostics,20
+112988,Dr_2987,Dermatology,Surgery,3
+112989,Dr_2988,Dermatology,Surgery,22
+112990,Dr_2989,Oncology,Surgery,31
+112991,Dr_2990,Neurology,Surgery,27
+112992,Dr_2991,Pediatrics,Outpatient,14
+112993,Dr_2992,Pediatrics,Surgery,21
+112994,Dr_2993,Neurology,Outpatient,9
+112995,Dr_2994,Oncology,Surgery,28
+112996,Dr_2995,Pediatrics,Outpatient,23
+112997,Dr_2996,Dermatology,Surgery,23
+112998,Dr_2997,Cardiology,Medicine,35
+112999,Dr_2998,ENT,Outpatient,28
+113000,Dr_2999,Orthopedics,Emergency,23
+113001,Dr_3000,General Medicine,Diagnostics,13
+113002,Dr_3001,Oncology,Medicine,5
+113003,Dr_3002,General Medicine,Surgery,23
+113004,Dr_3003,Pediatrics,Medicine,1
+113005,Dr_3004,Oncology,Outpatient,18
+113006,Dr_3005,Pediatrics,Outpatient,21
+113007,Dr_3006,Orthopedics,Surgery,5
+113008,Dr_3007,Dermatology,Surgery,33
+113009,Dr_3008,Oncology,Surgery,11
+113010,Dr_3009,Pediatrics,Diagnostics,29
+113011,Dr_3010,Oncology,Diagnostics,18
+113012,Dr_3011,Oncology,Medicine,18
+113013,Dr_3012,Neurology,Emergency,25
+113014,Dr_3013,ENT,Emergency,9
+113015,Dr_3014,Oncology,Surgery,22
+113016,Dr_3015,ENT,Medicine,21
+113017,Dr_3016,General Medicine,Outpatient,28
+113018,Dr_3017,General Medicine,Medicine,5
+113019,Dr_3018,General Medicine,Emergency,4
+113020,Dr_3019,Neurology,Diagnostics,22
+113021,Dr_3020,Oncology,Emergency,22
+113022,Dr_3021,Orthopedics,Outpatient,4
+113023,Dr_3022,Neurology,Surgery,15
+113024,Dr_3023,ENT,Outpatient,17
+113025,Dr_3024,Oncology,Medicine,29
+113026,Dr_3025,Cardiology,Outpatient,16
+113027,Dr_3026,Neurology,Outpatient,33
+113028,Dr_3027,Dermatology,Medicine,11
+113029,Dr_3028,Oncology,Diagnostics,1
+113030,Dr_3029,Oncology,Medicine,5
+113031,Dr_3030,ENT,Surgery,35
+113032,Dr_3031,Dermatology,Diagnostics,12
+113033,Dr_3032,Neurology,Diagnostics,24
+113034,Dr_3033,Dermatology,Outpatient,5
+113035,Dr_3034,Orthopedics,Emergency,16
+113036,Dr_3035,Orthopedics,Emergency,14
+113037,Dr_3036,Dermatology,Surgery,20
+113038,Dr_3037,Neurology,Medicine,14
+113039,Dr_3038,Orthopedics,Outpatient,15
+113040,Dr_3039,Pediatrics,Medicine,28
+113041,Dr_3040,Pediatrics,Outpatient,2
+113042,Dr_3041,Pediatrics,Surgery,32
+113043,Dr_3042,Oncology,Medicine,11
+113044,Dr_3043,Pediatrics,Outpatient,6
+113045,Dr_3044,ENT,Surgery,18
+113046,Dr_3045,ENT,Diagnostics,9
+113047,Dr_3046,Neurology,Surgery,17
+113048,Dr_3047,Dermatology,Medicine,26
+113049,Dr_3048,Oncology,Surgery,12
+113050,Dr_3049,Pediatrics,Outpatient,1
+113051,Dr_3050,Oncology,Medicine,13
+113052,Dr_3051,Oncology,Medicine,21
+113053,Dr_3052,Neurology,Surgery,18
+113054,Dr_3053,General Medicine,Diagnostics,15
+113055,Dr_3054,General Medicine,Emergency,34
+113056,Dr_3055,Orthopedics,Surgery,5
+113057,Dr_3056,Dermatology,Surgery,29
+113058,Dr_3057,Orthopedics,Diagnostics,28
+113059,Dr_3058,ENT,Surgery,11
+113060,Dr_3059,ENT,Surgery,9
+113061,Dr_3060,Pediatrics,Diagnostics,32
+113062,Dr_3061,Oncology,Medicine,13
+113063,Dr_3062,General Medicine,Surgery,5
+113064,Dr_3063,General Medicine,Diagnostics,21
+113065,Dr_3064,Neurology,Diagnostics,21
+113066,Dr_3065,General Medicine,Diagnostics,12
+113067,Dr_3066,Orthopedics,Emergency,20
+113068,Dr_3067,Oncology,Outpatient,10
+113069,Dr_3068,Neurology,Emergency,2
+113070,Dr_3069,General Medicine,Diagnostics,29
+113071,Dr_3070,ENT,Emergency,3
+113072,Dr_3071,Dermatology,Emergency,21
+113073,Dr_3072,General Medicine,Emergency,7
+113074,Dr_3073,Oncology,Medicine,23
+113075,Dr_3074,Oncology,Emergency,33
+113076,Dr_3075,General Medicine,Surgery,32
+113077,Dr_3076,Neurology,Diagnostics,20
+113078,Dr_3077,Dermatology,Surgery,34
+113079,Dr_3078,Cardiology,Emergency,1
+113080,Dr_3079,Cardiology,Surgery,19
+113081,Dr_3080,General Medicine,Emergency,23
+113082,Dr_3081,Neurology,Emergency,28
+113083,Dr_3082,Orthopedics,Emergency,8
+113084,Dr_3083,Dermatology,Medicine,29
+113085,Dr_3084,Oncology,Emergency,32
+113086,Dr_3085,Orthopedics,Surgery,28
+113087,Dr_3086,Pediatrics,Medicine,3
+113088,Dr_3087,Orthopedics,Surgery,25
+113089,Dr_3088,Dermatology,Medicine,26
+113090,Dr_3089,Dermatology,Diagnostics,21
+113091,Dr_3090,Pediatrics,Diagnostics,32
+113092,Dr_3091,General Medicine,Diagnostics,15
+113093,Dr_3092,General Medicine,Surgery,6
+113094,Dr_3093,Pediatrics,Emergency,1
+113095,Dr_3094,Dermatology,Diagnostics,24
+113096,Dr_3095,Oncology,Emergency,7
+113097,Dr_3096,Cardiology,Surgery,16
+113098,Dr_3097,ENT,Medicine,24
+113099,Dr_3098,Orthopedics,Surgery,30
+113100,Dr_3099,Cardiology,Emergency,17
+113101,Dr_3100,General Medicine,Surgery,7
+113102,Dr_3101,ENT,Diagnostics,31
+113103,Dr_3102,Cardiology,Outpatient,17
+113104,Dr_3103,Pediatrics,Diagnostics,6
+113105,Dr_3104,Dermatology,Medicine,7
+113106,Dr_3105,Orthopedics,Surgery,29
+113107,Dr_3106,ENT,Emergency,23
+113108,Dr_3107,Neurology,Diagnostics,13
+113109,Dr_3108,ENT,Medicine,11
+113110,Dr_3109,General Medicine,Emergency,22
+113111,Dr_3110,ENT,Surgery,22
+113112,Dr_3111,ENT,Outpatient,35
+113113,Dr_3112,Cardiology,Emergency,5
+113114,Dr_3113,Dermatology,Diagnostics,30
+113115,Dr_3114,Neurology,Outpatient,23
+113116,Dr_3115,Dermatology,Emergency,14
+113117,Dr_3116,Orthopedics,Diagnostics,34
+113118,Dr_3117,Pediatrics,Medicine,31
+113119,Dr_3118,Oncology,Medicine,12
+113120,Dr_3119,Oncology,Outpatient,35
+113121,Dr_3120,Oncology,Emergency,1
+113122,Dr_3121,Cardiology,Diagnostics,11
+113123,Dr_3122,Neurology,Surgery,18
+113124,Dr_3123,Dermatology,Outpatient,21
+113125,Dr_3124,General Medicine,Medicine,35
+113126,Dr_3125,ENT,Emergency,35
+113127,Dr_3126,Dermatology,Diagnostics,4
+113128,Dr_3127,Pediatrics,Surgery,25
+113129,Dr_3128,ENT,Medicine,8
+113130,Dr_3129,Cardiology,Medicine,1
+113131,Dr_3130,ENT,Medicine,15
+113132,Dr_3131,Pediatrics,Emergency,24
+113133,Dr_3132,Orthopedics,Outpatient,33
+113134,Dr_3133,General Medicine,Emergency,35
+113135,Dr_3134,ENT,Diagnostics,23
+113136,Dr_3135,Neurology,Diagnostics,16
+113137,Dr_3136,Neurology,Outpatient,29
+113138,Dr_3137,General Medicine,Surgery,13
+113139,Dr_3138,Oncology,Emergency,21
+113140,Dr_3139,Oncology,Surgery,5
+113141,Dr_3140,Neurology,Diagnostics,13
+113142,Dr_3141,Cardiology,Emergency,3
+113143,Dr_3142,Dermatology,Diagnostics,32
+113144,Dr_3143,Neurology,Medicine,18
+113145,Dr_3144,ENT,Surgery,29
+113146,Dr_3145,ENT,Diagnostics,6
+113147,Dr_3146,Neurology,Outpatient,23
+113148,Dr_3147,Dermatology,Diagnostics,19
+113149,Dr_3148,Oncology,Medicine,23
+113150,Dr_3149,Dermatology,Emergency,5
+113151,Dr_3150,Neurology,Outpatient,3
+113152,Dr_3151,General Medicine,Medicine,17
+113153,Dr_3152,Dermatology,Medicine,10
+113154,Dr_3153,Oncology,Medicine,6
+113155,Dr_3154,Neurology,Medicine,5
+113156,Dr_3155,Cardiology,Medicine,11
+113157,Dr_3156,General Medicine,Surgery,7
+113158,Dr_3157,General Medicine,Medicine,5
+113159,Dr_3158,Orthopedics,Outpatient,31
+113160,Dr_3159,ENT,Diagnostics,4
+113161,Dr_3160,Cardiology,Medicine,7
+113162,Dr_3161,Cardiology,Diagnostics,27
+113163,Dr_3162,Pediatrics,Surgery,19
+113164,Dr_3163,Cardiology,Surgery,34
+113165,Dr_3164,Dermatology,Outpatient,18
+113166,Dr_3165,Neurology,Outpatient,13
+113167,Dr_3166,Cardiology,Emergency,17
+113168,Dr_3167,ENT,Medicine,1
+113169,Dr_3168,Dermatology,Surgery,3
+113170,Dr_3169,Pediatrics,Medicine,12
+113171,Dr_3170,Neurology,Surgery,3
+113172,Dr_3171,Oncology,Diagnostics,12
+113173,Dr_3172,General Medicine,Outpatient,31
+113174,Dr_3173,Pediatrics,Outpatient,2
+113175,Dr_3174,General Medicine,Emergency,6
+113176,Dr_3175,Orthopedics,Medicine,10
+113177,Dr_3176,Oncology,Emergency,32
+113178,Dr_3177,Neurology,Diagnostics,26
+113179,Dr_3178,Pediatrics,Diagnostics,27
+113180,Dr_3179,General Medicine,Outpatient,18
+113181,Dr_3180,Dermatology,Medicine,1
+113182,Dr_3181,Oncology,Outpatient,24
+113183,Dr_3182,General Medicine,Medicine,3
+113184,Dr_3183,Dermatology,Medicine,16
+113185,Dr_3184,Pediatrics,Diagnostics,8
+113186,Dr_3185,Dermatology,Medicine,31
+113187,Dr_3186,Cardiology,Emergency,16
+113188,Dr_3187,General Medicine,Diagnostics,16
+113189,Dr_3188,Cardiology,Outpatient,24
+113190,Dr_3189,General Medicine,Outpatient,26
+113191,Dr_3190,Pediatrics,Outpatient,21
+113192,Dr_3191,Neurology,Emergency,5
+113193,Dr_3192,Pediatrics,Outpatient,19
+113194,Dr_3193,Neurology,Surgery,33
+113195,Dr_3194,Cardiology,Medicine,13
+113196,Dr_3195,Dermatology,Medicine,34
+113197,Dr_3196,General Medicine,Outpatient,27
+113198,Dr_3197,Oncology,Surgery,4
+113199,Dr_3198,Neurology,Diagnostics,10
+113200,Dr_3199,Cardiology,Surgery,25
+113201,Dr_3200,Dermatology,Surgery,20
+113202,Dr_3201,Oncology,Emergency,19
+113203,Dr_3202,ENT,Diagnostics,25
+113204,Dr_3203,Dermatology,Emergency,10
+113205,Dr_3204,Cardiology,Diagnostics,23
+113206,Dr_3205,Pediatrics,Emergency,11
+113207,Dr_3206,ENT,Diagnostics,6
+113208,Dr_3207,Oncology,Outpatient,10
+113209,Dr_3208,General Medicine,Emergency,8
+113210,Dr_3209,Pediatrics,Emergency,19
+113211,Dr_3210,Pediatrics,Medicine,8
+113212,Dr_3211,Neurology,Emergency,2
+113213,Dr_3212,Pediatrics,Surgery,9
+113214,Dr_3213,Orthopedics,Emergency,32
+113215,Dr_3214,Dermatology,Surgery,7
+113216,Dr_3215,Dermatology,Outpatient,15
+113217,Dr_3216,Dermatology,Surgery,11
+113218,Dr_3217,Dermatology,Surgery,32
+113219,Dr_3218,Orthopedics,Emergency,24
+113220,Dr_3219,Cardiology,Outpatient,30
+113221,Dr_3220,Cardiology,Surgery,26
+113222,Dr_3221,Neurology,Diagnostics,12
+113223,Dr_3222,Orthopedics,Outpatient,6
+113224,Dr_3223,ENT,Surgery,8
+113225,Dr_3224,Dermatology,Outpatient,26
+113226,Dr_3225,Pediatrics,Outpatient,21
+113227,Dr_3226,General Medicine,Medicine,7
+113228,Dr_3227,General Medicine,Surgery,1
+113229,Dr_3228,Oncology,Outpatient,35
+113230,Dr_3229,Orthopedics,Surgery,25
+113231,Dr_3230,Dermatology,Outpatient,26
+113232,Dr_3231,Oncology,Medicine,10
+113233,Dr_3232,Dermatology,Diagnostics,33
+113234,Dr_3233,Orthopedics,Outpatient,25
+113235,Dr_3234,Orthopedics,Surgery,7
+113236,Dr_3235,Oncology,Outpatient,24
+113237,Dr_3236,Neurology,Outpatient,20
+113238,Dr_3237,ENT,Surgery,19
+113239,Dr_3238,ENT,Medicine,31
+113240,Dr_3239,Pediatrics,Diagnostics,16
+113241,Dr_3240,ENT,Emergency,33
+113242,Dr_3241,ENT,Outpatient,1
+113243,Dr_3242,Oncology,Outpatient,10
+113244,Dr_3243,Orthopedics,Surgery,32
+113245,Dr_3244,Cardiology,Outpatient,18
+113246,Dr_3245,Pediatrics,Medicine,1
+113247,Dr_3246,Cardiology,Surgery,3
+113248,Dr_3247,ENT,Outpatient,22
+113249,Dr_3248,Dermatology,Surgery,1
+113250,Dr_3249,ENT,Surgery,12
+113251,Dr_3250,Oncology,Emergency,21
+113252,Dr_3251,General Medicine,Outpatient,35
+113253,Dr_3252,Orthopedics,Outpatient,5
+113254,Dr_3253,ENT,Diagnostics,12
+113255,Dr_3254,Cardiology,Outpatient,12
+113256,Dr_3255,Neurology,Medicine,16
+113257,Dr_3256,Pediatrics,Outpatient,19
+113258,Dr_3257,Cardiology,Medicine,9
+113259,Dr_3258,ENT,Emergency,2
+113260,Dr_3259,Pediatrics,Surgery,25
+113261,Dr_3260,Dermatology,Surgery,25
+113262,Dr_3261,ENT,Medicine,35
+113263,Dr_3262,ENT,Emergency,23
+113264,Dr_3263,Oncology,Emergency,1
+113265,Dr_3264,Oncology,Diagnostics,1
+113266,Dr_3265,Dermatology,Surgery,17
+113267,Dr_3266,Pediatrics,Diagnostics,14
+113268,Dr_3267,ENT,Emergency,20
+113269,Dr_3268,ENT,Emergency,25
+113270,Dr_3269,Dermatology,Surgery,12
+113271,Dr_3270,Oncology,Medicine,19
+113272,Dr_3271,Dermatology,Outpatient,20
+113273,Dr_3272,Neurology,Medicine,25
+113274,Dr_3273,Dermatology,Outpatient,17
+113275,Dr_3274,Orthopedics,Emergency,24
+113276,Dr_3275,Oncology,Outpatient,15
+113277,Dr_3276,ENT,Diagnostics,20
+113278,Dr_3277,Cardiology,Medicine,20
+113279,Dr_3278,ENT,Medicine,28
+113280,Dr_3279,Orthopedics,Diagnostics,24
+113281,Dr_3280,Dermatology,Emergency,22
+113282,Dr_3281,ENT,Outpatient,32
+113283,Dr_3282,General Medicine,Medicine,33
+113284,Dr_3283,General Medicine,Outpatient,16
+113285,Dr_3284,Neurology,Outpatient,9
+113286,Dr_3285,Pediatrics,Emergency,14
+113287,Dr_3286,Dermatology,Surgery,26
+113288,Dr_3287,Cardiology,Diagnostics,5
+113289,Dr_3288,Dermatology,Medicine,26
+113290,Dr_3289,Dermatology,Emergency,33
+113291,Dr_3290,General Medicine,Surgery,10
+113292,Dr_3291,General Medicine,Outpatient,27
+113293,Dr_3292,Pediatrics,Medicine,26
+113294,Dr_3293,Oncology,Diagnostics,27
+113295,Dr_3294,Cardiology,Medicine,17
+113296,Dr_3295,Dermatology,Diagnostics,5
+113297,Dr_3296,ENT,Diagnostics,19
+113298,Dr_3297,ENT,Medicine,9
+113299,Dr_3298,Dermatology,Diagnostics,4
+113300,Dr_3299,Neurology,Diagnostics,25
+113301,Dr_3300,Dermatology,Diagnostics,8
+113302,Dr_3301,ENT,Outpatient,22
+113303,Dr_3302,Neurology,Emergency,33
+113304,Dr_3303,Pediatrics,Emergency,31
+113305,Dr_3304,General Medicine,Emergency,15
+113306,Dr_3305,ENT,Emergency,31
+113307,Dr_3306,Oncology,Emergency,7
+113308,Dr_3307,General Medicine,Outpatient,22
+113309,Dr_3308,Dermatology,Medicine,27
+113310,Dr_3309,Dermatology,Diagnostics,9
+113311,Dr_3310,Orthopedics,Diagnostics,12
+113312,Dr_3311,Orthopedics,Medicine,31
+113313,Dr_3312,General Medicine,Emergency,5
+113314,Dr_3313,Orthopedics,Medicine,14
+113315,Dr_3314,General Medicine,Medicine,27
+113316,Dr_3315,General Medicine,Emergency,32
+113317,Dr_3316,Cardiology,Medicine,9
+113318,Dr_3317,Oncology,Outpatient,15
+113319,Dr_3318,Neurology,Medicine,12
+113320,Dr_3319,Oncology,Medicine,27
+113321,Dr_3320,Pediatrics,Emergency,11
+113322,Dr_3321,Cardiology,Emergency,1
+113323,Dr_3322,General Medicine,Surgery,24
+113324,Dr_3323,Orthopedics,Diagnostics,19
+113325,Dr_3324,Pediatrics,Emergency,9
+113326,Dr_3325,Cardiology,Surgery,25
+113327,Dr_3326,General Medicine,Outpatient,33
+113328,Dr_3327,Cardiology,Medicine,31
+113329,Dr_3328,Pediatrics,Surgery,9
+113330,Dr_3329,General Medicine,Surgery,20
+113331,Dr_3330,General Medicine,Medicine,1
+113332,Dr_3331,General Medicine,Outpatient,13
+113333,Dr_3332,Neurology,Emergency,26
+113334,Dr_3333,Orthopedics,Surgery,18
+113335,Dr_3334,ENT,Outpatient,3
+113336,Dr_3335,Pediatrics,Outpatient,4
+113337,Dr_3336,General Medicine,Medicine,29
+113338,Dr_3337,Oncology,Medicine,10
+113339,Dr_3338,Oncology,Diagnostics,34
+113340,Dr_3339,ENT,Diagnostics,16
+113341,Dr_3340,Oncology,Medicine,34
+113342,Dr_3341,ENT,Medicine,4
+113343,Dr_3342,Oncology,Medicine,30
+113344,Dr_3343,Pediatrics,Outpatient,25
+113345,Dr_3344,General Medicine,Surgery,2
+113346,Dr_3345,Pediatrics,Medicine,11
+113347,Dr_3346,Oncology,Emergency,32
+113348,Dr_3347,General Medicine,Emergency,20
+113349,Dr_3348,General Medicine,Outpatient,24
+113350,Dr_3349,Oncology,Surgery,28
+113351,Dr_3350,Orthopedics,Diagnostics,31
+113352,Dr_3351,Orthopedics,Surgery,16
+113353,Dr_3352,Dermatology,Diagnostics,31
+113354,Dr_3353,Oncology,Outpatient,9
+113355,Dr_3354,Dermatology,Emergency,23
+113356,Dr_3355,Dermatology,Diagnostics,22
+113357,Dr_3356,Pediatrics,Emergency,29
+113358,Dr_3357,Oncology,Outpatient,35
+113359,Dr_3358,Neurology,Outpatient,28
+113360,Dr_3359,General Medicine,Surgery,23
+113361,Dr_3360,Dermatology,Outpatient,1
+113362,Dr_3361,Oncology,Medicine,32
+113363,Dr_3362,ENT,Surgery,17
+113364,Dr_3363,Pediatrics,Surgery,32
+113365,Dr_3364,Dermatology,Diagnostics,5
+113366,Dr_3365,ENT,Medicine,31
+113367,Dr_3366,General Medicine,Medicine,30
+113368,Dr_3367,General Medicine,Medicine,6
+113369,Dr_3368,ENT,Outpatient,20
+113370,Dr_3369,Oncology,Outpatient,4
+113371,Dr_3370,General Medicine,Surgery,8
+113372,Dr_3371,Dermatology,Medicine,1
+113373,Dr_3372,Oncology,Medicine,7
+113374,Dr_3373,Neurology,Surgery,28
+113375,Dr_3374,Orthopedics,Emergency,5
+113376,Dr_3375,Neurology,Diagnostics,26
+113377,Dr_3376,ENT,Medicine,17
+113378,Dr_3377,Pediatrics,Diagnostics,29
+113379,Dr_3378,Pediatrics,Diagnostics,1
+113380,Dr_3379,Neurology,Surgery,21
+113381,Dr_3380,Orthopedics,Outpatient,10
+113382,Dr_3381,Pediatrics,Diagnostics,33
+113383,Dr_3382,ENT,Emergency,5
+113384,Dr_3383,ENT,Diagnostics,25
+113385,Dr_3384,Cardiology,Surgery,13
+113386,Dr_3385,Cardiology,Diagnostics,19
+113387,Dr_3386,Oncology,Emergency,19
+113388,Dr_3387,Neurology,Diagnostics,14
+113389,Dr_3388,Orthopedics,Diagnostics,30
+113390,Dr_3389,Neurology,Diagnostics,5
+113391,Dr_3390,Dermatology,Diagnostics,30
+113392,Dr_3391,Pediatrics,Diagnostics,14
+113393,Dr_3392,Neurology,Outpatient,24
+113394,Dr_3393,Pediatrics,Medicine,9
+113395,Dr_3394,Orthopedics,Medicine,30
+113396,Dr_3395,ENT,Surgery,17
+113397,Dr_3396,Neurology,Surgery,3
+113398,Dr_3397,Orthopedics,Emergency,25
+113399,Dr_3398,Neurology,Outpatient,30
+113400,Dr_3399,Cardiology,Outpatient,28
+113401,Dr_3400,ENT,Diagnostics,1
+113402,Dr_3401,General Medicine,Surgery,1
+113403,Dr_3402,Pediatrics,Surgery,19
+113404,Dr_3403,Cardiology,Medicine,16
+113405,Dr_3404,ENT,Medicine,4
+113406,Dr_3405,Orthopedics,Surgery,23
+113407,Dr_3406,Pediatrics,Outpatient,26
+113408,Dr_3407,Orthopedics,Diagnostics,30
+113409,Dr_3408,Oncology,Emergency,14
+113410,Dr_3409,Pediatrics,Surgery,4
+113411,Dr_3410,Orthopedics,Diagnostics,5
+113412,Dr_3411,Cardiology,Emergency,16
+113413,Dr_3412,Oncology,Surgery,18
+113414,Dr_3413,Orthopedics,Diagnostics,21
+113415,Dr_3414,Pediatrics,Surgery,6
+113416,Dr_3415,Oncology,Emergency,27
+113417,Dr_3416,ENT,Medicine,25
+113418,Dr_3417,ENT,Medicine,3
+113419,Dr_3418,Orthopedics,Surgery,14
+113420,Dr_3419,General Medicine,Surgery,8
+113421,Dr_3420,Pediatrics,Outpatient,15
+113422,Dr_3421,Cardiology,Emergency,5
+113423,Dr_3422,General Medicine,Surgery,25
+113424,Dr_3423,Cardiology,Medicine,9
+113425,Dr_3424,Dermatology,Emergency,7
+113426,Dr_3425,ENT,Diagnostics,4
+113427,Dr_3426,ENT,Emergency,28
+113428,Dr_3427,Neurology,Emergency,35
+113429,Dr_3428,Neurology,Emergency,29
+113430,Dr_3429,Neurology,Medicine,22
+113431,Dr_3430,Oncology,Outpatient,25
+113432,Dr_3431,Cardiology,Diagnostics,15
+113433,Dr_3432,General Medicine,Surgery,5
+113434,Dr_3433,Dermatology,Surgery,21
+113435,Dr_3434,Orthopedics,Diagnostics,28
+113436,Dr_3435,Dermatology,Surgery,31
+113437,Dr_3436,Dermatology,Medicine,23
+113438,Dr_3437,Neurology,Emergency,33
+113439,Dr_3438,ENT,Medicine,23
+113440,Dr_3439,Cardiology,Emergency,13
+113441,Dr_3440,Pediatrics,Surgery,18
+113442,Dr_3441,ENT,Diagnostics,8
+113443,Dr_3442,ENT,Medicine,17
+113444,Dr_3443,Orthopedics,Medicine,4
+113445,Dr_3444,ENT,Medicine,20
+113446,Dr_3445,Pediatrics,Outpatient,2
+113447,Dr_3446,Neurology,Surgery,32
+113448,Dr_3447,General Medicine,Outpatient,22
+113449,Dr_3448,Pediatrics,Surgery,13
+113450,Dr_3449,ENT,Diagnostics,2
+113451,Dr_3450,Neurology,Medicine,7
+113452,Dr_3451,Orthopedics,Medicine,10
+113453,Dr_3452,Pediatrics,Diagnostics,15
+113454,Dr_3453,Cardiology,Emergency,11
+113455,Dr_3454,Orthopedics,Medicine,29
+113456,Dr_3455,Cardiology,Diagnostics,27
+113457,Dr_3456,General Medicine,Diagnostics,14
+113458,Dr_3457,ENT,Medicine,22
+113459,Dr_3458,Oncology,Medicine,25
+113460,Dr_3459,ENT,Diagnostics,12
+113461,Dr_3460,ENT,Emergency,17
+113462,Dr_3461,Dermatology,Medicine,29
+113463,Dr_3462,Neurology,Diagnostics,19
+113464,Dr_3463,Neurology,Emergency,15
+113465,Dr_3464,Orthopedics,Surgery,34
+113466,Dr_3465,Dermatology,Diagnostics,5
+113467,Dr_3466,Orthopedics,Diagnostics,32
+113468,Dr_3467,Cardiology,Surgery,20
+113469,Dr_3468,Dermatology,Emergency,15
+113470,Dr_3469,Oncology,Outpatient,13
+113471,Dr_3470,Oncology,Surgery,16
+113472,Dr_3471,Pediatrics,Surgery,34
+113473,Dr_3472,Oncology,Emergency,13
+113474,Dr_3473,Pediatrics,Outpatient,34
+113475,Dr_3474,Orthopedics,Emergency,26
+113476,Dr_3475,Neurology,Diagnostics,18
+113477,Dr_3476,Dermatology,Emergency,23
+113478,Dr_3477,Cardiology,Diagnostics,30
+113479,Dr_3478,Oncology,Medicine,15
+113480,Dr_3479,Cardiology,Diagnostics,30
+113481,Dr_3480,ENT,Surgery,15
+113482,Dr_3481,Orthopedics,Surgery,5
+113483,Dr_3482,Cardiology,Outpatient,26
+113484,Dr_3483,General Medicine,Diagnostics,35
+113485,Dr_3484,Cardiology,Medicine,26
+113486,Dr_3485,Cardiology,Emergency,5
+113487,Dr_3486,Oncology,Surgery,2
+113488,Dr_3487,ENT,Surgery,14
+113489,Dr_3488,ENT,Surgery,4
+113490,Dr_3489,Cardiology,Surgery,24
+113491,Dr_3490,Dermatology,Outpatient,5
+113492,Dr_3491,General Medicine,Surgery,4
+113493,Dr_3492,Pediatrics,Surgery,19
+113494,Dr_3493,Pediatrics,Diagnostics,28
+113495,Dr_3494,Dermatology,Surgery,24
+113496,Dr_3495,Neurology,Emergency,27
+113497,Dr_3496,ENT,Surgery,18
+113498,Dr_3497,Neurology,Outpatient,26
+113499,Dr_3498,General Medicine,Outpatient,34
+113500,Dr_3499,Dermatology,Surgery,22
+113501,Dr_3500,Pediatrics,Diagnostics,20
+113502,Dr_3501,Oncology,Medicine,31
+113503,Dr_3502,Neurology,Surgery,29
+113504,Dr_3503,Cardiology,Surgery,23
+113505,Dr_3504,Dermatology,Outpatient,5
+113506,Dr_3505,Neurology,Outpatient,24
+113507,Dr_3506,Oncology,Outpatient,11
+113508,Dr_3507,Orthopedics,Outpatient,15
+113509,Dr_3508,Orthopedics,Emergency,34
+113510,Dr_3509,Orthopedics,Surgery,24
+113511,Dr_3510,Oncology,Surgery,3
+113512,Dr_3511,ENT,Diagnostics,4
+113513,Dr_3512,Orthopedics,Diagnostics,14
+113514,Dr_3513,Pediatrics,Outpatient,25
+113515,Dr_3514,Dermatology,Surgery,20
+113516,Dr_3515,Pediatrics,Surgery,33
+113517,Dr_3516,Neurology,Outpatient,35
+113518,Dr_3517,ENT,Diagnostics,31
+113519,Dr_3518,Neurology,Surgery,17
+113520,Dr_3519,Cardiology,Outpatient,18
+113521,Dr_3520,Oncology,Emergency,17
+113522,Dr_3521,Orthopedics,Diagnostics,28
+113523,Dr_3522,ENT,Surgery,13
+113524,Dr_3523,Neurology,Outpatient,35
+113525,Dr_3524,Cardiology,Emergency,15
+113526,Dr_3525,Orthopedics,Outpatient,10
+113527,Dr_3526,ENT,Emergency,17
+113528,Dr_3527,Neurology,Medicine,10
+113529,Dr_3528,Neurology,Emergency,25
+113530,Dr_3529,ENT,Diagnostics,11
+113531,Dr_3530,Cardiology,Emergency,6
+113532,Dr_3531,Oncology,Medicine,27
+113533,Dr_3532,Orthopedics,Emergency,9
+113534,Dr_3533,Dermatology,Diagnostics,33
+113535,Dr_3534,ENT,Medicine,5
+113536,Dr_3535,Oncology,Diagnostics,6
+113537,Dr_3536,Cardiology,Medicine,33
+113538,Dr_3537,Oncology,Emergency,18
+113539,Dr_3538,Orthopedics,Medicine,21
+113540,Dr_3539,ENT,Surgery,12
+113541,Dr_3540,Oncology,Medicine,13
+113542,Dr_3541,Pediatrics,Surgery,26
+113543,Dr_3542,Oncology,Emergency,10
+113544,Dr_3543,Pediatrics,Diagnostics,21
+113545,Dr_3544,Dermatology,Outpatient,32
+113546,Dr_3545,Oncology,Outpatient,3
+113547,Dr_3546,Orthopedics,Outpatient,15
+113548,Dr_3547,Oncology,Diagnostics,8
+113549,Dr_3548,Cardiology,Medicine,20
+113550,Dr_3549,Orthopedics,Outpatient,4
+113551,Dr_3550,Pediatrics,Medicine,30
+113552,Dr_3551,Oncology,Outpatient,2
+113553,Dr_3552,ENT,Emergency,20
+113554,Dr_3553,Oncology,Outpatient,8
+113555,Dr_3554,Cardiology,Surgery,12
+113556,Dr_3555,Neurology,Emergency,24
+113557,Dr_3556,General Medicine,Emergency,18
+113558,Dr_3557,ENT,Emergency,20
+113559,Dr_3558,Orthopedics,Diagnostics,17
+113560,Dr_3559,ENT,Medicine,33
+113561,Dr_3560,General Medicine,Diagnostics,17
+113562,Dr_3561,Neurology,Diagnostics,24
+113563,Dr_3562,Pediatrics,Emergency,34
+113564,Dr_3563,Pediatrics,Emergency,22
+113565,Dr_3564,Neurology,Surgery,1
+113566,Dr_3565,Dermatology,Surgery,1
+113567,Dr_3566,Neurology,Diagnostics,26
+113568,Dr_3567,Orthopedics,Medicine,11
+113569,Dr_3568,ENT,Surgery,2
+113570,Dr_3569,Orthopedics,Emergency,31
+113571,Dr_3570,Pediatrics,Surgery,35
+113572,Dr_3571,ENT,Surgery,31
+113573,Dr_3572,Pediatrics,Medicine,11
+113574,Dr_3573,Pediatrics,Outpatient,32
+113575,Dr_3574,Cardiology,Emergency,3
+113576,Dr_3575,Dermatology,Surgery,6
+113577,Dr_3576,ENT,Medicine,19
+113578,Dr_3577,Orthopedics,Outpatient,20
+113579,Dr_3578,ENT,Emergency,25
+113580,Dr_3579,Neurology,Medicine,15
+113581,Dr_3580,General Medicine,Emergency,5
+113582,Dr_3581,Dermatology,Medicine,12
+113583,Dr_3582,General Medicine,Medicine,3
+113584,Dr_3583,Orthopedics,Outpatient,32
+113585,Dr_3584,Neurology,Medicine,5
+113586,Dr_3585,Oncology,Surgery,4
+113587,Dr_3586,ENT,Surgery,25
+113588,Dr_3587,General Medicine,Diagnostics,16
+113589,Dr_3588,Dermatology,Emergency,31
+113590,Dr_3589,Oncology,Medicine,16
+113591,Dr_3590,ENT,Medicine,5
+113592,Dr_3591,Orthopedics,Emergency,6
+113593,Dr_3592,Orthopedics,Diagnostics,11
+113594,Dr_3593,ENT,Diagnostics,6
+113595,Dr_3594,Orthopedics,Medicine,32
+113596,Dr_3595,Oncology,Outpatient,9
+113597,Dr_3596,Dermatology,Medicine,11
+113598,Dr_3597,ENT,Emergency,6
+113599,Dr_3598,Pediatrics,Medicine,5
+113600,Dr_3599,Pediatrics,Emergency,32
+113601,Dr_3600,Dermatology,Emergency,35
+113602,Dr_3601,Oncology,Outpatient,13
+113603,Dr_3602,General Medicine,Outpatient,26
+113604,Dr_3603,Neurology,Medicine,6
+113605,Dr_3604,ENT,Medicine,11
+113606,Dr_3605,ENT,Emergency,24
+113607,Dr_3606,General Medicine,Emergency,24
+113608,Dr_3607,ENT,Medicine,10
+113609,Dr_3608,Pediatrics,Medicine,17
+113610,Dr_3609,Neurology,Surgery,2
+113611,Dr_3610,General Medicine,Diagnostics,10
+113612,Dr_3611,Neurology,Emergency,27
+113613,Dr_3612,Oncology,Surgery,26
+113614,Dr_3613,Pediatrics,Emergency,2
+113615,Dr_3614,Orthopedics,Emergency,31
+113616,Dr_3615,Dermatology,Outpatient,2
+113617,Dr_3616,Cardiology,Outpatient,26
+113618,Dr_3617,General Medicine,Outpatient,23
+113619,Dr_3618,General Medicine,Surgery,12
+113620,Dr_3619,Neurology,Diagnostics,15
+113621,Dr_3620,Orthopedics,Diagnostics,10
+113622,Dr_3621,Pediatrics,Outpatient,29
+113623,Dr_3622,Oncology,Diagnostics,23
+113624,Dr_3623,Orthopedics,Medicine,34
+113625,Dr_3624,General Medicine,Diagnostics,21
+113626,Dr_3625,Dermatology,Medicine,31
+113627,Dr_3626,Neurology,Outpatient,5
+113628,Dr_3627,ENT,Diagnostics,1
+113629,Dr_3628,Pediatrics,Emergency,22
+113630,Dr_3629,General Medicine,Surgery,23
+113631,Dr_3630,Oncology,Outpatient,32
+113632,Dr_3631,Pediatrics,Diagnostics,9
+113633,Dr_3632,Oncology,Diagnostics,16
+113634,Dr_3633,ENT,Medicine,22
+113635,Dr_3634,Cardiology,Medicine,23
+113636,Dr_3635,General Medicine,Emergency,33
+113637,Dr_3636,ENT,Surgery,5
+113638,Dr_3637,ENT,Emergency,33
+113639,Dr_3638,Pediatrics,Outpatient,25
+113640,Dr_3639,Oncology,Medicine,29
+113641,Dr_3640,Pediatrics,Surgery,31
+113642,Dr_3641,Cardiology,Outpatient,4
+113643,Dr_3642,Pediatrics,Diagnostics,9
+113644,Dr_3643,Cardiology,Emergency,24
+113645,Dr_3644,Dermatology,Emergency,31
+113646,Dr_3645,Pediatrics,Emergency,6
+113647,Dr_3646,ENT,Emergency,11
+113648,Dr_3647,Pediatrics,Medicine,3
+113649,Dr_3648,Orthopedics,Diagnostics,14
+113650,Dr_3649,Neurology,Surgery,28
+113651,Dr_3650,ENT,Emergency,20
+113652,Dr_3651,Pediatrics,Surgery,21
+113653,Dr_3652,Pediatrics,Diagnostics,34
+113654,Dr_3653,Neurology,Medicine,31
+113655,Dr_3654,ENT,Outpatient,19
+113656,Dr_3655,Cardiology,Outpatient,3
+113657,Dr_3656,Orthopedics,Emergency,31
+113658,Dr_3657,Neurology,Outpatient,30
+113659,Dr_3658,Dermatology,Surgery,27
+113660,Dr_3659,Dermatology,Emergency,28
+113661,Dr_3660,General Medicine,Medicine,15
+113662,Dr_3661,Cardiology,Diagnostics,28
+113663,Dr_3662,ENT,Emergency,23
+113664,Dr_3663,Orthopedics,Emergency,11
+113665,Dr_3664,Neurology,Outpatient,25
+113666,Dr_3665,Oncology,Outpatient,33
+113667,Dr_3666,Dermatology,Outpatient,23
+113668,Dr_3667,Cardiology,Emergency,20
+113669,Dr_3668,ENT,Emergency,3
+113670,Dr_3669,Orthopedics,Emergency,33
+113671,Dr_3670,General Medicine,Surgery,35
+113672,Dr_3671,Orthopedics,Outpatient,10
+113673,Dr_3672,General Medicine,Diagnostics,23
+113674,Dr_3673,Dermatology,Surgery,33
+113675,Dr_3674,Dermatology,Medicine,13
+113676,Dr_3675,Pediatrics,Outpatient,5
+113677,Dr_3676,Oncology,Diagnostics,1
+113678,Dr_3677,Pediatrics,Emergency,2
+113679,Dr_3678,Neurology,Diagnostics,19
+113680,Dr_3679,Neurology,Outpatient,8
+113681,Dr_3680,Dermatology,Emergency,14
+113682,Dr_3681,General Medicine,Emergency,16
+113683,Dr_3682,Dermatology,Surgery,20
+113684,Dr_3683,Orthopedics,Outpatient,15
+113685,Dr_3684,Neurology,Outpatient,24
+113686,Dr_3685,Dermatology,Emergency,26
+113687,Dr_3686,Pediatrics,Outpatient,1
+113688,Dr_3687,Orthopedics,Surgery,32
+113689,Dr_3688,Cardiology,Medicine,28
+113690,Dr_3689,ENT,Medicine,35
+113691,Dr_3690,Orthopedics,Surgery,24
+113692,Dr_3691,ENT,Outpatient,8
+113693,Dr_3692,Pediatrics,Outpatient,31
+113694,Dr_3693,Pediatrics,Emergency,18
+113695,Dr_3694,Dermatology,Emergency,11
+113696,Dr_3695,Oncology,Surgery,18
+113697,Dr_3696,General Medicine,Medicine,3
+113698,Dr_3697,Oncology,Outpatient,24
+113699,Dr_3698,Neurology,Emergency,26
+113700,Dr_3699,Orthopedics,Medicine,24
+113701,Dr_3700,Neurology,Outpatient,9
+113702,Dr_3701,General Medicine,Emergency,17
+113703,Dr_3702,General Medicine,Medicine,16
+113704,Dr_3703,Dermatology,Medicine,6
+113705,Dr_3704,General Medicine,Medicine,35
+113706,Dr_3705,Oncology,Emergency,4
+113707,Dr_3706,Oncology,Emergency,3
+113708,Dr_3707,General Medicine,Emergency,6
+113709,Dr_3708,Oncology,Diagnostics,17
+113710,Dr_3709,Neurology,Emergency,30
+113711,Dr_3710,Oncology,Diagnostics,18
+113712,Dr_3711,Pediatrics,Diagnostics,18
+113713,Dr_3712,Pediatrics,Diagnostics,8
+113714,Dr_3713,Neurology,Diagnostics,23
+113715,Dr_3714,Pediatrics,Diagnostics,8
+113716,Dr_3715,Dermatology,Surgery,14
+113717,Dr_3716,Dermatology,Emergency,17
+113718,Dr_3717,Neurology,Surgery,3
+113719,Dr_3718,Orthopedics,Surgery,16
+113720,Dr_3719,General Medicine,Outpatient,12
+113721,Dr_3720,Cardiology,Outpatient,12
+113722,Dr_3721,Neurology,Medicine,33
+113723,Dr_3722,General Medicine,Outpatient,7
+113724,Dr_3723,Orthopedics,Emergency,19
+113725,Dr_3724,General Medicine,Outpatient,7
+113726,Dr_3725,Pediatrics,Medicine,1
+113727,Dr_3726,Pediatrics,Emergency,27
+113728,Dr_3727,Dermatology,Diagnostics,22
+113729,Dr_3728,Pediatrics,Outpatient,19
+113730,Dr_3729,ENT,Surgery,34
+113731,Dr_3730,Oncology,Diagnostics,3
+113732,Dr_3731,ENT,Outpatient,16
+113733,Dr_3732,Cardiology,Diagnostics,9
+113734,Dr_3733,Oncology,Medicine,15
+113735,Dr_3734,Neurology,Medicine,6
+113736,Dr_3735,Dermatology,Outpatient,7
+113737,Dr_3736,Neurology,Diagnostics,17
+113738,Dr_3737,Pediatrics,Emergency,14
+113739,Dr_3738,Neurology,Diagnostics,21
+113740,Dr_3739,Pediatrics,Emergency,1
+113741,Dr_3740,Oncology,Medicine,14
+113742,Dr_3741,Dermatology,Medicine,9
+113743,Dr_3742,ENT,Surgery,29
+113744,Dr_3743,Oncology,Diagnostics,11
+113745,Dr_3744,Neurology,Outpatient,35
+113746,Dr_3745,General Medicine,Emergency,16
+113747,Dr_3746,Pediatrics,Diagnostics,29
+113748,Dr_3747,Oncology,Emergency,12
+113749,Dr_3748,Pediatrics,Emergency,32
+113750,Dr_3749,Neurology,Medicine,10
+113751,Dr_3750,Cardiology,Outpatient,20
+113752,Dr_3751,Orthopedics,Medicine,15
+113753,Dr_3752,Pediatrics,Medicine,12
+113754,Dr_3753,Neurology,Emergency,30
+113755,Dr_3754,Cardiology,Surgery,5
+113756,Dr_3755,Orthopedics,Outpatient,22
+113757,Dr_3756,Cardiology,Medicine,18
+113758,Dr_3757,Dermatology,Outpatient,21
+113759,Dr_3758,Pediatrics,Diagnostics,30
+113760,Dr_3759,ENT,Emergency,24
+113761,Dr_3760,Dermatology,Medicine,13
+113762,Dr_3761,Neurology,Diagnostics,31
+113763,Dr_3762,Dermatology,Medicine,14
+113764,Dr_3763,General Medicine,Outpatient,18
+113765,Dr_3764,Orthopedics,Medicine,14
+113766,Dr_3765,Cardiology,Outpatient,15
+113767,Dr_3766,Neurology,Surgery,9
+113768,Dr_3767,Cardiology,Outpatient,19
+113769,Dr_3768,Neurology,Surgery,4
+113770,Dr_3769,Orthopedics,Diagnostics,19
+113771,Dr_3770,Pediatrics,Emergency,2
+113772,Dr_3771,Oncology,Emergency,5
+113773,Dr_3772,Pediatrics,Medicine,18
+113774,Dr_3773,Orthopedics,Emergency,34
+113775,Dr_3774,Oncology,Diagnostics,18
+113776,Dr_3775,Orthopedics,Diagnostics,12
+113777,Dr_3776,Oncology,Diagnostics,35
+113778,Dr_3777,Dermatology,Emergency,33
+113779,Dr_3778,Neurology,Emergency,18
+113780,Dr_3779,Oncology,Emergency,4
+113781,Dr_3780,Cardiology,Outpatient,14
+113782,Dr_3781,Oncology,Surgery,3
+113783,Dr_3782,Cardiology,Outpatient,33
+113784,Dr_3783,General Medicine,Surgery,34
+113785,Dr_3784,Neurology,Emergency,17
+113786,Dr_3785,Neurology,Diagnostics,32
+113787,Dr_3786,Dermatology,Emergency,22
+113788,Dr_3787,Oncology,Medicine,27
+113789,Dr_3788,Dermatology,Outpatient,35
+113790,Dr_3789,Oncology,Medicine,3
+113791,Dr_3790,Dermatology,Outpatient,8
+113792,Dr_3791,Pediatrics,Outpatient,7
+113793,Dr_3792,Oncology,Medicine,30
+113794,Dr_3793,Dermatology,Diagnostics,18
+113795,Dr_3794,Neurology,Outpatient,34
+113796,Dr_3795,Dermatology,Outpatient,1
+113797,Dr_3796,Neurology,Surgery,7
+113798,Dr_3797,Neurology,Diagnostics,19
+113799,Dr_3798,Oncology,Diagnostics,31
+113800,Dr_3799,Neurology,Outpatient,11
+113801,Dr_3800,General Medicine,Outpatient,7
+113802,Dr_3801,General Medicine,Outpatient,21
+113803,Dr_3802,Oncology,Medicine,16
+113804,Dr_3803,General Medicine,Emergency,13
+113805,Dr_3804,Pediatrics,Emergency,10
+113806,Dr_3805,Dermatology,Medicine,9
+113807,Dr_3806,Orthopedics,Outpatient,21
+113808,Dr_3807,Neurology,Diagnostics,7
+113809,Dr_3808,Orthopedics,Surgery,17
+113810,Dr_3809,Oncology,Emergency,34
+113811,Dr_3810,Dermatology,Emergency,18
+113812,Dr_3811,General Medicine,Emergency,15
+113813,Dr_3812,Dermatology,Outpatient,3
+113814,Dr_3813,ENT,Medicine,1
+113815,Dr_3814,Pediatrics,Medicine,35
+113816,Dr_3815,Cardiology,Medicine,5
+113817,Dr_3816,Neurology,Surgery,5
+113818,Dr_3817,Neurology,Diagnostics,20
+113819,Dr_3818,Orthopedics,Medicine,21
+113820,Dr_3819,Pediatrics,Outpatient,29
+113821,Dr_3820,Dermatology,Surgery,8
+113822,Dr_3821,Dermatology,Emergency,34
+113823,Dr_3822,ENT,Outpatient,10
+113824,Dr_3823,Cardiology,Emergency,31
+113825,Dr_3824,Orthopedics,Diagnostics,12
+113826,Dr_3825,Oncology,Emergency,23
+113827,Dr_3826,Orthopedics,Outpatient,7
+113828,Dr_3827,Cardiology,Outpatient,2
+113829,Dr_3828,Dermatology,Medicine,1
+113830,Dr_3829,Neurology,Surgery,28
+113831,Dr_3830,Neurology,Outpatient,26
+113832,Dr_3831,Orthopedics,Diagnostics,14
+113833,Dr_3832,Oncology,Medicine,12
+113834,Dr_3833,Neurology,Surgery,13
+113835,Dr_3834,ENT,Medicine,11
+113836,Dr_3835,Dermatology,Diagnostics,18
+113837,Dr_3836,General Medicine,Surgery,10
+113838,Dr_3837,Oncology,Surgery,4
+113839,Dr_3838,General Medicine,Emergency,35
+113840,Dr_3839,General Medicine,Surgery,34
+113841,Dr_3840,Cardiology,Diagnostics,16
+113842,Dr_3841,Orthopedics,Emergency,28
+113843,Dr_3842,Dermatology,Surgery,4
+113844,Dr_3843,General Medicine,Outpatient,30
+113845,Dr_3844,ENT,Medicine,8
+113846,Dr_3845,Neurology,Surgery,1
+113847,Dr_3846,Pediatrics,Outpatient,33
+113848,Dr_3847,Oncology,Outpatient,14
+113849,Dr_3848,Dermatology,Medicine,27
+113850,Dr_3849,ENT,Medicine,24
+113851,Dr_3850,Orthopedics,Surgery,10
+113852,Dr_3851,Cardiology,Emergency,21
+113853,Dr_3852,Oncology,Emergency,24
+113854,Dr_3853,Neurology,Outpatient,8
+113855,Dr_3854,Cardiology,Emergency,1
+113856,Dr_3855,ENT,Outpatient,14
+113857,Dr_3856,Pediatrics,Surgery,19
+113858,Dr_3857,Neurology,Emergency,19
+113859,Dr_3858,Pediatrics,Diagnostics,1
+113860,Dr_3859,Neurology,Medicine,19
+113861,Dr_3860,ENT,Emergency,30
+113862,Dr_3861,Cardiology,Surgery,18
+113863,Dr_3862,ENT,Medicine,23
+113864,Dr_3863,Oncology,Emergency,23
+113865,Dr_3864,ENT,Medicine,26
+113866,Dr_3865,Oncology,Outpatient,24
+113867,Dr_3866,Orthopedics,Surgery,1
+113868,Dr_3867,Neurology,Medicine,24
+113869,Dr_3868,Cardiology,Emergency,16
+113870,Dr_3869,Cardiology,Emergency,29
+113871,Dr_3870,Orthopedics,Medicine,34
+113872,Dr_3871,Orthopedics,Outpatient,20
+113873,Dr_3872,Neurology,Surgery,28
+113874,Dr_3873,ENT,Surgery,23
+113875,Dr_3874,Cardiology,Emergency,33
+113876,Dr_3875,Pediatrics,Outpatient,35
+113877,Dr_3876,Pediatrics,Emergency,34
+113878,Dr_3877,Orthopedics,Surgery,17
+113879,Dr_3878,Cardiology,Medicine,4
+113880,Dr_3879,Orthopedics,Diagnostics,32
+113881,Dr_3880,General Medicine,Outpatient,3
+113882,Dr_3881,Neurology,Emergency,28
+113883,Dr_3882,ENT,Emergency,28
+113884,Dr_3883,Cardiology,Surgery,16
+113885,Dr_3884,Pediatrics,Surgery,24
+113886,Dr_3885,Neurology,Medicine,15
+113887,Dr_3886,General Medicine,Outpatient,2
+113888,Dr_3887,ENT,Medicine,13
+113889,Dr_3888,Dermatology,Surgery,2
+113890,Dr_3889,Cardiology,Outpatient,4
+113891,Dr_3890,Pediatrics,Emergency,20
+113892,Dr_3891,ENT,Emergency,21
+113893,Dr_3892,Neurology,Emergency,1
+113894,Dr_3893,Oncology,Emergency,20
+113895,Dr_3894,Orthopedics,Outpatient,2
+113896,Dr_3895,Orthopedics,Medicine,22
+113897,Dr_3896,Orthopedics,Diagnostics,9
+113898,Dr_3897,Dermatology,Emergency,27
+113899,Dr_3898,General Medicine,Emergency,29
+113900,Dr_3899,Dermatology,Outpatient,33
+113901,Dr_3900,Oncology,Diagnostics,31
+113902,Dr_3901,Cardiology,Outpatient,28
+113903,Dr_3902,Pediatrics,Medicine,29
+113904,Dr_3903,Pediatrics,Surgery,7
+113905,Dr_3904,Pediatrics,Outpatient,30
+113906,Dr_3905,Oncology,Diagnostics,35
+113907,Dr_3906,ENT,Outpatient,29
+113908,Dr_3907,ENT,Medicine,5
+113909,Dr_3908,Orthopedics,Medicine,25
+113910,Dr_3909,Dermatology,Diagnostics,8
+113911,Dr_3910,Neurology,Medicine,14
+113912,Dr_3911,General Medicine,Surgery,30
+113913,Dr_3912,Orthopedics,Diagnostics,23
+113914,Dr_3913,ENT,Medicine,31
+113915,Dr_3914,Neurology,Diagnostics,22
+113916,Dr_3915,General Medicine,Diagnostics,25
+113917,Dr_3916,Dermatology,Diagnostics,31
+113918,Dr_3917,Dermatology,Surgery,8
+113919,Dr_3918,General Medicine,Medicine,4
+113920,Dr_3919,Cardiology,Surgery,8
+113921,Dr_3920,Orthopedics,Medicine,29
+113922,Dr_3921,Oncology,Outpatient,22
+113923,Dr_3922,Dermatology,Diagnostics,12
+113924,Dr_3923,Oncology,Medicine,29
+113925,Dr_3924,Cardiology,Diagnostics,10
+113926,Dr_3925,Pediatrics,Outpatient,4
+113927,Dr_3926,ENT,Diagnostics,26
+113928,Dr_3927,Cardiology,Surgery,20
+113929,Dr_3928,Cardiology,Medicine,4
+113930,Dr_3929,Dermatology,Surgery,8
+113931,Dr_3930,Cardiology,Medicine,32
+113932,Dr_3931,Orthopedics,Medicine,27
+113933,Dr_3932,Dermatology,Emergency,19
+113934,Dr_3933,Cardiology,Diagnostics,31
+113935,Dr_3934,Orthopedics,Diagnostics,24
+113936,Dr_3935,Dermatology,Emergency,24
+113937,Dr_3936,ENT,Surgery,33
+113938,Dr_3937,Oncology,Diagnostics,23
+113939,Dr_3938,Orthopedics,Surgery,5
+113940,Dr_3939,ENT,Medicine,19
+113941,Dr_3940,Oncology,Surgery,22
+113942,Dr_3941,Orthopedics,Surgery,15
+113943,Dr_3942,Dermatology,Diagnostics,5
+113944,Dr_3943,Neurology,Diagnostics,3
+113945,Dr_3944,Dermatology,Outpatient,17
+113946,Dr_3945,Oncology,Diagnostics,6
+113947,Dr_3946,Cardiology,Diagnostics,13
+113948,Dr_3947,Oncology,Outpatient,2
+113949,Dr_3948,Pediatrics,Outpatient,32
+113950,Dr_3949,General Medicine,Outpatient,32
+113951,Dr_3950,Neurology,Medicine,32
+113952,Dr_3951,Cardiology,Outpatient,26
+113953,Dr_3952,Oncology,Outpatient,18
+113954,Dr_3953,Neurology,Diagnostics,32
+113955,Dr_3954,Pediatrics,Diagnostics,21
+113956,Dr_3955,Cardiology,Diagnostics,5
+113957,Dr_3956,Oncology,Outpatient,10
+113958,Dr_3957,Dermatology,Diagnostics,22
+113959,Dr_3958,Oncology,Surgery,13
+113960,Dr_3959,Orthopedics,Diagnostics,27
+113961,Dr_3960,Neurology,Outpatient,2
+113962,Dr_3961,Dermatology,Medicine,10
+113963,Dr_3962,Pediatrics,Outpatient,1
+113964,Dr_3963,Cardiology,Diagnostics,12
+113965,Dr_3964,General Medicine,Medicine,12
+113966,Dr_3965,General Medicine,Emergency,27
+113967,Dr_3966,Neurology,Outpatient,2
+113968,Dr_3967,General Medicine,Medicine,24
+113969,Dr_3968,General Medicine,Medicine,18
+113970,Dr_3969,Dermatology,Surgery,10
+113971,Dr_3970,Orthopedics,Surgery,6
+113972,Dr_3971,Pediatrics,Emergency,26
+113973,Dr_3972,General Medicine,Medicine,28
+113974,Dr_3973,General Medicine,Emergency,13
+113975,Dr_3974,Pediatrics,Diagnostics,25
+113976,Dr_3975,Dermatology,Surgery,3
+113977,Dr_3976,Cardiology,Surgery,3
+113978,Dr_3977,ENT,Outpatient,23
+113979,Dr_3978,Cardiology,Outpatient,30
+113980,Dr_3979,Pediatrics,Medicine,22
+113981,Dr_3980,Neurology,Diagnostics,16
+113982,Dr_3981,Pediatrics,Emergency,21
+113983,Dr_3982,General Medicine,Diagnostics,32
+113984,Dr_3983,Orthopedics,Diagnostics,16
+113985,Dr_3984,Neurology,Surgery,18
+113986,Dr_3985,ENT,Diagnostics,15
+113987,Dr_3986,Dermatology,Emergency,11
+113988,Dr_3987,Cardiology,Surgery,4
+113989,Dr_3988,Dermatology,Medicine,32
+113990,Dr_3989,Neurology,Medicine,10
+113991,Dr_3990,Dermatology,Medicine,27
+113992,Dr_3991,Cardiology,Diagnostics,15
+113993,Dr_3992,Cardiology,Diagnostics,24
+113994,Dr_3993,Neurology,Outpatient,27
+113995,Dr_3994,Cardiology,Outpatient,33
+113996,Dr_3995,Dermatology,Medicine,27
+113997,Dr_3996,Pediatrics,Surgery,12
+113998,Dr_3997,Pediatrics,Emergency,13
+113999,Dr_3998,Dermatology,Surgery,9
+114000,Dr_3999,Oncology,Medicine,2
+114001,Dr_4000,General Medicine,Outpatient,27
+114002,Dr_4001,Neurology,Diagnostics,6
+114003,Dr_4002,Neurology,Outpatient,23
+114004,Dr_4003,ENT,Surgery,34
+114005,Dr_4004,Cardiology,Medicine,23
+114006,Dr_4005,Orthopedics,Diagnostics,13
+114007,Dr_4006,Cardiology,Medicine,1
+114008,Dr_4007,General Medicine,Surgery,27
+114009,Dr_4008,Cardiology,Diagnostics,17
+114010,Dr_4009,Neurology,Outpatient,9
+114011,Dr_4010,Orthopedics,Diagnostics,4
+114012,Dr_4011,Pediatrics,Surgery,29
+114013,Dr_4012,Oncology,Outpatient,25
+114014,Dr_4013,ENT,Outpatient,21
+114015,Dr_4014,ENT,Emergency,23
+114016,Dr_4015,Dermatology,Outpatient,6
+114017,Dr_4016,Oncology,Emergency,2
+114018,Dr_4017,Dermatology,Medicine,23
+114019,Dr_4018,Oncology,Medicine,2
+114020,Dr_4019,Pediatrics,Emergency,26
+114021,Dr_4020,Neurology,Outpatient,25
+114022,Dr_4021,Dermatology,Diagnostics,9
+114023,Dr_4022,Neurology,Medicine,17
+114024,Dr_4023,Dermatology,Diagnostics,16
+114025,Dr_4024,Pediatrics,Surgery,18
+114026,Dr_4025,Pediatrics,Medicine,11
+114027,Dr_4026,Oncology,Emergency,5
+114028,Dr_4027,Oncology,Outpatient,14
+114029,Dr_4028,Neurology,Emergency,13
+114030,Dr_4029,Oncology,Surgery,3
+114031,Dr_4030,Pediatrics,Medicine,27
+114032,Dr_4031,Cardiology,Emergency,10
+114033,Dr_4032,Neurology,Outpatient,9
+114034,Dr_4033,Dermatology,Diagnostics,1
+114035,Dr_4034,Cardiology,Diagnostics,10
+114036,Dr_4035,Oncology,Surgery,27
+114037,Dr_4036,ENT,Surgery,24
+114038,Dr_4037,Dermatology,Surgery,32
+114039,Dr_4038,ENT,Medicine,17
+114040,Dr_4039,ENT,Medicine,13
+114041,Dr_4040,Neurology,Surgery,27
+114042,Dr_4041,Oncology,Outpatient,5
+114043,Dr_4042,ENT,Diagnostics,31
+114044,Dr_4043,Neurology,Diagnostics,28
+114045,Dr_4044,ENT,Outpatient,24
+114046,Dr_4045,ENT,Surgery,7
+114047,Dr_4046,ENT,Medicine,25
+114048,Dr_4047,Dermatology,Surgery,19
+114049,Dr_4048,Oncology,Medicine,23
+114050,Dr_4049,Cardiology,Emergency,35
+114051,Dr_4050,Orthopedics,Emergency,18
+114052,Dr_4051,Oncology,Medicine,11
+114053,Dr_4052,Cardiology,Surgery,4
+114054,Dr_4053,Dermatology,Outpatient,23
+114055,Dr_4054,Neurology,Diagnostics,5
+114056,Dr_4055,General Medicine,Emergency,20
+114057,Dr_4056,ENT,Emergency,22
+114058,Dr_4057,Oncology,Medicine,33
+114059,Dr_4058,ENT,Medicine,21
+114060,Dr_4059,Orthopedics,Outpatient,1
+114061,Dr_4060,Neurology,Emergency,10
+114062,Dr_4061,ENT,Emergency,15
+114063,Dr_4062,Pediatrics,Emergency,31
+114064,Dr_4063,Cardiology,Surgery,7
+114065,Dr_4064,Neurology,Diagnostics,33
+114066,Dr_4065,Neurology,Outpatient,10
+114067,Dr_4066,Orthopedics,Outpatient,8
+114068,Dr_4067,Cardiology,Medicine,19
+114069,Dr_4068,Dermatology,Emergency,13
+114070,Dr_4069,Dermatology,Outpatient,8
+114071,Dr_4070,Dermatology,Surgery,23
+114072,Dr_4071,Dermatology,Outpatient,11
+114073,Dr_4072,Cardiology,Outpatient,33
+114074,Dr_4073,Dermatology,Emergency,4
+114075,Dr_4074,Neurology,Diagnostics,18
+114076,Dr_4075,Oncology,Outpatient,32
+114077,Dr_4076,General Medicine,Emergency,20
+114078,Dr_4077,ENT,Diagnostics,11
+114079,Dr_4078,Dermatology,Surgery,6
+114080,Dr_4079,Neurology,Diagnostics,11
+114081,Dr_4080,Oncology,Emergency,21
+114082,Dr_4081,Oncology,Outpatient,4
+114083,Dr_4082,Oncology,Emergency,24
+114084,Dr_4083,Oncology,Medicine,30
+114085,Dr_4084,Pediatrics,Surgery,21
+114086,Dr_4085,Cardiology,Diagnostics,14
+114087,Dr_4086,Oncology,Emergency,15
+114088,Dr_4087,Orthopedics,Medicine,30
+114089,Dr_4088,Cardiology,Emergency,29
+114090,Dr_4089,Dermatology,Outpatient,26
+114091,Dr_4090,Oncology,Outpatient,13
+114092,Dr_4091,Orthopedics,Outpatient,4
+114093,Dr_4092,General Medicine,Medicine,28
+114094,Dr_4093,Neurology,Emergency,35
+114095,Dr_4094,Orthopedics,Outpatient,15
+114096,Dr_4095,Cardiology,Medicine,28
+114097,Dr_4096,Pediatrics,Outpatient,25
+114098,Dr_4097,Dermatology,Emergency,32
+114099,Dr_4098,Orthopedics,Diagnostics,17
+114100,Dr_4099,Oncology,Surgery,27
+114101,Dr_4100,Pediatrics,Outpatient,17
+114102,Dr_4101,Cardiology,Diagnostics,8
+114103,Dr_4102,Pediatrics,Surgery,6
+114104,Dr_4103,Pediatrics,Surgery,30
+114105,Dr_4104,Pediatrics,Surgery,31
+114106,Dr_4105,Orthopedics,Emergency,7
+114107,Dr_4106,Pediatrics,Emergency,15
+114108,Dr_4107,ENT,Diagnostics,29
+114109,Dr_4108,Dermatology,Diagnostics,3
+114110,Dr_4109,Orthopedics,Medicine,28
+114111,Dr_4110,General Medicine,Outpatient,31
+114112,Dr_4111,ENT,Emergency,19
+114113,Dr_4112,Orthopedics,Outpatient,10
+114114,Dr_4113,Dermatology,Diagnostics,31
+114115,Dr_4114,Dermatology,Emergency,16
+114116,Dr_4115,General Medicine,Surgery,24
+114117,Dr_4116,Pediatrics,Outpatient,11
+114118,Dr_4117,ENT,Emergency,19
+114119,Dr_4118,Oncology,Medicine,14
+114120,Dr_4119,General Medicine,Emergency,6
+114121,Dr_4120,General Medicine,Surgery,23
+114122,Dr_4121,Neurology,Diagnostics,7
+114123,Dr_4122,General Medicine,Surgery,11
+114124,Dr_4123,ENT,Medicine,20
+114125,Dr_4124,Cardiology,Surgery,30
+114126,Dr_4125,Dermatology,Outpatient,26
+114127,Dr_4126,Pediatrics,Medicine,8
+114128,Dr_4127,Oncology,Diagnostics,5
+114129,Dr_4128,Orthopedics,Diagnostics,28
+114130,Dr_4129,Oncology,Medicine,16
+114131,Dr_4130,ENT,Outpatient,22
+114132,Dr_4131,Pediatrics,Surgery,5
+114133,Dr_4132,General Medicine,Emergency,31
+114134,Dr_4133,Neurology,Diagnostics,24
+114135,Dr_4134,Orthopedics,Surgery,34
+114136,Dr_4135,Pediatrics,Medicine,3
+114137,Dr_4136,Oncology,Surgery,2
+114138,Dr_4137,Pediatrics,Diagnostics,31
+114139,Dr_4138,Cardiology,Emergency,11
+114140,Dr_4139,Dermatology,Medicine,2
+114141,Dr_4140,ENT,Emergency,15
+114142,Dr_4141,General Medicine,Outpatient,12
+114143,Dr_4142,Dermatology,Surgery,27
+114144,Dr_4143,General Medicine,Surgery,3
+114145,Dr_4144,General Medicine,Diagnostics,17
+114146,Dr_4145,Cardiology,Surgery,11
+114147,Dr_4146,Dermatology,Diagnostics,23
+114148,Dr_4147,Pediatrics,Medicine,6
+114149,Dr_4148,Orthopedics,Emergency,35
+114150,Dr_4149,Oncology,Emergency,12
+114151,Dr_4150,Cardiology,Emergency,10
+114152,Dr_4151,Oncology,Emergency,13
+114153,Dr_4152,Dermatology,Diagnostics,21
+114154,Dr_4153,General Medicine,Diagnostics,4
+114155,Dr_4154,Cardiology,Surgery,3
+114156,Dr_4155,Dermatology,Diagnostics,29
+114157,Dr_4156,Pediatrics,Medicine,16
+114158,Dr_4157,General Medicine,Medicine,4
+114159,Dr_4158,General Medicine,Medicine,8
+114160,Dr_4159,Cardiology,Medicine,3
+114161,Dr_4160,Cardiology,Emergency,15
+114162,Dr_4161,Oncology,Surgery,16
+114163,Dr_4162,ENT,Surgery,29
+114164,Dr_4163,Neurology,Surgery,26
+114165,Dr_4164,Cardiology,Medicine,3
+114166,Dr_4165,General Medicine,Surgery,28
+114167,Dr_4166,Orthopedics,Outpatient,4
+114168,Dr_4167,Neurology,Outpatient,26
+114169,Dr_4168,Neurology,Surgery,32
+114170,Dr_4169,General Medicine,Diagnostics,20
+114171,Dr_4170,Dermatology,Surgery,1
+114172,Dr_4171,Dermatology,Diagnostics,8
+114173,Dr_4172,ENT,Outpatient,4
+114174,Dr_4173,Oncology,Diagnostics,17
+114175,Dr_4174,Dermatology,Surgery,17
+114176,Dr_4175,General Medicine,Medicine,27
+114177,Dr_4176,ENT,Medicine,24
+114178,Dr_4177,Cardiology,Outpatient,5
+114179,Dr_4178,Pediatrics,Diagnostics,20
+114180,Dr_4179,Oncology,Outpatient,1
+114181,Dr_4180,Orthopedics,Emergency,12
+114182,Dr_4181,Pediatrics,Outpatient,3
+114183,Dr_4182,Dermatology,Medicine,29
+114184,Dr_4183,Cardiology,Surgery,6
+114185,Dr_4184,Pediatrics,Medicine,2
+114186,Dr_4185,Pediatrics,Outpatient,26
+114187,Dr_4186,Oncology,Medicine,23
+114188,Dr_4187,ENT,Surgery,14
+114189,Dr_4188,General Medicine,Diagnostics,18
+114190,Dr_4189,Orthopedics,Outpatient,21
+114191,Dr_4190,General Medicine,Diagnostics,26
+114192,Dr_4191,Oncology,Outpatient,15
+114193,Dr_4192,Neurology,Diagnostics,11
+114194,Dr_4193,General Medicine,Emergency,4
+114195,Dr_4194,Cardiology,Medicine,9
+114196,Dr_4195,Pediatrics,Diagnostics,11
+114197,Dr_4196,ENT,Outpatient,29
+114198,Dr_4197,General Medicine,Emergency,14
+114199,Dr_4198,Pediatrics,Emergency,5
+114200,Dr_4199,General Medicine,Outpatient,7
+114201,Dr_4200,Orthopedics,Medicine,9
+114202,Dr_4201,General Medicine,Outpatient,29
+114203,Dr_4202,Oncology,Outpatient,28
+114204,Dr_4203,Neurology,Medicine,22
+114205,Dr_4204,ENT,Emergency,32
+114206,Dr_4205,Dermatology,Diagnostics,11
+114207,Dr_4206,General Medicine,Outpatient,18
+114208,Dr_4207,General Medicine,Medicine,19
+114209,Dr_4208,Oncology,Outpatient,30
+114210,Dr_4209,Neurology,Emergency,27
+114211,Dr_4210,ENT,Emergency,14
+114212,Dr_4211,Neurology,Medicine,6
+114213,Dr_4212,Orthopedics,Outpatient,22
+114214,Dr_4213,Pediatrics,Medicine,1
+114215,Dr_4214,Cardiology,Emergency,9
+114216,Dr_4215,General Medicine,Medicine,3
+114217,Dr_4216,ENT,Outpatient,24
+114218,Dr_4217,Orthopedics,Emergency,21
+114219,Dr_4218,Orthopedics,Diagnostics,5
+114220,Dr_4219,Pediatrics,Diagnostics,32
+114221,Dr_4220,General Medicine,Diagnostics,24
+114222,Dr_4221,Neurology,Diagnostics,18
+114223,Dr_4222,General Medicine,Diagnostics,32
+114224,Dr_4223,ENT,Diagnostics,27
+114225,Dr_4224,Oncology,Medicine,7
+114226,Dr_4225,Pediatrics,Medicine,13
+114227,Dr_4226,General Medicine,Medicine,5
+114228,Dr_4227,Orthopedics,Outpatient,2
+114229,Dr_4228,Dermatology,Emergency,29
+114230,Dr_4229,Orthopedics,Emergency,34
+114231,Dr_4230,Oncology,Emergency,17
+114232,Dr_4231,Orthopedics,Diagnostics,6
+114233,Dr_4232,Cardiology,Outpatient,25
+114234,Dr_4233,Pediatrics,Outpatient,2
+114235,Dr_4234,ENT,Emergency,6
+114236,Dr_4235,General Medicine,Outpatient,5
+114237,Dr_4236,Pediatrics,Surgery,14
+114238,Dr_4237,General Medicine,Diagnostics,5
+114239,Dr_4238,Oncology,Outpatient,28
+114240,Dr_4239,Cardiology,Emergency,27
+114241,Dr_4240,Neurology,Surgery,28
+114242,Dr_4241,Dermatology,Medicine,7
+114243,Dr_4242,General Medicine,Emergency,18
+114244,Dr_4243,Dermatology,Outpatient,12
+114245,Dr_4244,Orthopedics,Emergency,31
+114246,Dr_4245,Cardiology,Surgery,3
+114247,Dr_4246,General Medicine,Medicine,7
+114248,Dr_4247,Neurology,Medicine,7
+114249,Dr_4248,Pediatrics,Medicine,25
+114250,Dr_4249,Neurology,Outpatient,26
+114251,Dr_4250,General Medicine,Surgery,30
+114252,Dr_4251,Cardiology,Emergency,35
+114253,Dr_4252,Neurology,Diagnostics,14
+114254,Dr_4253,ENT,Emergency,27
+114255,Dr_4254,Neurology,Medicine,3
+114256,Dr_4255,ENT,Surgery,24
+114257,Dr_4256,ENT,Medicine,24
+114258,Dr_4257,Cardiology,Outpatient,24
+114259,Dr_4258,Oncology,Emergency,32
+114260,Dr_4259,Dermatology,Outpatient,17
+114261,Dr_4260,Cardiology,Surgery,33
+114262,Dr_4261,Oncology,Diagnostics,11
+114263,Dr_4262,Orthopedics,Diagnostics,28
+114264,Dr_4263,Orthopedics,Emergency,14
+114265,Dr_4264,Oncology,Medicine,11
+114266,Dr_4265,Pediatrics,Outpatient,7
+114267,Dr_4266,ENT,Surgery,7
+114268,Dr_4267,Pediatrics,Surgery,26
+114269,Dr_4268,Pediatrics,Outpatient,23
+114270,Dr_4269,ENT,Diagnostics,18
+114271,Dr_4270,General Medicine,Medicine,28
+114272,Dr_4271,Pediatrics,Medicine,16
+114273,Dr_4272,Neurology,Outpatient,14
+114274,Dr_4273,Orthopedics,Emergency,27
+114275,Dr_4274,Pediatrics,Diagnostics,5
+114276,Dr_4275,General Medicine,Outpatient,25
+114277,Dr_4276,Dermatology,Diagnostics,28
+114278,Dr_4277,Oncology,Outpatient,22
+114279,Dr_4278,Orthopedics,Diagnostics,34
+114280,Dr_4279,Neurology,Medicine,1
+114281,Dr_4280,General Medicine,Surgery,22
+114282,Dr_4281,Dermatology,Emergency,18
+114283,Dr_4282,Oncology,Emergency,35
+114284,Dr_4283,Neurology,Outpatient,11
+114285,Dr_4284,ENT,Medicine,31
+114286,Dr_4285,Neurology,Emergency,28
+114287,Dr_4286,General Medicine,Outpatient,21
+114288,Dr_4287,Dermatology,Medicine,2
+114289,Dr_4288,Oncology,Diagnostics,35
+114290,Dr_4289,ENT,Emergency,30
+114291,Dr_4290,ENT,Medicine,5
+114292,Dr_4291,Pediatrics,Surgery,27
+114293,Dr_4292,Dermatology,Emergency,35
+114294,Dr_4293,Dermatology,Medicine,32
+114295,Dr_4294,Oncology,Outpatient,4
+114296,Dr_4295,Oncology,Outpatient,10
+114297,Dr_4296,Dermatology,Diagnostics,19
+114298,Dr_4297,Cardiology,Outpatient,9
+114299,Dr_4298,Orthopedics,Outpatient,34
+114300,Dr_4299,Cardiology,Outpatient,30
+114301,Dr_4300,Neurology,Emergency,10
+114302,Dr_4301,Neurology,Surgery,27
+114303,Dr_4302,ENT,Surgery,9
+114304,Dr_4303,Neurology,Surgery,11
+114305,Dr_4304,Dermatology,Emergency,26
+114306,Dr_4305,Neurology,Medicine,3
+114307,Dr_4306,General Medicine,Outpatient,17
+114308,Dr_4307,Cardiology,Surgery,33
+114309,Dr_4308,Dermatology,Medicine,29
+114310,Dr_4309,Dermatology,Diagnostics,28
+114311,Dr_4310,Dermatology,Outpatient,25
+114312,Dr_4311,Cardiology,Diagnostics,22
+114313,Dr_4312,Cardiology,Surgery,15
+114314,Dr_4313,ENT,Surgery,27
+114315,Dr_4314,General Medicine,Emergency,24
+114316,Dr_4315,ENT,Emergency,3
+114317,Dr_4316,Neurology,Medicine,9
+114318,Dr_4317,Oncology,Diagnostics,25
+114319,Dr_4318,Cardiology,Outpatient,5
+114320,Dr_4319,Dermatology,Outpatient,31
+114321,Dr_4320,Oncology,Emergency,4
+114322,Dr_4321,Orthopedics,Diagnostics,32
+114323,Dr_4322,ENT,Surgery,19
+114324,Dr_4323,Pediatrics,Emergency,31
+114325,Dr_4324,Oncology,Outpatient,1
+114326,Dr_4325,Cardiology,Surgery,23
+114327,Dr_4326,Orthopedics,Surgery,16
+114328,Dr_4327,Cardiology,Outpatient,26
+114329,Dr_4328,Orthopedics,Surgery,32
+114330,Dr_4329,Neurology,Diagnostics,15
+114331,Dr_4330,Oncology,Outpatient,14
+114332,Dr_4331,Oncology,Emergency,35
+114333,Dr_4332,Dermatology,Surgery,12
+114334,Dr_4333,Oncology,Outpatient,23
+114335,Dr_4334,ENT,Diagnostics,26
+114336,Dr_4335,Dermatology,Diagnostics,22
+114337,Dr_4336,Oncology,Surgery,21
+114338,Dr_4337,Pediatrics,Emergency,24
+114339,Dr_4338,Oncology,Emergency,26
+114340,Dr_4339,Neurology,Surgery,2
+114341,Dr_4340,Orthopedics,Surgery,28
+114342,Dr_4341,Pediatrics,Outpatient,8
+114343,Dr_4342,Orthopedics,Diagnostics,28
+114344,Dr_4343,Neurology,Emergency,23
+114345,Dr_4344,Dermatology,Surgery,25
+114346,Dr_4345,Orthopedics,Diagnostics,24
+114347,Dr_4346,Pediatrics,Outpatient,34
+114348,Dr_4347,Neurology,Medicine,17
+114349,Dr_4348,Oncology,Medicine,13
+114350,Dr_4349,Dermatology,Emergency,35
+114351,Dr_4350,Cardiology,Diagnostics,19
+114352,Dr_4351,Pediatrics,Outpatient,8
+114353,Dr_4352,Orthopedics,Surgery,25
+114354,Dr_4353,Orthopedics,Medicine,14
+114355,Dr_4354,Orthopedics,Emergency,2
+114356,Dr_4355,Dermatology,Diagnostics,9
+114357,Dr_4356,Neurology,Emergency,20
+114358,Dr_4357,ENT,Outpatient,2
+114359,Dr_4358,Orthopedics,Surgery,21
+114360,Dr_4359,Neurology,Diagnostics,17
+114361,Dr_4360,Oncology,Surgery,27
+114362,Dr_4361,Orthopedics,Surgery,19
+114363,Dr_4362,Neurology,Diagnostics,19
+114364,Dr_4363,General Medicine,Outpatient,14
+114365,Dr_4364,Cardiology,Emergency,23
+114366,Dr_4365,ENT,Medicine,32
+114367,Dr_4366,ENT,Emergency,4
+114368,Dr_4367,Dermatology,Emergency,24
+114369,Dr_4368,General Medicine,Outpatient,9
+114370,Dr_4369,Pediatrics,Surgery,25
+114371,Dr_4370,Orthopedics,Outpatient,29
+114372,Dr_4371,ENT,Surgery,21
+114373,Dr_4372,Dermatology,Outpatient,1
+114374,Dr_4373,Pediatrics,Surgery,2
+114375,Dr_4374,Dermatology,Medicine,11
+114376,Dr_4375,ENT,Medicine,15
+114377,Dr_4376,Cardiology,Emergency,2
+114378,Dr_4377,Cardiology,Medicine,33
+114379,Dr_4378,Dermatology,Medicine,33
+114380,Dr_4379,Cardiology,Medicine,27
+114381,Dr_4380,Dermatology,Outpatient,29
+114382,Dr_4381,Pediatrics,Emergency,21
+114383,Dr_4382,Pediatrics,Surgery,27
+114384,Dr_4383,General Medicine,Medicine,14
+114385,Dr_4384,Dermatology,Medicine,1
+114386,Dr_4385,Neurology,Medicine,4
+114387,Dr_4386,General Medicine,Medicine,29
+114388,Dr_4387,ENT,Diagnostics,13
+114389,Dr_4388,Cardiology,Surgery,5
+114390,Dr_4389,Dermatology,Outpatient,27
+114391,Dr_4390,Neurology,Emergency,5
+114392,Dr_4391,General Medicine,Outpatient,8
+114393,Dr_4392,Neurology,Diagnostics,6
+114394,Dr_4393,General Medicine,Outpatient,33
+114395,Dr_4394,Orthopedics,Medicine,6
+114396,Dr_4395,Cardiology,Outpatient,11
+114397,Dr_4396,ENT,Outpatient,25
+114398,Dr_4397,Neurology,Medicine,2
+114399,Dr_4398,Dermatology,Diagnostics,31
+114400,Dr_4399,Oncology,Diagnostics,22
+114401,Dr_4400,Orthopedics,Surgery,35
+114402,Dr_4401,ENT,Outpatient,14
+114403,Dr_4402,General Medicine,Diagnostics,30
+114404,Dr_4403,Neurology,Diagnostics,17
+114405,Dr_4404,Cardiology,Medicine,31
+114406,Dr_4405,Dermatology,Outpatient,30
+114407,Dr_4406,Oncology,Diagnostics,22
+114408,Dr_4407,Neurology,Medicine,12
+114409,Dr_4408,Oncology,Outpatient,33
+114410,Dr_4409,Oncology,Outpatient,28
+114411,Dr_4410,Pediatrics,Emergency,2
+114412,Dr_4411,Oncology,Surgery,32
+114413,Dr_4412,ENT,Outpatient,13
+114414,Dr_4413,Cardiology,Emergency,16
+114415,Dr_4414,General Medicine,Surgery,19
+114416,Dr_4415,Cardiology,Surgery,16
+114417,Dr_4416,Cardiology,Emergency,34
+114418,Dr_4417,Neurology,Outpatient,10
+114419,Dr_4418,Neurology,Emergency,7
+114420,Dr_4419,Dermatology,Medicine,22
+114421,Dr_4420,Oncology,Medicine,17
+114422,Dr_4421,Orthopedics,Medicine,35
+114423,Dr_4422,Cardiology,Diagnostics,2
+114424,Dr_4423,Pediatrics,Medicine,14
+114425,Dr_4424,Pediatrics,Outpatient,16
+114426,Dr_4425,Oncology,Diagnostics,14
+114427,Dr_4426,ENT,Diagnostics,7
+114428,Dr_4427,Dermatology,Surgery,18
+114429,Dr_4428,ENT,Medicine,31
+114430,Dr_4429,Cardiology,Medicine,1
+114431,Dr_4430,Neurology,Emergency,22
+114432,Dr_4431,ENT,Diagnostics,7
+114433,Dr_4432,Pediatrics,Medicine,33
+114434,Dr_4433,ENT,Emergency,11
+114435,Dr_4434,Dermatology,Diagnostics,17
+114436,Dr_4435,Oncology,Outpatient,9
+114437,Dr_4436,Orthopedics,Diagnostics,19
+114438,Dr_4437,Dermatology,Surgery,3
+114439,Dr_4438,ENT,Emergency,34
+114440,Dr_4439,ENT,Medicine,17
+114441,Dr_4440,Dermatology,Diagnostics,17
+114442,Dr_4441,Orthopedics,Diagnostics,28
+114443,Dr_4442,Dermatology,Surgery,10
+114444,Dr_4443,Neurology,Diagnostics,19
+114445,Dr_4444,ENT,Medicine,32
+114446,Dr_4445,Oncology,Medicine,3
+114447,Dr_4446,Orthopedics,Medicine,28
+114448,Dr_4447,General Medicine,Emergency,2
+114449,Dr_4448,Orthopedics,Emergency,5
+114450,Dr_4449,Pediatrics,Outpatient,4
+114451,Dr_4450,Orthopedics,Emergency,21
+114452,Dr_4451,General Medicine,Emergency,6
+114453,Dr_4452,Neurology,Surgery,5
+114454,Dr_4453,ENT,Surgery,29
+114455,Dr_4454,Cardiology,Diagnostics,8
+114456,Dr_4455,Cardiology,Outpatient,35
+114457,Dr_4456,Cardiology,Outpatient,27
+114458,Dr_4457,ENT,Emergency,30
+114459,Dr_4458,Pediatrics,Surgery,2
+114460,Dr_4459,Dermatology,Medicine,14
+114461,Dr_4460,Neurology,Emergency,25
+114462,Dr_4461,Dermatology,Medicine,2
+114463,Dr_4462,Oncology,Outpatient,8
+114464,Dr_4463,General Medicine,Surgery,15
+114465,Dr_4464,Cardiology,Surgery,26
+114466,Dr_4465,Cardiology,Diagnostics,12
+114467,Dr_4466,Oncology,Surgery,6
+114468,Dr_4467,General Medicine,Outpatient,27
+114469,Dr_4468,Orthopedics,Surgery,15
+114470,Dr_4469,Cardiology,Outpatient,21
+114471,Dr_4470,Cardiology,Emergency,2
+114472,Dr_4471,Oncology,Outpatient,13
+114473,Dr_4472,Pediatrics,Diagnostics,23
+114474,Dr_4473,ENT,Medicine,3
+114475,Dr_4474,Dermatology,Medicine,16
+114476,Dr_4475,ENT,Medicine,21
+114477,Dr_4476,Cardiology,Medicine,13
+114478,Dr_4477,ENT,Medicine,22
+114479,Dr_4478,Cardiology,Outpatient,24
+114480,Dr_4479,Oncology,Surgery,2
+114481,Dr_4480,ENT,Medicine,6
+114482,Dr_4481,General Medicine,Medicine,19
+114483,Dr_4482,Neurology,Emergency,1
+114484,Dr_4483,Pediatrics,Emergency,16
+114485,Dr_4484,Orthopedics,Emergency,3
+114486,Dr_4485,Cardiology,Emergency,35
+114487,Dr_4486,Orthopedics,Outpatient,3
+114488,Dr_4487,Pediatrics,Diagnostics,8
+114489,Dr_4488,ENT,Outpatient,8
+114490,Dr_4489,Oncology,Outpatient,20
+114491,Dr_4490,Cardiology,Emergency,13
+114492,Dr_4491,ENT,Emergency,16
+114493,Dr_4492,Cardiology,Medicine,6
+114494,Dr_4493,Pediatrics,Diagnostics,33
+114495,Dr_4494,Dermatology,Outpatient,1
+114496,Dr_4495,Neurology,Surgery,35
+114497,Dr_4496,Dermatology,Outpatient,17
+114498,Dr_4497,Pediatrics,Emergency,20
+114499,Dr_4498,General Medicine,Outpatient,26
+114500,Dr_4499,Oncology,Emergency,1
+114501,Dr_4500,ENT,Surgery,1
+114502,Dr_4501,Dermatology,Outpatient,23
+114503,Dr_4502,ENT,Emergency,15
+114504,Dr_4503,ENT,Emergency,24
+114505,Dr_4504,Neurology,Diagnostics,16
+114506,Dr_4505,Cardiology,Emergency,35
+114507,Dr_4506,Neurology,Surgery,26
+114508,Dr_4507,Pediatrics,Diagnostics,3
+114509,Dr_4508,Dermatology,Emergency,11
+114510,Dr_4509,Neurology,Outpatient,22
+114511,Dr_4510,Cardiology,Surgery,35
+114512,Dr_4511,Neurology,Emergency,33
+114513,Dr_4512,Oncology,Medicine,3
+114514,Dr_4513,Orthopedics,Medicine,19
+114515,Dr_4514,Oncology,Surgery,10
+114516,Dr_4515,General Medicine,Emergency,11
+114517,Dr_4516,Cardiology,Outpatient,32
+114518,Dr_4517,Oncology,Surgery,30
+114519,Dr_4518,Oncology,Emergency,12
+114520,Dr_4519,Neurology,Surgery,20
+114521,Dr_4520,Pediatrics,Emergency,9
+114522,Dr_4521,Pediatrics,Diagnostics,34
+114523,Dr_4522,Orthopedics,Emergency,25
+114524,Dr_4523,Dermatology,Surgery,3
+114525,Dr_4524,Pediatrics,Diagnostics,31
+114526,Dr_4525,ENT,Outpatient,21
+114527,Dr_4526,Orthopedics,Emergency,11
+114528,Dr_4527,Oncology,Medicine,8
+114529,Dr_4528,Oncology,Emergency,25
+114530,Dr_4529,Oncology,Diagnostics,27
+114531,Dr_4530,Orthopedics,Surgery,29
+114532,Dr_4531,Dermatology,Outpatient,34
+114533,Dr_4532,Dermatology,Medicine,16
+114534,Dr_4533,Pediatrics,Outpatient,23
+114535,Dr_4534,Oncology,Surgery,16
+114536,Dr_4535,General Medicine,Diagnostics,13
+114537,Dr_4536,General Medicine,Diagnostics,9
+114538,Dr_4537,Cardiology,Diagnostics,27
+114539,Dr_4538,Pediatrics,Outpatient,29
+114540,Dr_4539,ENT,Outpatient,15
+114541,Dr_4540,Cardiology,Surgery,30
+114542,Dr_4541,Orthopedics,Surgery,5
+114543,Dr_4542,ENT,Medicine,20
+114544,Dr_4543,Orthopedics,Diagnostics,30
+114545,Dr_4544,Pediatrics,Emergency,25
+114546,Dr_4545,Dermatology,Surgery,3
+114547,Dr_4546,Dermatology,Surgery,16
+114548,Dr_4547,Pediatrics,Emergency,30
+114549,Dr_4548,Cardiology,Outpatient,1
+114550,Dr_4549,Oncology,Surgery,30
+114551,Dr_4550,Pediatrics,Medicine,18
+114552,Dr_4551,Oncology,Outpatient,15
+114553,Dr_4552,ENT,Medicine,16
+114554,Dr_4553,Pediatrics,Medicine,2
+114555,Dr_4554,Cardiology,Outpatient,19
+114556,Dr_4555,Oncology,Outpatient,8
+114557,Dr_4556,General Medicine,Diagnostics,19
+114558,Dr_4557,Oncology,Diagnostics,27
+114559,Dr_4558,Neurology,Outpatient,11
+114560,Dr_4559,ENT,Medicine,13
+114561,Dr_4560,ENT,Medicine,3
+114562,Dr_4561,Cardiology,Diagnostics,28
+114563,Dr_4562,Orthopedics,Outpatient,12
+114564,Dr_4563,Dermatology,Surgery,24
+114565,Dr_4564,Oncology,Medicine,2
+114566,Dr_4565,Orthopedics,Medicine,19
+114567,Dr_4566,Cardiology,Emergency,3
+114568,Dr_4567,Pediatrics,Surgery,4
+114569,Dr_4568,Cardiology,Medicine,31
+114570,Dr_4569,Pediatrics,Outpatient,21
+114571,Dr_4570,General Medicine,Surgery,9
+114572,Dr_4571,Oncology,Outpatient,15
+114573,Dr_4572,ENT,Emergency,25
+114574,Dr_4573,Orthopedics,Surgery,20
+114575,Dr_4574,Dermatology,Medicine,8
+114576,Dr_4575,Pediatrics,Diagnostics,12
+114577,Dr_4576,Orthopedics,Emergency,21
+114578,Dr_4577,Cardiology,Medicine,34
+114579,Dr_4578,Oncology,Surgery,12
+114580,Dr_4579,Dermatology,Diagnostics,24
+114581,Dr_4580,Orthopedics,Medicine,5
+114582,Dr_4581,Pediatrics,Outpatient,16
+114583,Dr_4582,Cardiology,Emergency,18
+114584,Dr_4583,Neurology,Outpatient,24
+114585,Dr_4584,Oncology,Diagnostics,35
+114586,Dr_4585,Pediatrics,Surgery,19
+114587,Dr_4586,Cardiology,Medicine,31
+114588,Dr_4587,Neurology,Surgery,28
+114589,Dr_4588,Dermatology,Emergency,28
+114590,Dr_4589,Dermatology,Diagnostics,11
+114591,Dr_4590,Pediatrics,Diagnostics,11
+114592,Dr_4591,Orthopedics,Outpatient,21
+114593,Dr_4592,ENT,Medicine,32
+114594,Dr_4593,Cardiology,Surgery,31
+114595,Dr_4594,ENT,Emergency,30
+114596,Dr_4595,Dermatology,Medicine,7
+114597,Dr_4596,Oncology,Outpatient,4
+114598,Dr_4597,General Medicine,Surgery,27
+114599,Dr_4598,Pediatrics,Diagnostics,20
+114600,Dr_4599,Oncology,Medicine,25
+114601,Dr_4600,ENT,Emergency,29
+114602,Dr_4601,Orthopedics,Emergency,16
+114603,Dr_4602,Neurology,Surgery,13
+114604,Dr_4603,ENT,Medicine,12
+114605,Dr_4604,Cardiology,Surgery,8
+114606,Dr_4605,Orthopedics,Outpatient,24
+114607,Dr_4606,Orthopedics,Diagnostics,25
+114608,Dr_4607,Oncology,Emergency,17
+114609,Dr_4608,Pediatrics,Outpatient,20
+114610,Dr_4609,Cardiology,Medicine,1
+114611,Dr_4610,Dermatology,Medicine,25
+114612,Dr_4611,Cardiology,Outpatient,28
+114613,Dr_4612,General Medicine,Emergency,4
+114614,Dr_4613,Pediatrics,Surgery,1
+114615,Dr_4614,Dermatology,Diagnostics,3
+114616,Dr_4615,Cardiology,Diagnostics,7
+114617,Dr_4616,Pediatrics,Diagnostics,21
+114618,Dr_4617,ENT,Surgery,24
+114619,Dr_4618,Dermatology,Emergency,24
+114620,Dr_4619,Dermatology,Surgery,2
+114621,Dr_4620,Neurology,Diagnostics,32
+114622,Dr_4621,Dermatology,Diagnostics,30
+114623,Dr_4622,Pediatrics,Outpatient,28
+114624,Dr_4623,Cardiology,Emergency,20
+114625,Dr_4624,Oncology,Diagnostics,28
+114626,Dr_4625,General Medicine,Surgery,14
+114627,Dr_4626,Orthopedics,Emergency,29
+114628,Dr_4627,Orthopedics,Surgery,5
+114629,Dr_4628,ENT,Medicine,35
+114630,Dr_4629,Pediatrics,Outpatient,31
+114631,Dr_4630,Oncology,Diagnostics,25
+114632,Dr_4631,Pediatrics,Diagnostics,3
+114633,Dr_4632,Cardiology,Outpatient,23
+114634,Dr_4633,Oncology,Surgery,1
+114635,Dr_4634,Dermatology,Emergency,16
+114636,Dr_4635,Cardiology,Diagnostics,20
+114637,Dr_4636,Pediatrics,Medicine,6
+114638,Dr_4637,General Medicine,Outpatient,13
+114639,Dr_4638,General Medicine,Surgery,10
+114640,Dr_4639,Pediatrics,Surgery,34
+114641,Dr_4640,ENT,Diagnostics,14
+114642,Dr_4641,Neurology,Outpatient,33
+114643,Dr_4642,ENT,Emergency,24
+114644,Dr_4643,Dermatology,Diagnostics,3
+114645,Dr_4644,Orthopedics,Emergency,29
+114646,Dr_4645,ENT,Emergency,32
+114647,Dr_4646,ENT,Surgery,4
+114648,Dr_4647,Cardiology,Medicine,14
+114649,Dr_4648,Pediatrics,Diagnostics,6
+114650,Dr_4649,ENT,Diagnostics,12
+114651,Dr_4650,Pediatrics,Emergency,31
+114652,Dr_4651,Oncology,Emergency,18
+114653,Dr_4652,Neurology,Surgery,14
+114654,Dr_4653,Dermatology,Outpatient,22
+114655,Dr_4654,Neurology,Diagnostics,31
+114656,Dr_4655,Cardiology,Outpatient,29
+114657,Dr_4656,General Medicine,Outpatient,34
+114658,Dr_4657,General Medicine,Emergency,10
+114659,Dr_4658,ENT,Emergency,25
+114660,Dr_4659,General Medicine,Medicine,15
+114661,Dr_4660,General Medicine,Emergency,9
+114662,Dr_4661,Dermatology,Medicine,7
+114663,Dr_4662,Neurology,Diagnostics,4
+114664,Dr_4663,General Medicine,Surgery,24
+114665,Dr_4664,Oncology,Surgery,17
+114666,Dr_4665,Cardiology,Medicine,28
+114667,Dr_4666,Orthopedics,Diagnostics,30
+114668,Dr_4667,Dermatology,Medicine,2
+114669,Dr_4668,General Medicine,Surgery,24
+114670,Dr_4669,ENT,Outpatient,32
+114671,Dr_4670,Dermatology,Emergency,11
+114672,Dr_4671,Pediatrics,Outpatient,28
+114673,Dr_4672,Oncology,Surgery,13
+114674,Dr_4673,Dermatology,Surgery,34
+114675,Dr_4674,Orthopedics,Surgery,13
+114676,Dr_4675,General Medicine,Surgery,15
+114677,Dr_4676,Pediatrics,Medicine,24
+114678,Dr_4677,Pediatrics,Emergency,11
+114679,Dr_4678,Orthopedics,Emergency,6
+114680,Dr_4679,General Medicine,Medicine,27
+114681,Dr_4680,Oncology,Medicine,17
+114682,Dr_4681,General Medicine,Surgery,22
+114683,Dr_4682,Neurology,Outpatient,8
+114684,Dr_4683,Oncology,Outpatient,7
+114685,Dr_4684,Pediatrics,Medicine,10
+114686,Dr_4685,Oncology,Medicine,8
+114687,Dr_4686,Dermatology,Medicine,17
+114688,Dr_4687,ENT,Medicine,22
+114689,Dr_4688,Orthopedics,Diagnostics,3
+114690,Dr_4689,Dermatology,Diagnostics,11
+114691,Dr_4690,Dermatology,Surgery,6
+114692,Dr_4691,Dermatology,Diagnostics,1
+114693,Dr_4692,General Medicine,Medicine,32
+114694,Dr_4693,Dermatology,Surgery,23
+114695,Dr_4694,General Medicine,Medicine,27
+114696,Dr_4695,Pediatrics,Diagnostics,15
+114697,Dr_4696,Cardiology,Emergency,2
+114698,Dr_4697,Cardiology,Outpatient,23
+114699,Dr_4698,Oncology,Diagnostics,14
+114700,Dr_4699,Cardiology,Emergency,31
+114701,Dr_4700,Cardiology,Outpatient,22
+114702,Dr_4701,ENT,Outpatient,11
+114703,Dr_4702,General Medicine,Emergency,7
+114704,Dr_4703,Dermatology,Medicine,17
+114705,Dr_4704,Dermatology,Medicine,16
+114706,Dr_4705,Oncology,Medicine,10
+114707,Dr_4706,Orthopedics,Emergency,22
+114708,Dr_4707,Dermatology,Medicine,33
+114709,Dr_4708,Dermatology,Emergency,1
+114710,Dr_4709,General Medicine,Diagnostics,17
+114711,Dr_4710,Neurology,Diagnostics,17
+114712,Dr_4711,ENT,Surgery,20
+114713,Dr_4712,ENT,Emergency,32
+114714,Dr_4713,Dermatology,Emergency,31
+114715,Dr_4714,Orthopedics,Medicine,19
+114716,Dr_4715,Dermatology,Surgery,31
+114717,Dr_4716,General Medicine,Surgery,28
+114718,Dr_4717,Orthopedics,Diagnostics,22
+114719,Dr_4718,Pediatrics,Medicine,2
+114720,Dr_4719,Orthopedics,Emergency,15
+114721,Dr_4720,Orthopedics,Emergency,11
+114722,Dr_4721,ENT,Outpatient,34
+114723,Dr_4722,Neurology,Emergency,27
+114724,Dr_4723,Neurology,Diagnostics,23
+114725,Dr_4724,Cardiology,Medicine,9
+114726,Dr_4725,ENT,Outpatient,1
+114727,Dr_4726,Neurology,Surgery,33
+114728,Dr_4727,Dermatology,Outpatient,25
+114729,Dr_4728,Oncology,Emergency,8
+114730,Dr_4729,General Medicine,Medicine,21
+114731,Dr_4730,Cardiology,Diagnostics,16
+114732,Dr_4731,Pediatrics,Medicine,9
+114733,Dr_4732,ENT,Medicine,30
+114734,Dr_4733,General Medicine,Outpatient,2
+114735,Dr_4734,ENT,Medicine,12
+114736,Dr_4735,Pediatrics,Outpatient,20
+114737,Dr_4736,Neurology,Outpatient,23
+114738,Dr_4737,Orthopedics,Diagnostics,34
+114739,Dr_4738,General Medicine,Diagnostics,31
+114740,Dr_4739,ENT,Outpatient,35
+114741,Dr_4740,Neurology,Diagnostics,20
+114742,Dr_4741,Neurology,Medicine,19
+114743,Dr_4742,Oncology,Diagnostics,6
+114744,Dr_4743,Cardiology,Emergency,18
+114745,Dr_4744,Orthopedics,Emergency,30
+114746,Dr_4745,ENT,Diagnostics,1
+114747,Dr_4746,General Medicine,Medicine,12
+114748,Dr_4747,ENT,Diagnostics,4
+114749,Dr_4748,Cardiology,Medicine,19
+114750,Dr_4749,Dermatology,Medicine,24
+114751,Dr_4750,General Medicine,Diagnostics,22
+114752,Dr_4751,Pediatrics,Medicine,6
+114753,Dr_4752,Dermatology,Outpatient,17
+114754,Dr_4753,Dermatology,Diagnostics,2
+114755,Dr_4754,Orthopedics,Surgery,13
+114756,Dr_4755,Oncology,Outpatient,2
+114757,Dr_4756,Pediatrics,Medicine,30
+114758,Dr_4757,Neurology,Medicine,26
+114759,Dr_4758,Pediatrics,Emergency,30
+114760,Dr_4759,Neurology,Surgery,14
+114761,Dr_4760,Cardiology,Outpatient,29
+114762,Dr_4761,Oncology,Surgery,12
+114763,Dr_4762,Cardiology,Emergency,25
+114764,Dr_4763,General Medicine,Outpatient,6
+114765,Dr_4764,Cardiology,Diagnostics,29
+114766,Dr_4765,General Medicine,Diagnostics,24
+114767,Dr_4766,Cardiology,Emergency,34
+114768,Dr_4767,General Medicine,Diagnostics,18
+114769,Dr_4768,Cardiology,Emergency,24
+114770,Dr_4769,Orthopedics,Diagnostics,34
+114771,Dr_4770,Cardiology,Outpatient,6
+114772,Dr_4771,Pediatrics,Emergency,14
+114773,Dr_4772,Dermatology,Surgery,1
+114774,Dr_4773,Cardiology,Outpatient,33
+114775,Dr_4774,Pediatrics,Diagnostics,7
+114776,Dr_4775,Cardiology,Medicine,27
+114777,Dr_4776,General Medicine,Medicine,29
+114778,Dr_4777,General Medicine,Diagnostics,26
+114779,Dr_4778,Pediatrics,Medicine,26
+114780,Dr_4779,Dermatology,Surgery,24
+114781,Dr_4780,Oncology,Diagnostics,11
+114782,Dr_4781,Dermatology,Medicine,23
+114783,Dr_4782,Pediatrics,Surgery,8
+114784,Dr_4783,Neurology,Surgery,11
+114785,Dr_4784,General Medicine,Emergency,10
+114786,Dr_4785,General Medicine,Medicine,8
+114787,Dr_4786,Dermatology,Emergency,10
+114788,Dr_4787,ENT,Medicine,35
+114789,Dr_4788,ENT,Outpatient,28
+114790,Dr_4789,Oncology,Outpatient,10
+114791,Dr_4790,ENT,Diagnostics,15
+114792,Dr_4791,ENT,Medicine,30
+114793,Dr_4792,Orthopedics,Medicine,34
+114794,Dr_4793,Neurology,Diagnostics,16
+114795,Dr_4794,Pediatrics,Emergency,3
+114796,Dr_4795,Orthopedics,Emergency,17
+114797,Dr_4796,Dermatology,Outpatient,13
+114798,Dr_4797,General Medicine,Medicine,14
+114799,Dr_4798,Oncology,Surgery,2
+114800,Dr_4799,Orthopedics,Emergency,26
+114801,Dr_4800,General Medicine,Diagnostics,5
+114802,Dr_4801,Oncology,Surgery,6
+114803,Dr_4802,Neurology,Outpatient,20
+114804,Dr_4803,ENT,Medicine,35
+114805,Dr_4804,Neurology,Surgery,35
+114806,Dr_4805,Dermatology,Surgery,21
+114807,Dr_4806,Neurology,Outpatient,20
+114808,Dr_4807,Neurology,Diagnostics,11
+114809,Dr_4808,ENT,Emergency,24
+114810,Dr_4809,ENT,Surgery,1
+114811,Dr_4810,Dermatology,Diagnostics,30
+114812,Dr_4811,Oncology,Surgery,13
+114813,Dr_4812,Pediatrics,Diagnostics,23
+114814,Dr_4813,Neurology,Emergency,8
+114815,Dr_4814,Orthopedics,Medicine,28
+114816,Dr_4815,Orthopedics,Outpatient,31
+114817,Dr_4816,Neurology,Outpatient,5
+114818,Dr_4817,General Medicine,Surgery,24
+114819,Dr_4818,Pediatrics,Medicine,20
+114820,Dr_4819,Cardiology,Outpatient,21
+114821,Dr_4820,Pediatrics,Surgery,15
+114822,Dr_4821,Pediatrics,Outpatient,20
+114823,Dr_4822,Pediatrics,Emergency,18
+114824,Dr_4823,Neurology,Outpatient,27
+114825,Dr_4824,Dermatology,Emergency,26
+114826,Dr_4825,General Medicine,Medicine,7
+114827,Dr_4826,Pediatrics,Emergency,2
+114828,Dr_4827,General Medicine,Diagnostics,35
+114829,Dr_4828,General Medicine,Medicine,11
+114830,Dr_4829,Orthopedics,Outpatient,31
+114831,Dr_4830,Dermatology,Medicine,31
+114832,Dr_4831,ENT,Medicine,25
+114833,Dr_4832,General Medicine,Outpatient,22
+114834,Dr_4833,Oncology,Surgery,31
+114835,Dr_4834,Oncology,Emergency,3
+114836,Dr_4835,ENT,Medicine,14
+114837,Dr_4836,Orthopedics,Outpatient,14
+114838,Dr_4837,Orthopedics,Outpatient,2
+114839,Dr_4838,ENT,Emergency,31
+114840,Dr_4839,Dermatology,Emergency,23
+114841,Dr_4840,Orthopedics,Diagnostics,18
+114842,Dr_4841,Pediatrics,Medicine,5
+114843,Dr_4842,ENT,Emergency,12
+114844,Dr_4843,General Medicine,Emergency,14
+114845,Dr_4844,Orthopedics,Medicine,17
+114846,Dr_4845,General Medicine,Emergency,29
+114847,Dr_4846,General Medicine,Emergency,13
+114848,Dr_4847,Cardiology,Medicine,32
+114849,Dr_4848,Pediatrics,Diagnostics,9
+114850,Dr_4849,ENT,Emergency,17
+114851,Dr_4850,Oncology,Emergency,26
+114852,Dr_4851,Pediatrics,Outpatient,33
+114853,Dr_4852,Orthopedics,Medicine,17
+114854,Dr_4853,Neurology,Emergency,11
+114855,Dr_4854,Orthopedics,Outpatient,30
+114856,Dr_4855,General Medicine,Diagnostics,29
+114857,Dr_4856,Neurology,Outpatient,26
+114858,Dr_4857,Neurology,Diagnostics,29
+114859,Dr_4858,General Medicine,Diagnostics,29
+114860,Dr_4859,Dermatology,Diagnostics,35
+114861,Dr_4860,Pediatrics,Emergency,32
+114862,Dr_4861,ENT,Diagnostics,22
+114863,Dr_4862,Oncology,Medicine,9
+114864,Dr_4863,ENT,Diagnostics,14
+114865,Dr_4864,Orthopedics,Emergency,22
+114866,Dr_4865,Dermatology,Surgery,11
+114867,Dr_4866,Neurology,Medicine,32
+114868,Dr_4867,ENT,Emergency,23
+114869,Dr_4868,Oncology,Outpatient,30
+114870,Dr_4869,General Medicine,Outpatient,14
+114871,Dr_4870,ENT,Diagnostics,21
+114872,Dr_4871,General Medicine,Diagnostics,4
+114873,Dr_4872,Oncology,Medicine,15
+114874,Dr_4873,General Medicine,Outpatient,3
+114875,Dr_4874,Neurology,Surgery,25
+114876,Dr_4875,Orthopedics,Medicine,9
+114877,Dr_4876,Orthopedics,Diagnostics,15
+114878,Dr_4877,Dermatology,Emergency,30
+114879,Dr_4878,Oncology,Diagnostics,13
+114880,Dr_4879,Cardiology,Emergency,14
+114881,Dr_4880,Oncology,Medicine,10
+114882,Dr_4881,Oncology,Diagnostics,35
+114883,Dr_4882,Orthopedics,Medicine,1
+114884,Dr_4883,Pediatrics,Surgery,32
+114885,Dr_4884,Dermatology,Surgery,21
+114886,Dr_4885,Oncology,Outpatient,3
+114887,Dr_4886,Cardiology,Emergency,31
+114888,Dr_4887,Dermatology,Emergency,11
+114889,Dr_4888,Oncology,Surgery,31
+114890,Dr_4889,Dermatology,Diagnostics,8
+114891,Dr_4890,ENT,Diagnostics,23
+114892,Dr_4891,Neurology,Emergency,15
+114893,Dr_4892,General Medicine,Emergency,35
+114894,Dr_4893,Neurology,Diagnostics,13
+114895,Dr_4894,General Medicine,Diagnostics,12
+114896,Dr_4895,Orthopedics,Outpatient,29
+114897,Dr_4896,Neurology,Diagnostics,22
+114898,Dr_4897,General Medicine,Surgery,28
+114899,Dr_4898,Neurology,Surgery,9
+114900,Dr_4899,Oncology,Outpatient,11
+114901,Dr_4900,Neurology,Outpatient,27
+114902,Dr_4901,Cardiology,Surgery,1
+114903,Dr_4902,Dermatology,Outpatient,26
+114904,Dr_4903,Cardiology,Diagnostics,13
+114905,Dr_4904,Oncology,Diagnostics,15
+114906,Dr_4905,Neurology,Surgery,14
+114907,Dr_4906,Oncology,Outpatient,34
+114908,Dr_4907,General Medicine,Medicine,25
+114909,Dr_4908,Neurology,Medicine,25
+114910,Dr_4909,ENT,Diagnostics,28
+114911,Dr_4910,Pediatrics,Surgery,27
+114912,Dr_4911,General Medicine,Diagnostics,33
+114913,Dr_4912,Orthopedics,Surgery,33
+114914,Dr_4913,Cardiology,Surgery,17
+114915,Dr_4914,General Medicine,Surgery,6
+114916,Dr_4915,Oncology,Surgery,18
+114917,Dr_4916,General Medicine,Medicine,8
+114918,Dr_4917,Orthopedics,Outpatient,14
+114919,Dr_4918,Cardiology,Medicine,4
+114920,Dr_4919,Dermatology,Diagnostics,2
+114921,Dr_4920,Cardiology,Medicine,12
+114922,Dr_4921,Pediatrics,Surgery,33
+114923,Dr_4922,Pediatrics,Surgery,15
+114924,Dr_4923,Oncology,Emergency,8
+114925,Dr_4924,ENT,Outpatient,16
+114926,Dr_4925,Pediatrics,Medicine,33
+114927,Dr_4926,Pediatrics,Medicine,2
+114928,Dr_4927,General Medicine,Emergency,16
+114929,Dr_4928,ENT,Diagnostics,23
+114930,Dr_4929,Cardiology,Medicine,32
+114931,Dr_4930,Neurology,Outpatient,2
+114932,Dr_4931,Pediatrics,Outpatient,3
+114933,Dr_4932,Oncology,Emergency,19
+114934,Dr_4933,Cardiology,Surgery,6
+114935,Dr_4934,Pediatrics,Medicine,21
+114936,Dr_4935,ENT,Surgery,27
+114937,Dr_4936,Oncology,Outpatient,12
+114938,Dr_4937,Cardiology,Emergency,6
+114939,Dr_4938,Orthopedics,Outpatient,33
+114940,Dr_4939,Oncology,Medicine,18
+114941,Dr_4940,Orthopedics,Emergency,32
+114942,Dr_4941,Orthopedics,Medicine,18
+114943,Dr_4942,Pediatrics,Surgery,10
+114944,Dr_4943,Orthopedics,Surgery,26
+114945,Dr_4944,ENT,Medicine,7
+114946,Dr_4945,Cardiology,Diagnostics,26
+114947,Dr_4946,Dermatology,Outpatient,35
+114948,Dr_4947,General Medicine,Medicine,29
+114949,Dr_4948,Neurology,Surgery,19
+114950,Dr_4949,General Medicine,Medicine,12
+114951,Dr_4950,Orthopedics,Outpatient,32
+114952,Dr_4951,General Medicine,Outpatient,31
+114953,Dr_4952,Dermatology,Outpatient,24
+114954,Dr_4953,Pediatrics,Emergency,35
+114955,Dr_4954,Cardiology,Diagnostics,15
+114956,Dr_4955,Orthopedics,Outpatient,14
+114957,Dr_4956,Neurology,Outpatient,3
+114958,Dr_4957,Pediatrics,Surgery,2
+114959,Dr_4958,Dermatology,Outpatient,15
+114960,Dr_4959,Dermatology,Diagnostics,20
+114961,Dr_4960,Pediatrics,Outpatient,18
+114962,Dr_4961,ENT,Medicine,12
+114963,Dr_4962,Oncology,Surgery,7
+114964,Dr_4963,Dermatology,Medicine,13
+114965,Dr_4964,Pediatrics,Diagnostics,3
+114966,Dr_4965,ENT,Surgery,19
+114967,Dr_4966,Dermatology,Diagnostics,16
+114968,Dr_4967,Dermatology,Outpatient,23
+114969,Dr_4968,General Medicine,Emergency,31
+114970,Dr_4969,General Medicine,Medicine,15
+114971,Dr_4970,ENT,Emergency,7
+114972,Dr_4971,Cardiology,Medicine,16
+114973,Dr_4972,Neurology,Outpatient,25
+114974,Dr_4973,Pediatrics,Emergency,35
+114975,Dr_4974,General Medicine,Surgery,15
+114976,Dr_4975,Orthopedics,Outpatient,25
+114977,Dr_4976,Neurology,Medicine,34
+114978,Dr_4977,ENT,Surgery,19
+114979,Dr_4978,General Medicine,Surgery,6
+114980,Dr_4979,Pediatrics,Diagnostics,29
+114981,Dr_4980,General Medicine,Emergency,16
+114982,Dr_4981,Dermatology,Diagnostics,25
+114983,Dr_4982,General Medicine,Surgery,2
+114984,Dr_4983,ENT,Outpatient,35
+114985,Dr_4984,Cardiology,Medicine,32
+114986,Dr_4985,Cardiology,Emergency,4
+114987,Dr_4986,ENT,Emergency,20
+114988,Dr_4987,Pediatrics,Emergency,29
+114989,Dr_4988,Dermatology,Medicine,1
+114990,Dr_4989,General Medicine,Surgery,25
+114991,Dr_4990,Cardiology,Diagnostics,7
+114992,Dr_4991,ENT,Diagnostics,15
+114993,Dr_4992,Oncology,Surgery,24
+114994,Dr_4993,Dermatology,Medicine,33
+114995,Dr_4994,Pediatrics,Outpatient,25
+114996,Dr_4995,Dermatology,Surgery,1
+114997,Dr_4996,Oncology,Medicine,22
+114998,Dr_4997,ENT,Diagnostics,27
+114999,Dr_4998,Dermatology,Surgery,29
+115000,Dr_4999,General Medicine,Outpatient,33
